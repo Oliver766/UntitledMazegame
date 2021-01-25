@@ -1,0 +1,778 @@
+﻿Log file open, 02/09/19 08:38:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MazeCreator
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(969259413) SRandInit(969259413).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.397290
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.049s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-9BJK79M (10.50.72.131:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.02.09-08.38.02:020][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.09-08.38.02:020][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.09-08.38.02:028][  0]LogInit: Computer: DESKTOP-9BJK79M
+[2019.02.09-08.38.02:028][  0]LogInit: User: ARU
+[2019.02.09-08.38.02:028][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.02.09-08.38.02:028][  0]LogInit: High frequency timer resolution =2.531254 MHz
+[2019.02.09-08.38.02:028][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.09-08.38.02:028][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.09-08.38.02:028][  0]LogMemory: Process Physical Memory: 274.82 MB used, 274.82 MB peak
+[2019.02.09-08.38.02:028][  0]LogMemory: Process Virtual Memory: 271.37 MB used, 271.37 MB peak
+[2019.02.09-08.38.02:028][  0]LogMemory: Physical Memory: 3715.00 MB used,  12565.35 MB free, 16280.35 MB total
+[2019.02.09-08.38.02:028][  0]LogMemory: Virtual Memory: 4811.70 MB used,  12565.35 MB free, 134217728.00 MB total
+[2019.02.09-08.38.02:044][  0]LogInit: Using OS detected language (en-US).
+[2019.02.09-08.38.02:044][  0]LogInit: Using OS detected locale (en-GB).
+[2019.02.09-08.38.02:046][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.09-08.38.02:394][  0]LogStreaming: Display: Took  0.351s to EndInitTextLocalization.
+[2019.02.09-08.38.02:395][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.09-08.38.02:420][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.09-08.38.02:420][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.09-08.38.02:576][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.09-08.38.02:596][  0]LogD3D11RHI:    0. 'Radeon Pro 560X' (Feature Level 11_0)
+[2019.02.09-08.38.02:596][  0]LogD3D11RHI:       4041/0/8140 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.02.09-08.38.02:598][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.09-08.38.02:598][  0]LogD3D11RHI:       0/0/8140 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.09-08.38.02:598][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.09-08.38.02:604][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.09-08.38.02:604][  0]LogD3D11RHI:     GPU DeviceId: 0x67ef (for the marketing name, search the web for "GPU Device Id")
+[2019.02.09-08.38.02:604][  0]LogWindows: EnumDisplayDevices:
+[2019.02.09-08.38.02:604][  0]LogWindows:    0. 'Radeon Pro 560X' (P:1 D:1)
+[2019.02.09-08.38.02:604][  0]LogWindows:    1. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.09-08.38.02:605][  0]LogWindows:    2. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.09-08.38.02:605][  0]LogWindows:    3. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.09-08.38.02:605][  0]LogWindows:    4. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.09-08.38.02:605][  0]LogWindows:    5. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.09-08.38.02:605][  0]LogWindows:    6. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.09-08.38.02:605][  0]LogWindows:    7. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.09-08.38.02:605][  0]LogWindows:    8. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.09-08.38.02:605][  0]LogWindows:    9. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.09-08.38.02:606][  0]LogWindows:    10. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.09-08.38.02:606][  0]LogWindows:    11. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.09-08.38.02:606][  0]LogWindows:    12. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.09-08.38.02:606][  0]LogWindows:    13. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.09-08.38.02:606][  0]LogWindows:    14. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.09-08.38.02:606][  0]LogWindows:    15. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.09-08.38.02:606][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.02.09-08.38.02:606][  0]LogD3D11RHI:     Adapter Name: Radeon Pro 560X
+[2019.02.09-08.38.02:606][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.02.09-08.38.02:606][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.02.09-08.38.02:606][  0]LogRHI: Texture pool is 2828 MB (70% of 4041 MB)
+[2019.02.09-08.38.02:730][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.09-08.38.02:745][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.02.09-08.38.02:751][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Intermediate/Shaders/WorkingDirectory/10560/).
+[2019.02.09-08.38.02:752][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ARU/AppData/Local/Temp/UnrealShaderWorkingDir/1E2B3172402945A16D4FC195EF9BFBF8/'.
+[2019.02.09-08.38.02:956][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.09-08.38.02:967][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.09-08.38.02:978][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.09-08.38.02:990][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.09-08.38.03:001][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.09-08.38.03:013][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.09-08.38.03:024][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.09-08.38.03:036][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.09-08.38.03:042][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.09-08.38.03:052][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.02.09-08.38.03:061][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.02.09-08.38.03:071][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.02.09-08.38.03:081][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.02.09-08.38.03:090][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.02.09-08.38.03:100][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.02.09-08.38.03:119][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.02.09-08.38.03:120][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.02.09-08.38.03:129][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.09-08.38.03:131][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.09-08.38.03:166][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.09-08.38.03:175][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.09-08.38.03:185][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.09-08.38.03:195][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.09-08.38.03:205][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.09-08.38.03:215][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.09-08.38.03:215][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.09-08.38.03:334][  0]LogXGEController: Cleaning working directory: C:/Users/ARU/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.09-08.38.03:335][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.09-08.38.03:335][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.09-08.38.03:335][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.09-08.38.03:921][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.09-08.38.03:976][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/ARU/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.02.09-08.38.03:976][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ARU/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.02.09-08.38.03:976][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.09-08.38.03:976][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.09-08.38.03:976][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.09-08.38.03:976][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.09-08.38.03:989][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.09-08.38.04:001][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ARU/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.09-08.38.04:001][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.09-08.38.04:001][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.09-08.38.04:010][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.09-08.38.04:010][  0]LogSlate: Using Freetype 2.6.0
+[2019.02.09-08.38.04:011][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.09-08.38.04:011][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.09-08.38.04:130][  0]LogAssetRegistry: FAssetRegistry took 0.0254 seconds to start up
+[2019.02.09-08.38.04:375][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.09-08.38.04:503][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.09-08.38.04:506][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.09-08.38.04:506][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.09-08.38.04:506][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.09-08.38.04:506][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.02.09-08.38.04:506][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.02.09-08.38.04:538][  0]LogNetVersion: MazeCreator , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 122556204)
+[2019.02.09-08.38.05:023][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.057310 seconds
+[2019.02.09-08.38.05:028][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.02.09-08.38.05:028][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2019.02.09-08.38.05:028][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.09-08.38.06:508][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.09-08.38.06:539][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.09-08.38.06:915][  0]SourceControl: Source control is disabled
+[2019.02.09-08.38.06:915][  0]SourceControl: Source control is disabled
+[2019.02.09-08.38.06:935][  0]SourceControl: Source control is disabled
+[2019.02.09-08.38.06:955][  0]SourceControl: Source control is disabled
+[2019.02.09-08.38.07:470][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.09-08.38.07:637][  0]LogOcInput: OculusInput pre-init called
+[2019.02.09-08.38.07:743][  0]LogEngine: Initializing Engine...
+[2019.02.09-08.38.07:744][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.09-08.38.07:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.09-08.38.07:745][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.09-08.38.07:935][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.09-08.38.07:959][  0]LogInit: XAudio2 using 'Speakers (Apple Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.09-08.38.08:014][  0]LogInit: FAudioDevice initialized.
+[2019.02.09-08.38.08:126][  0]LogDerivedDataCache: Saved boot cache 0.11s 74MB C:/Users/ARU/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.02.09-08.38.08:137][  0]LogInit: Texture streaming: Enabled
+[2019.02.09-08.38.08:155][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.09-08.38.08:166][  0]LogInit: Transaction tracking system initialized
+[2019.02.09-08.38.08:193][  0]BlueprintLog: New page: Editor Load
+[2019.02.09-08.38.08:275][  0]LocalizationService: Localization service is disabled
+[2019.02.09-08.38.08:352][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2019.02.09-08.38.08:352][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2019.02.09-08.38.08:352][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2019.02.09-08.38.08:384][  0]LogConsoleResponse: Display: 
+[2019.02.09-08.38.08:524][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.09-08.38.08:524][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.09-08.38.08:524][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.09-08.38.08:524][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.09-08.38.08:524][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.09-08.38.08:950][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/' took 0.02s
+[2019.02.09-08.38.08:950][  0]SourceControl: Source control is disabled
+[2019.02.09-08.38.08:951][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.09-08.38.08:951][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.02.09-08.38.08:951][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.09-08.38.09:004][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 53.227ms to complete.
+[2019.02.09-08.38.09:004][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.054
+[2019.02.09-08.38.09:136][  0]LogCollectionManager: Loaded 0 collections in 0.002099 seconds
+[2019.02.09-08.38.09:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Collections/' took 0.01s
+[2019.02.09-08.38.09:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Developers/ARU/Collections/' took 0.01s
+[2019.02.09-08.38.09:179][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Collections/' took 0.01s
+[2019.02.09-08.38.09:179][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.09-08.38.09:186][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2452 classes and 558 folders.
+[2019.02.09-08.38.09:193][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.09-08.38.09:246][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.09-08.38.09:251][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.02.09-08.38.09:267][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.09-08.38.09:268][  0]LogSlate: Took 0.000125 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.09-08.38.09:272][  0]LogSlate: Took 0.000152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.09-08.38.09:362][  0]LogRenderer: Reallocating scene render targets to support 1072x744 Format 10 NumSamples 1 (Frame:1).
+[2019.02.09-08.38.09:503][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.09-08.38.09:503][  0]LogLoad: (Engine Initialization) Total time: 10.22 seconds
+[2019.02.09-08.38.09:503][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.09-08.38.09:862][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.09-08.38.10:184][  1]LogAssetRegistry: Asset discovery search completed in 6.0760 seconds
+[2019.02.09-08.38.10:185][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.09-08.38.10:185][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2019.02.09-08.38.12:840][  9]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.09-08.38.27:333][630]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.09-08.38.27:354][630]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.09-08.38.30:658][853]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187bff7fdd0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/DefaultContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.02.09-08.38.30:664][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000187bff7fdd0, Size=72
+[2019.02.09-08.38.30:664][853]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187961b4360, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.02.09-08.38.30:670][853]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187c4df1940, Size=72, Default__FirstPerson_AnimBP_C Function /Game/DefaultContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.02.09-08.38.30:713][853]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187922c5120, Size=136, Default__FirstPersonCharacter_C Function /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.02.09-08.38.30:718][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000187922c5120, Size=136
+[2019.02.09-08.38.30:718][853]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018797985f80, Size=136, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_14:ExecuteUbergraph_FirstPersonCharacter
+[2019.02.09-08.38.30:722][853]LogUObjectGlobals: Created PersistentFrame Addr=0x000001879498d1c0, Size=136, Default__FirstPersonCharacter_C Function /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.02.09-08.38.30:739][853]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187c4f17240, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/DefaultContent/AI/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2019.02.09-08.38.30:744][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000187c4f17240, Size=72
+[2019.02.09-08.38.30:744][853]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187c4ef7c40, Size=72, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_1:ExecuteUbergraph_ThirdPerson_AnimBP
+[2019.02.09-08.38.30:748][853]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187c4ec4860, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/DefaultContent/AI/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2019.02.09-08.38.30:754][853]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187c4e07940, Size=32, Default__EnemyAIController_C Function /Game/DefaultContent/AI/EnemyAIController.EnemyAIController_C:ExecuteUbergraph_EnemyAIController
+[2019.02.09-08.38.30:755][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000187c4e07940, Size=32
+[2019.02.09-08.38.30:755][853]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187c4e07940, Size=32, Default__EnemyAIController_C Function /Engine/Transient.REINST_EnemyAIController_C_17:ExecuteUbergraph_EnemyAIController
+[2019.02.09-08.38.30:756][853]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187c4e041e0, Size=32, Default__EnemyAIController_C Function /Game/DefaultContent/AI/EnemyAIController.EnemyAIController_C:ExecuteUbergraph_EnemyAIController
+[2019.02.09-08.38.30:785][853]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187f4c9c8e0, Size=200, Default__Blueprint_Enemy_C Function /Game/Level3/Blueprint_Enemy.Blueprint_Enemy_C:ExecuteUbergraph_Blueprint_Enemy
+[2019.02.09-08.38.30:788][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000187f4c9c8e0, Size=200
+[2019.02.09-08.38.30:788][853]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187f4c9c8e0, Size=200, Default__Blueprint_Enemy_C Function /Engine/Transient.REINST_Blueprint_Enemy_C_19:ExecuteUbergraph_Blueprint_Enemy
+[2019.02.09-08.38.30:789][853]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878ac10800, Size=200, Default__Blueprint_Enemy_C Function /Game/Level3/Blueprint_Enemy.Blueprint_Enemy_C:ExecuteUbergraph_Blueprint_Enemy
+[2019.02.09-08.38.30:834][853]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018781dcdd00, Size=624, Default__Blueprint_Door_C Function /Game/Level2/Blueprint_Door.Blueprint_Door_C:ExecuteUbergraph_Blueprint_Door
+[2019.02.09-08.38.30:841][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018781dcdd00, Size=624
+[2019.02.09-08.38.30:842][853]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018781dcdd00, Size=624, Default__Blueprint_Door_C Function /Engine/Transient.REINST_Blueprint_Door_C_21:ExecuteUbergraph_Blueprint_Door
+[2019.02.09-08.38.30:847][853]LogUObjectGlobals: Created PersistentFrame Addr=0x00000187843d9a80, Size=624, Default__Blueprint_Door_C Function /Game/Level2/Blueprint_Door.Blueprint_Door_C:ExecuteUbergraph_Blueprint_Door
+[2019.02.09-08.38.30:857][853]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018797d5b900, Size=408, Default__Blueprint_Water_C Function /Game/Level3/Blueprint_Water.Blueprint_Water_C:ExecuteUbergraph_Blueprint_Water
+[2019.02.09-08.38.30:862][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018797d5b900, Size=408
+[2019.02.09-08.38.30:862][853]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018797d5b900, Size=408, Default__Blueprint_Water_C Function /Engine/Transient.REINST_Blueprint_Water_C_23:ExecuteUbergraph_Blueprint_Water
+[2019.02.09-08.38.30:865][853]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018797d5a940, Size=408, Default__Blueprint_Water_C Function /Game/Level3/Blueprint_Water.Blueprint_Water_C:ExecuteUbergraph_Blueprint_Water
+[2019.02.09-08.38.30:922][853]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018798dd2078, Size=8, Default__Blueprint_GameManager_C Function /Game/DefaultContent/Blueprint_GameManager.Blueprint_GameManager_C:ExecuteUbergraph_Blueprint_GameManager
+[2019.02.09-08.38.30:925][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018798dd2078, Size=8
+[2019.02.09-08.38.30:925][853]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018798dd2078, Size=8, Default__Blueprint_GameManager_C Function /Engine/Transient.REINST_Blueprint_GameManager_C_27:ExecuteUbergraph_Blueprint_GameManager
+[2019.02.09-08.38.30:927][853]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018798dd1bc0, Size=8, Default__Blueprint_GameManager_C Function /Game/DefaultContent/Blueprint_GameManager.Blueprint_GameManager_C:ExecuteUbergraph_Blueprint_GameManager
+[2019.02.09-08.38.30:931][853]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018797d48db0, Size=52, Default__FirstPersonHUD_C Function /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2019.02.09-08.38.30:933][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018797d48db0, Size=52
+[2019.02.09-08.38.30:933][853]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018797d48db0, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_29:ExecuteUbergraph_FirstPersonHUD
+[2019.02.09-08.38.30:935][853]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018797d4a8d0, Size=52, Default__FirstPersonHUD_C Function /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2019.02.09-08.38.30:970][853]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878afb8540, Size=296, Default__Blueprint_Keycard_C Function /Game/Level3/Blueprint_Keycard.Blueprint_Keycard_C:ExecuteUbergraph_Blueprint_Keycard
+[2019.02.09-08.38.30:975][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001878afb8540, Size=296
+[2019.02.09-08.38.30:975][853]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878afb8540, Size=296, Default__Blueprint_Keycard_C Function /Engine/Transient.REINST_Blueprint_Keycard_C_37:ExecuteUbergraph_Blueprint_Keycard
+[2019.02.09-08.38.30:979][853]LogUObjectGlobals: Created PersistentFrame Addr=0x000001878a8f0900, Size=296, Default__Blueprint_Keycard_C Function /Game/Level3/Blueprint_Keycard.Blueprint_Keycard_C:ExecuteUbergraph_Blueprint_Keycard
+[2019.02.09-08.38.31:088][853]LogSkeletalMesh: Skeletal Mesh found in DDC [9.652528ms] /Game/DefaultContent/AI/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2019.02.09-08.38.31:221][853]LogSkeletalMesh: Skeletal Mesh found in DDC [4.587450ms] /Game/DefaultContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2019.02.09-08.38.31:329][853]LogSkeletalMesh: Skeletal Mesh found in DDC [9.430899ms] /Game/DefaultContent/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2019.02.09-08.38.31:359][853]LogAIModule: Creating AISystem for world MazeMap
+[2019.02.09-08.38.31:411][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000187961b4360, Size=72
+[2019.02.09-08.38.31:411][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018797985f80, Size=136
+[2019.02.09-08.38.31:411][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000187c4ef7c40, Size=72
+[2019.02.09-08.38.31:411][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000187c4e07940, Size=32
+[2019.02.09-08.38.31:411][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000187f4c9c8e0, Size=200
+[2019.02.09-08.38.31:411][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018781dcdd00, Size=624
+[2019.02.09-08.38.31:411][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018797d5b900, Size=408
+[2019.02.09-08.38.31:411][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018798dd2078, Size=8
+[2019.02.09-08.38.31:411][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018797d48db0, Size=52
+[2019.02.09-08.38.31:411][853]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001878afb8540, Size=296
+[2019.02.09-08.38.31:414][853]Cmd: MAP LOAD FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/MazeMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.09-08.38.31:414][853]LightingResults: New page: Lighting Build
+[2019.02.09-08.38.31:416][853]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2019.02.09-08.38.31:417][853]LoadErrors: New page: Loading map: MazeMap.umap
+[2019.02.09-08.38.31:417][853]MapCheck: New page: Map Check
+[2019.02.09-08.38.31:417][853]LightingResults: New page: Lighting Build
+[2019.02.09-08.38.31:462][853]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.09-08.38.31:494][853]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.09-08.38.31:572][853]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.658ms to complete.
+[2019.02.09-08.38.31:572][853]LogFileHelpers: Loading map 'MazeMap' took 0.159
+[2019.02.09-08.38.32:514][915]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Wall_C (Blueprint_Wall19)
+[2019.02.09-08.38.35:139][ 88]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.09-08.38.50:026][636]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.09-08.39.29:880][826]LogSlate: Window 'New Level' being destroyed
+[2019.02.09-08.39.29:892][826]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.09-08.39.29:914][826]LightingResults: New page: Lighting Build
+[2019.02.09-08.39.29:914][826]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.02.09-08.39.29:917][826]MapCheck: New page: Map Check
+[2019.02.09-08.39.29:917][826]LightingResults: New page: Lighting Build
+[2019.02.09-08.39.29:952][826]LogAIModule: Creating AISystem for world Untitled_1
+[2019.02.09-08.39.29:958][826]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.09-08.39.29:973][826]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.09-08.39.30:050][826]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.288ms to complete.
+[2019.02.09-08.39.30:050][826]LogFileHelpers: Loading map 'Template_Default' took 0.160
+[2019.02.09-08.39.48:235][781]LogMetaData: Removing '/Game/Part2/Blueprint_Ceiling.Blueprint_Ceiling_C' ref from Metadata '/Game/Level2/Blueprint_Ceiling.PackageMetaData'
+[2019.02.09-08.39.48:235][781]LogMetaData: Removing '/Game/Part2/Blueprint_Ceiling.SKEL_Blueprint_Ceiling_C:ReceiveBeginPlay' ref from Metadata '/Game/Level2/Blueprint_Ceiling.PackageMetaData'
+[2019.02.09-08.39.48:235][781]LogMetaData: Removing '/Game/Part2/Blueprint_Ceiling.SKEL_Blueprint_Ceiling_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Level2/Blueprint_Ceiling.PackageMetaData'
+[2019.02.09-08.39.48:235][781]LogMetaData: Removing '/Game/Part2/Blueprint_Ceiling.SKEL_Blueprint_Ceiling_C:ReceiveTick' ref from Metadata '/Game/Level2/Blueprint_Ceiling.PackageMetaData'
+[2019.02.09-08.39.48:235][781]LogMetaData: Removing '/Game/Part2/Blueprint_Ceiling.SKEL_Blueprint_Ceiling_C:DefaultSceneRoot1' ref from Metadata '/Game/Level2/Blueprint_Ceiling.PackageMetaData'
+[2019.02.09-08.39.48:235][781]LogMetaData: Removing '/Game/Part2/Blueprint_Ceiling.SKEL_Blueprint_Ceiling_C:Ceiling' ref from Metadata '/Game/Level2/Blueprint_Ceiling.PackageMetaData'
+[2019.02.09-08.39.48:235][781]LogMetaData: Removing '/Game/Part2/Blueprint_Ceiling.SKEL_Blueprint_Ceiling_C:UserConstructionScript' ref from Metadata '/Game/Level2/Blueprint_Ceiling.PackageMetaData'
+[2019.02.09-08.39.48:235][781]LogMetaData: Removing '/Game/Part2/Blueprint_Ceiling.SKEL_Blueprint_Ceiling_C' ref from Metadata '/Game/Level2/Blueprint_Ceiling.PackageMetaData'
+[2019.02.09-08.39.48:235][781]LogMetaData: Removing '/Game/Part2/Blueprint_Ceiling.Blueprint_Ceiling_C:DefaultSceneRoot1' ref from Metadata '/Game/Level2/Blueprint_Ceiling.PackageMetaData'
+[2019.02.09-08.39.48:235][781]LogMetaData: Removing '/Game/Part2/Blueprint_Ceiling.Blueprint_Ceiling_C:Ceiling' ref from Metadata '/Game/Level2/Blueprint_Ceiling.PackageMetaData'
+[2019.02.09-08.39.48:235][781]LogMetaData: Removing '/Game/Part2/Blueprint_Ceiling.Blueprint_Ceiling_C:UserConstructionScript' ref from Metadata '/Game/Level2/Blueprint_Ceiling.PackageMetaData'
+[2019.02.09-08.39.48:239][781]LogMetaData: Removing '/Game/Part2/Blueprint_CeilingLight.Blueprint_CeilingLight_C' ref from Metadata '/Game/Level2/Blueprint_CeilingLight.PackageMetaData'
+[2019.02.09-08.39.48:239][781]LogMetaData: Removing '/Game/Part2/Blueprint_CeilingLight.SKEL_Blueprint_CeilingLight_C:ReceiveBeginPlay' ref from Metadata '/Game/Level2/Blueprint_CeilingLight.PackageMetaData'
+[2019.02.09-08.39.48:239][781]LogMetaData: Removing '/Game/Part2/Blueprint_CeilingLight.SKEL_Blueprint_CeilingLight_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Level2/Blueprint_CeilingLight.PackageMetaData'
+[2019.02.09-08.39.48:239][781]LogMetaData: Removing '/Game/Part2/Blueprint_CeilingLight.SKEL_Blueprint_CeilingLight_C:ReceiveTick' ref from Metadata '/Game/Level2/Blueprint_CeilingLight.PackageMetaData'
+[2019.02.09-08.39.48:239][781]LogMetaData: Removing '/Game/Part2/Blueprint_CeilingLight.SKEL_Blueprint_CeilingLight_C:DefaultSceneRoot1' ref from Metadata '/Game/Level2/Blueprint_CeilingLight.PackageMetaData'
+[2019.02.09-08.39.48:239][781]LogMetaData: Removing '/Game/Part2/Blueprint_CeilingLight.SKEL_Blueprint_CeilingLight_C:Ceiling' ref from Metadata '/Game/Level2/Blueprint_CeilingLight.PackageMetaData'
+[2019.02.09-08.39.48:239][781]LogMetaData: Removing '/Game/Part2/Blueprint_CeilingLight.SKEL_Blueprint_CeilingLight_C:Lamp' ref from Metadata '/Game/Level2/Blueprint_CeilingLight.PackageMetaData'
+[2019.02.09-08.39.48:239][781]LogMetaData: Removing '/Game/Part2/Blueprint_CeilingLight.SKEL_Blueprint_CeilingLight_C:PointLight' ref from Metadata '/Game/Level2/Blueprint_CeilingLight.PackageMetaData'
+[2019.02.09-08.39.48:239][781]LogMetaData: Removing '/Game/Part2/Blueprint_CeilingLight.SKEL_Blueprint_CeilingLight_C:UserConstructionScript' ref from Metadata '/Game/Level2/Blueprint_CeilingLight.PackageMetaData'
+[2019.02.09-08.39.48:239][781]LogMetaData: Removing '/Game/Part2/Blueprint_CeilingLight.SKEL_Blueprint_CeilingLight_C' ref from Metadata '/Game/Level2/Blueprint_CeilingLight.PackageMetaData'
+[2019.02.09-08.39.48:239][781]LogMetaData: Removing '/Game/Part2/Blueprint_CeilingLight.Blueprint_CeilingLight_C:DefaultSceneRoot1' ref from Metadata '/Game/Level2/Blueprint_CeilingLight.PackageMetaData'
+[2019.02.09-08.39.48:239][781]LogMetaData: Removing '/Game/Part2/Blueprint_CeilingLight.Blueprint_CeilingLight_C:Ceiling' ref from Metadata '/Game/Level2/Blueprint_CeilingLight.PackageMetaData'
+[2019.02.09-08.39.48:239][781]LogMetaData: Removing '/Game/Part2/Blueprint_CeilingLight.Blueprint_CeilingLight_C:Lamp' ref from Metadata '/Game/Level2/Blueprint_CeilingLight.PackageMetaData'
+[2019.02.09-08.39.48:239][781]LogMetaData: Removing '/Game/Part2/Blueprint_CeilingLight.Blueprint_CeilingLight_C:PointLight' ref from Metadata '/Game/Level2/Blueprint_CeilingLight.PackageMetaData'
+[2019.02.09-08.39.48:239][781]LogMetaData: Removing '/Game/Part2/Blueprint_CeilingLight.Blueprint_CeilingLight_C:UserConstructionScript' ref from Metadata '/Game/Level2/Blueprint_CeilingLight.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door:StopAudio.K2Node_FunctionEntry_1557' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:BndEvt__BoxCollision_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:BndEvt__BoxCollision_K2Node_ComponentBoundEvent_2_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:ReceiveTick' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:ReceiveBeginPlay' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:ResetMessage' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:MissingMessage' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:DoorLocked' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:KeyIndex' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:Materials' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:KeycardType' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:DoorLocationX' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:IsPlayerNearDoor' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:RotateDoor' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:DefaultSceneRoot1' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:DoorframeA' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:DoorframeB' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:Door' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:Glass' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:BoxCollision' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:AudioDoorOpen' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:KeySlot' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:BlackSlot' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:KeyColour' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C:UserConstructionScript' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.SKEL_Blueprint_Door_C' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:ResetMessage' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:MissingMessage' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:DoorLocked' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:KeyIndex' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:Materials' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:KeycardType' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:DoorLocationX' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:IsPlayerNearDoor' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:RotateDoor' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:DefaultSceneRoot1' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:DoorframeA' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:DoorframeB' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:Door' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:Glass' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:BoxCollision' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:AudioDoorOpen' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:KeySlot' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:BlackSlot' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:KeyColour' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:ReceiveBeginPlay' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:ReceiveTick' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:UserConstructionScript' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:ExecuteUbergraph_Blueprint_Door' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:BndEvt__BoxCollision_K2Node_ComponentBoundEvent_1_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:243][781]LogMetaData: Removing '/Game/Part2/Blueprint_Door.Blueprint_Door_C:BndEvt__BoxCollision_K2Node_ComponentBoundEvent_2_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/Level2/Blueprint_Door.PackageMetaData'
+[2019.02.09-08.39.48:302][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Part2/Blueprint_Ceiling" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part2/Blueprint_Ceiling.uasset" SILENT=true
+[2019.02.09-08.39.48:317][781]LogSavePackage: Save=13.16ms
+[2019.02.09-08.39.48:317][781]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_CeilingEC38D52941C6665F64F736AD2AD1A6E4.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part2/Blueprint_Ceiling.uasset'
+[2019.02.09-08.39.48:319][781]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part2/Blueprint_Ceiling.uasset
+[2019.02.09-08.39.48:322][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2/Blueprint_Ceiling" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_Ceiling.uasset" SILENT=true
+[2019.02.09-08.39.48:336][781]LogSavePackage: Save=0.94ms
+[2019.02.09-08.39.48:336][781]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_Ceiling6EAB9E67455704CDFE60B9A64C376711.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_Ceiling.uasset'
+[2019.02.09-08.39.48:338][781]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_Ceiling.uasset
+[2019.02.09-08.39.48:360][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Part2/Blueprint_CeilingLight" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part2/Blueprint_CeilingLight.uasset" SILENT=true
+[2019.02.09-08.39.48:374][781]LogSavePackage: Save=13.67ms
+[2019.02.09-08.39.48:374][781]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_CeilingLightB353FFFB4D39260F61095FA49FE2EE09.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part2/Blueprint_CeilingLight.uasset'
+[2019.02.09-08.39.48:376][781]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part2/Blueprint_CeilingLight.uasset
+[2019.02.09-08.39.48:380][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2/Blueprint_CeilingLight" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_CeilingLight.uasset" SILENT=true
+[2019.02.09-08.39.48:393][781]LogSavePackage: Save=0.94ms
+[2019.02.09-08.39.48:393][781]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_CeilingLight51FC59834283A33531DC9B8E09D7F7CD.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_CeilingLight.uasset'
+[2019.02.09-08.39.48:395][781]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_CeilingLight.uasset
+[2019.02.09-08.39.48:422][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Part2/Blueprint_Door" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part2/Blueprint_Door.uasset" SILENT=true
+[2019.02.09-08.39.48:486][781]LogSavePackage: Save=62.92ms
+[2019.02.09-08.39.48:486][781]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_DoorCCCED38B4677D59FBF1BD19CB38F1673.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part2/Blueprint_Door.uasset'
+[2019.02.09-08.39.48:488][781]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part2/Blueprint_Door.uasset
+[2019.02.09-08.39.48:502][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2/Blueprint_Door" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_Door.uasset" SILENT=true
+[2019.02.09-08.39.48:515][781]LogSavePackage: Save=0.94ms
+[2019.02.09-08.39.48:515][781]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_Door008016D34CF274AC4D358DB1841BEA34.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_Door.uasset'
+[2019.02.09-08.39.48:517][781]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_Door.uasset
+[2019.02.09-08.40.00:219][423]LogMetaData: Removing '/Game/Part3/Blueprint_Enemy.Blueprint_Enemy_C' ref from Metadata '/Game/Level3/Blueprint_Enemy.PackageMetaData'
+[2019.02.09-08.40.00:219][423]LogMetaData: Removing '/Game/Part3/Blueprint_Enemy.SKEL_Blueprint_Enemy_C:BndEvt__CapsuleCollider_K2Node_ComponentBoundEvent_2_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Level3/Blueprint_Enemy.PackageMetaData'
+[2019.02.09-08.40.00:219][423]LogMetaData: Removing '/Game/Part3/Blueprint_Enemy.SKEL_Blueprint_Enemy_C:BaseLookUpRate' ref from Metadata '/Game/Level3/Blueprint_Enemy.PackageMetaData'
+[2019.02.09-08.40.00:219][423]LogMetaData: Removing '/Game/Part3/Blueprint_Enemy.SKEL_Blueprint_Enemy_C:BaseTurnRate' ref from Metadata '/Game/Level3/Blueprint_Enemy.PackageMetaData'
+[2019.02.09-08.40.00:219][423]LogMetaData: Removing '/Game/Part3/Blueprint_Enemy.SKEL_Blueprint_Enemy_C:CapsuleCollider' ref from Metadata '/Game/Level3/Blueprint_Enemy.PackageMetaData'
+[2019.02.09-08.40.00:219][423]LogMetaData: Removing '/Game/Part3/Blueprint_Enemy.SKEL_Blueprint_Enemy_C:UserConstructionScript' ref from Metadata '/Game/Level3/Blueprint_Enemy.PackageMetaData'
+[2019.02.09-08.40.00:219][423]LogMetaData: Removing '/Game/Part3/Blueprint_Enemy.SKEL_Blueprint_Enemy_C' ref from Metadata '/Game/Level3/Blueprint_Enemy.PackageMetaData'
+[2019.02.09-08.40.00:219][423]LogMetaData: Removing '/Game/Part3/Blueprint_Enemy.Blueprint_Enemy_C:BaseLookUpRate' ref from Metadata '/Game/Level3/Blueprint_Enemy.PackageMetaData'
+[2019.02.09-08.40.00:219][423]LogMetaData: Removing '/Game/Part3/Blueprint_Enemy.Blueprint_Enemy_C:BaseTurnRate' ref from Metadata '/Game/Level3/Blueprint_Enemy.PackageMetaData'
+[2019.02.09-08.40.00:219][423]LogMetaData: Removing '/Game/Part3/Blueprint_Enemy.Blueprint_Enemy_C:CapsuleCollider' ref from Metadata '/Game/Level3/Blueprint_Enemy.PackageMetaData'
+[2019.02.09-08.40.00:220][423]LogMetaData: Removing '/Game/Part3/Blueprint_Enemy.Blueprint_Enemy_C:UserConstructionScript' ref from Metadata '/Game/Level3/Blueprint_Enemy.PackageMetaData'
+[2019.02.09-08.40.00:220][423]LogMetaData: Removing '/Game/Part3/Blueprint_Enemy.Blueprint_Enemy_C:ExecuteUbergraph_Blueprint_Enemy' ref from Metadata '/Game/Level3/Blueprint_Enemy.PackageMetaData'
+[2019.02.09-08.40.00:220][423]LogMetaData: Removing '/Game/Part3/Blueprint_Enemy.Blueprint_Enemy_C:BndEvt__CapsuleCollider_K2Node_ComponentBoundEvent_2_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Level3/Blueprint_Enemy.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.Blueprint_Keycard:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.Blueprint_Keycard_C' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.SKEL_Blueprint_Keycard_C:BndEvt__BoxCollision_K2Node_ComponentBoundEvent_5_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.SKEL_Blueprint_Keycard_C:ReceiveBeginPlay' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.SKEL_Blueprint_Keycard_C:KeyIndex' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.SKEL_Blueprint_Keycard_C:IsPickedUp' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.SKEL_Blueprint_Keycard_C:KeycardType' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.SKEL_Blueprint_Keycard_C:DefaultSceneRoot1' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.SKEL_Blueprint_Keycard_C:KeycardRed' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.SKEL_Blueprint_Keycard_C:KeycardBlue' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.SKEL_Blueprint_Keycard_C:KeycardGreen' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.SKEL_Blueprint_Keycard_C:KeycardYellow' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.SKEL_Blueprint_Keycard_C:BoxCollision' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.SKEL_Blueprint_Keycard_C:Alcove' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.SKEL_Blueprint_Keycard_C:UserConstructionScript' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.SKEL_Blueprint_Keycard_C' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.Blueprint_Keycard_C:KeyIndex' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.Blueprint_Keycard_C:IsPickedUp' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.Blueprint_Keycard_C:KeycardType' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.Blueprint_Keycard_C:DefaultSceneRoot1' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.Blueprint_Keycard_C:KeycardRed' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.Blueprint_Keycard_C:KeycardBlue' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.Blueprint_Keycard_C:KeycardGreen' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.Blueprint_Keycard_C:KeycardYellow' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:223][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.Blueprint_Keycard_C:BoxCollision' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:224][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.Blueprint_Keycard_C:Alcove' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:224][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.Blueprint_Keycard_C:ReceiveBeginPlay' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:224][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.Blueprint_Keycard_C:UserConstructionScript' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:224][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.Blueprint_Keycard_C:ExecuteUbergraph_Blueprint_Keycard' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:224][423]LogMetaData: Removing '/Game/Part3/Blueprint_Keycard.Blueprint_Keycard_C:BndEvt__BoxCollision_K2Node_ComponentBoundEvent_5_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Level3/Blueprint_Keycard.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water_C' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.SKEL_Blueprint_Water_C:ReceiveBeginPlay' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.SKEL_Blueprint_Water_C:ReceiveTick' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.SKEL_Blueprint_Water_C:BndEvt__KillBox_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.SKEL_Blueprint_Water_C:WaterEnabled' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.SKEL_Blueprint_Water_C:CharacterMovement' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.SKEL_Blueprint_Water_C:DeltaSeconds' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.SKEL_Blueprint_Water_C:PlayerSpeedReduce' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.SKEL_Blueprint_Water_C:PlayerSpeedMin' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.SKEL_Blueprint_Water_C:WaterDelayTimer' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.SKEL_Blueprint_Water_C:WaterDelay' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.SKEL_Blueprint_Water_C:WaterSpeed' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.SKEL_Blueprint_Water_C:KillBox' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.SKEL_Blueprint_Water_C:UserConstructionScript' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.SKEL_Blueprint_Water_C' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water_C:WaterEnabled' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water_C:CharacterMovement' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water_C:DeltaSeconds' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water_C:PlayerSpeedReduce' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water_C:PlayerSpeedMin' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water_C:WaterDelayTimer' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water_C:WaterDelay' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water_C:WaterSpeed' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water_C:KillBox' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water_C:ReceiveBeginPlay' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water_C:ReceiveTick' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water_C:UserConstructionScript' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water_C:ExecuteUbergraph_Blueprint_Water' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:227][423]LogMetaData: Removing '/Game/Part3/Blueprint_Water.Blueprint_Water_C:BndEvt__KillBox_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Level3/Blueprint_Water.PackageMetaData'
+[2019.02.09-08.40.00:283][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Part3/Blueprint_Enemy" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part3/Blueprint_Enemy.uasset" SILENT=true
+[2019.02.09-08.40.00:304][423]LogSavePackage: Save=19.50ms
+[2019.02.09-08.40.00:304][423]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_EnemyA97041CC41A9CF3278DC5281457E675B.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part3/Blueprint_Enemy.uasset'
+[2019.02.09-08.40.00:306][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part3/Blueprint_Enemy.uasset
+[2019.02.09-08.40.00:311][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Blueprint_Enemy" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level3/Blueprint_Enemy.uasset" SILENT=true
+[2019.02.09-08.40.00:323][423]LogSavePackage: Save=0.96ms
+[2019.02.09-08.40.00:323][423]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_Enemy609BF3BA4DE95C857175DB9169640D4A.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level3/Blueprint_Enemy.uasset'
+[2019.02.09-08.40.00:325][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level3/Blueprint_Enemy.uasset
+[2019.02.09-08.40.00:353][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Part3/Blueprint_Keycard" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part3/Blueprint_Keycard.uasset" SILENT=true
+[2019.02.09-08.40.00:404][423]LogSavePackage: Save=49.85ms
+[2019.02.09-08.40.00:404][423]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_KeycardAFE66CD24E6D8ED7F57F88BCB8DC9C95.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part3/Blueprint_Keycard.uasset'
+[2019.02.09-08.40.00:406][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part3/Blueprint_Keycard.uasset
+[2019.02.09-08.40.00:409][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Blueprint_Keycard" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level3/Blueprint_Keycard.uasset" SILENT=true
+[2019.02.09-08.40.00:423][423]LogSavePackage: Save=1.06ms
+[2019.02.09-08.40.00:423][423]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_KeycardB193A6A04369E22251430790D8B5DD19.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level3/Blueprint_Keycard.uasset'
+[2019.02.09-08.40.00:425][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level3/Blueprint_Keycard.uasset
+[2019.02.09-08.40.00:451][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Part3/Blueprint_Water" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part3/Blueprint_Water.uasset" SILENT=true
+[2019.02.09-08.40.00:492][423]LogSavePackage: Save=40.01ms
+[2019.02.09-08.40.00:492][423]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_Water97C36537490C3E0B82BE4E8F11B69C72.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part3/Blueprint_Water.uasset'
+[2019.02.09-08.40.00:494][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part3/Blueprint_Water.uasset
+[2019.02.09-08.40.00:497][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level3/Blueprint_Water" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level3/Blueprint_Water.uasset" SILENT=true
+[2019.02.09-08.40.00:511][423]LogSavePackage: Save=1.02ms
+[2019.02.09-08.40.00:511][423]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_WaterD6AB07C8497A34C6809FCD87DC036531.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level3/Blueprint_Water.uasset'
+[2019.02.09-08.40.00:513][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level3/Blueprint_Water.uasset
+[2019.02.09-08.40.02:146][517]LogSlate: Window 'Content Browser' being destroyed
+[2019.02.09-08.40.02:159][517]LogSlate: Window 'Content Browser' being destroyed
+[2019.02.09-08.40.12:026][998]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.09-08.40.19:285][410]LogAIModule: Creating AISystem for world MazeMap
+[2019.02.09-08.40.34:228][410]LogSlate: Window 'Save Content' being destroyed
+[2019.02.09-08.40.34:245][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2/Blueprint_Ceiling" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_Ceiling.uasset" SILENT=true
+[2019.02.09-08.40.34:260][410]LogSavePackage: Save=1.35ms
+[2019.02.09-08.40.34:260][410]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_Ceiling5C81DA8D4817324666B875928E5676F1.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_Ceiling.uasset'
+[2019.02.09-08.40.34:262][410]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_Ceiling.uasset
+[2019.02.09-08.40.34:262][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2/Blueprint_CeilingLight" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_CeilingLight.uasset" SILENT=true
+[2019.02.09-08.40.34:275][410]LogSavePackage: Save=1.18ms
+[2019.02.09-08.40.34:275][410]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_CeilingLightDEA4F8BA4F153E30F53E5280659068BB.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_CeilingLight.uasset'
+[2019.02.09-08.40.34:277][410]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_CeilingLight.uasset
+[2019.02.09-08.40.34:277][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level2/Blueprint_Door" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_Door.uasset" SILENT=true
+[2019.02.09-08.40.34:290][410]LogSavePackage: Save=1.12ms
+[2019.02.09-08.40.34:290][410]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_DoorF2F415564017D859668DE7989A754183.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_Door.uasset'
+[2019.02.09-08.40.34:292][410]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Level2/Blueprint_Door.uasset
+[2019.02.09-08.40.34:293][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Part3/Blueprint_Enemy" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part3/Blueprint_Enemy.uasset" SILENT=true
+[2019.02.09-08.40.34:316][410]LogSavePackage: Save=11.63ms
+[2019.02.09-08.40.34:316][410]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_EnemyD8EEDB504CB22F245AFAD8A4FDFC9B19.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part3/Blueprint_Enemy.uasset'
+[2019.02.09-08.40.34:318][410]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part3/Blueprint_Enemy.uasset
+[2019.02.09-08.40.34:319][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Part3/Blueprint_Water" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part3/Blueprint_Water.uasset" SILENT=true
+[2019.02.09-08.40.34:361][410]LogSavePackage: Save=30.55ms
+[2019.02.09-08.40.34:361][410]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Saved/Blueprint_Water54CEE5574F3107015001648ED46812CA.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part3/Blueprint_Water.uasset'
+[2019.02.09-08.40.34:363][410]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/Part3/Blueprint_Water.uasset
+[2019.02.09-08.40.34:364][410]Cmd: MAP LOAD FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator - Copy/Content/MazeMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.09-08.40.34:364][410]LightingResults: New page: Lighting Build
+[2019.02.09-08.40.34:365][410]LoadErrors: New page: Loading map: MazeMap.umap
+[2019.02.09-08.40.34:365][410]MapCheck: New page: Map Check
+[2019.02.09-08.40.34:365][410]LightingResults: New page: Lighting Build
+[2019.02.09-08.40.34:407][410]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.09-08.40.34:439][410]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.09-08.40.34:516][410]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 77.415ms to complete.
+[2019.02.09-08.40.34:518][410]LogFileHelpers: Loading map 'MazeMap' took 0.155
+[2019.02.09-08.40.48:189][207]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.09-08.40.48:624][207]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.397 s
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: 
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: Ensure condition failed: Found [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\RedirectCollector.cpp] [Line: 184]
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: Cannot remove redirection from /Game/Level2/Blueprint_Ceiling.Blueprint_Ceiling_C, it was not registered
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: Stack: 
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x0000000052B8B706 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x00000000528EAE3A UE4Editor-Core.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x00000000528FECD6 UE4Editor-Core.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000005219E811 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000006E166347 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004E17F1E8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004E17E9A4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004D965987 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004DBC98E2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004DB52002 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004DB55279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004DBD3AF5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004F17B7F7 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004F1A19E8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004EFC485C UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004EF97D75 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004F02F617 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004F017D0D UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004F00B3E2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000007D52E69B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000007D521B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000007D53052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000007D51D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x0000000096356D41 USER32.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x0000000096356713 USER32.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000007D5315C9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004F03AA99 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004EFCE0D2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004DC6C9D9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004E17E47C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000003E23892D UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000003E240D16 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000003E1B3C1E UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000003E1B71D9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000003E23CEC5 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000003E23AA87 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000003E298599 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000003E1B3F92 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000003E1B74A9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000003E23DBD5 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004F17B7F7 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004F1A19E8 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004EFC485C UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004EF97D75 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004F02F617 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004F017D0D UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000004F00B3E2 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000007D52E69B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000007D521B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000007D53052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000007D51D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x0000000096356D41 USER32.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x0000000096356713 USER32.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x000000007D531666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x00000000BEC85475 UE4Editor.exe!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x00000000BEC96BD0 UE4Editor.exe!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x00000000BEC96C4A UE4Editor.exe!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x00000000BECA4177 UE4Editor.exe!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x00000000BECA5B87 UE4Editor.exe!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x0000000096793034 KERNEL32.DLL!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: [Callstack] 0x00000000986F3691 ntdll.dll!UnknownFunction []
+[2019.02.09-08.40.48:624][207]LogOutputDevice: Error: 
+[2019.02.09-08.40.48:626][207]LogStats:                SubmitErrorReport -  0.000 s

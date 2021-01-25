@@ -1,0 +1,1197 @@
+﻿Log file open, 08/07/19 15:53:26
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MazeCreator
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1609260209) SRandInit(-1609260209).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.393351
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.896s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-9BJK79M (192.168.0.19:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.08.07-14.53.28:092][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.07-14.53.28:092][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.08.07-14.53.28:100][  0]LogInit: Computer: DESKTOP-9BJK79M
+[2019.08.07-14.53.28:100][  0]LogInit: User: ARU
+[2019.08.07-14.53.28:100][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.08.07-14.53.28:100][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.08.07-14.53.28:100][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.08.07-14.53.28:100][  0]LogMemory: Platform Memory Stats for Windows
+[2019.08.07-14.53.28:100][  0]LogMemory: Process Physical Memory: 276.61 MB used, 276.61 MB peak
+[2019.08.07-14.53.28:100][  0]LogMemory: Process Virtual Memory: 273.51 MB used, 273.51 MB peak
+[2019.08.07-14.53.28:100][  0]LogMemory: Physical Memory: 4388.88 MB used,  11891.46 MB free, 16280.35 MB total
+[2019.08.07-14.53.28:100][  0]LogMemory: Virtual Memory: 4801.48 MB used,  11891.46 MB free, 134217728.00 MB total
+[2019.08.07-14.53.28:115][  0]LogInit: Using OS detected language (en-US).
+[2019.08.07-14.53.28:115][  0]LogInit: Using OS detected locale (en-GB).
+[2019.08.07-14.53.28:118][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.08.07-14.53.28:452][  0]LogStreaming: Display: Took  0.337s to EndInitTextLocalization.
+[2019.08.07-14.53.28:453][  0]LogInit: Setting process to per monitor DPI aware
+[2019.08.07-14.53.28:525][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.08.07-14.53.28:525][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.08.07-14.53.28:707][  0]LogD3D11RHI: D3D11 adapters:
+[2019.08.07-14.53.28:742][  0]LogD3D11RHI:    0. 'Radeon Pro 560X' (Feature Level 11_0)
+[2019.08.07-14.53.28:742][  0]LogD3D11RHI:       4041/0/8140 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.08.07-14.53.28:744][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.08.07-14.53.28:744][  0]LogD3D11RHI:       0/0/8140 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.08.07-14.53.28:744][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.08.07-14.53.28:749][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.08.07-14.53.28:749][  0]LogD3D11RHI:     GPU DeviceId: 0x67ef (for the marketing name, search the web for "GPU Device Id")
+[2019.08.07-14.53.28:749][  0]LogWindows: EnumDisplayDevices:
+[2019.08.07-14.53.28:749][  0]LogWindows:    0. 'Radeon Pro 560X' (P:1 D:1)
+[2019.08.07-14.53.28:750][  0]LogWindows:    1. 'Radeon Pro 560X' (P:0 D:1)
+[2019.08.07-14.53.28:750][  0]LogWindows:    2. 'Radeon Pro 560X' (P:0 D:0)
+[2019.08.07-14.53.28:750][  0]LogWindows:    3. 'Radeon Pro 560X' (P:0 D:0)
+[2019.08.07-14.53.28:750][  0]LogWindows:    4. 'Radeon Pro 560X' (P:0 D:0)
+[2019.08.07-14.53.28:750][  0]LogWindows:    5. 'Radeon Pro 560X' (P:0 D:0)
+[2019.08.07-14.53.28:750][  0]LogWindows:    6. 'Radeon Pro 560X' (P:0 D:0)
+[2019.08.07-14.53.28:751][  0]LogWindows:    7. 'Radeon Pro 560X' (P:0 D:0)
+[2019.08.07-14.53.28:751][  0]LogWindows:    8. 'Radeon Pro 560X' (P:0 D:0)
+[2019.08.07-14.53.28:751][  0]LogWindows:    9. 'Radeon Pro 560X' (P:0 D:0)
+[2019.08.07-14.53.28:751][  0]LogWindows:    10. 'Radeon Pro 560X' (P:0 D:0)
+[2019.08.07-14.53.28:751][  0]LogWindows:    11. 'Radeon Pro 560X' (P:0 D:0)
+[2019.08.07-14.53.28:751][  0]LogWindows:    12. 'Radeon Pro 560X' (P:0 D:0)
+[2019.08.07-14.53.28:751][  0]LogWindows:    13. 'Radeon Pro 560X' (P:0 D:0)
+[2019.08.07-14.53.28:752][  0]LogWindows:    14. 'Radeon Pro 560X' (P:0 D:0)
+[2019.08.07-14.53.28:752][  0]LogWindows:    15. 'Radeon Pro 560X' (P:0 D:0)
+[2019.08.07-14.53.28:752][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.08.07-14.53.28:752][  0]LogD3D11RHI:     Adapter Name: Radeon Pro 560X
+[2019.08.07-14.53.28:752][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.08.07-14.53.28:752][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.08.07-14.53.28:752][  0]LogRHI: Texture pool is 2828 MB (70% of 4041 MB)
+[2019.08.07-14.53.28:940][  0]LogD3D11RHI: Async texture creation enabled
+[2019.08.07-14.53.28:955][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.08.07-14.53.28:960][  0]LogShaderCompilers: Guid format shader working directory is -71 characters bigger than the processId version (../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Intermediate/Shaders/WorkingDirectory/5128/).
+[2019.08.07-14.53.28:960][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ARU/AppData/Local/Temp/UnrealShaderWorkingDir/B78CEADF46625A55373B97AE9DDC8689/'.
+[2019.08.07-14.53.29:206][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.08.07-14.53.29:217][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.08.07-14.53.29:229][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.08.07-14.53.29:240][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.08.07-14.53.29:252][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.08.07-14.53.29:263][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.08.07-14.53.29:274][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.08.07-14.53.29:285][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.08.07-14.53.29:291][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.08.07-14.53.29:301][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.08.07-14.53.29:311][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.08.07-14.53.29:321][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.08.07-14.53.29:330][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.08.07-14.53.29:340][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.08.07-14.53.29:350][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.08.07-14.53.29:369][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.08.07-14.53.29:370][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.08.07-14.53.29:379][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.08.07-14.53.29:381][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.08.07-14.53.29:415][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.08.07-14.53.29:425][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.08.07-14.53.29:434][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.08.07-14.53.29:444][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.08.07-14.53.29:454][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.08.07-14.53.29:465][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.08.07-14.53.29:465][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.08.07-14.53.29:565][  0]LogXGEController: Cleaning working directory: C:/Users/ARU/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.07-14.53.29:565][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.08.07-14.53.29:565][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.08.07-14.53.29:565][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.08.07-14.53.30:156][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.08.07-14.53.30:204][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/ARU/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.08.07-14.53.30:204][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ARU/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.08.07-14.53.30:205][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.08.07-14.53.30:205][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.08.07-14.53.30:205][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.08.07-14.53.30:205][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.08.07-14.53.30:217][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.08.07-14.53.30:229][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ARU/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.08.07-14.53.30:229][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.08.07-14.53.30:229][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.08.07-14.53.30:238][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.08.07-14.53.30:238][  0]LogSlate: Using Freetype 2.6.0
+[2019.08.07-14.53.30:239][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.07-14.53.30:239][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.08.07-14.53.30:356][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2019.08.07-14.53.30:596][  0]LogInit: Selected Device Profile: [Windows]
+[2019.08.07-14.53.30:719][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.08.07-14.53.30:722][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.08.07-14.53.30:722][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.08.07-14.53.30:722][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.08.07-14.53.30:722][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.08.07-14.53.30:722][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.08.07-14.53.30:758][  0]LogNetVersion: MazeCreator , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 122556204)
+[2019.08.07-14.53.31:240][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.054516 seconds
+[2019.08.07-14.53.31:244][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.08.07-14.53.31:244][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2019.08.07-14.53.31:244][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.08.07-14.53.32:652][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.08.07-14.53.32:679][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.08.07-14.53.32:997][  0]SourceControl: Source control is disabled
+[2019.08.07-14.53.32:997][  0]SourceControl: Source control is disabled
+[2019.08.07-14.53.33:013][  0]SourceControl: Source control is disabled
+[2019.08.07-14.53.33:029][  0]SourceControl: Source control is disabled
+[2019.08.07-14.53.33:482][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.08.07-14.53.33:650][  0]LogOcInput: OculusInput pre-init called
+[2019.08.07-14.53.33:749][  0]LogEngine: Initializing Engine...
+[2019.08.07-14.53.33:750][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.08.07-14.53.33:751][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.07-14.53.33:751][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.07-14.53.33:935][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.08.07-14.53.33:974][  0]LogInit: XAudio2 using 'Speakers (Apple Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.07-14.53.34:036][  0]LogInit: FAudioDevice initialized.
+[2019.08.07-14.53.34:159][  0]LogDerivedDataCache: Saved boot cache 0.12s 74MB C:/Users/ARU/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.08.07-14.53.34:165][  0]LogInit: Texture streaming: Enabled
+[2019.08.07-14.53.34:181][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.08.07-14.53.34:192][  0]LogInit: Transaction tracking system initialized
+[2019.08.07-14.53.34:213][  0]BlueprintLog: New page: Editor Load
+[2019.08.07-14.53.34:280][  0]LocalizationService: Localization service is disabled
+[2019.08.07-14.53.34:348][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2019.08.07-14.53.34:348][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2019.08.07-14.53.34:348][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2019.08.07-14.53.34:370][  0]LogConsoleResponse: Display: 
+[2019.08.07-14.53.34:505][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.08.07-14.53.34:505][  0]LogCook: Display: Mobile HDR setting 1
+[2019.08.07-14.53.34:505][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.08.07-14.53.34:505][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.08.07-14.53.34:505][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.08.07-14.53.34:842][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Content/' took 0.02s
+[2019.08.07-14.53.34:842][  0]SourceControl: Source control is disabled
+[2019.08.07-14.53.34:842][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.08.07-14.53.34:843][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.07-14.53.34:897][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.005ms to complete.
+[2019.08.07-14.53.34:897][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.054
+[2019.08.07-14.53.35:083][  0]LogCollectionManager: Loaded 0 collections in 0.001522 seconds
+[2019.08.07-14.53.35:132][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Saved/Collections/' took 0.01s
+[2019.08.07-14.53.35:132][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Content/Developers/ARU/Collections/' took 0.01s
+[2019.08.07-14.53.35:132][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Content/Collections/' took 0.01s
+[2019.08.07-14.53.35:132][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.08.07-14.53.35:139][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2453 classes and 560 folders.
+[2019.08.07-14.53.35:145][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.07-14.53.35:182][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.07-14.53.35:189][  0]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.08.07-14.53.35:190][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.08.07-14.53.35:196][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.08.07-14.53.35:272][  0]LogRenderer: Reallocating scene render targets to support 1376x656 Format 10 NumSamples 1 (Frame:1).
+[2019.08.07-14.53.35:424][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.08.07-14.53.35:425][  0]LogLoad: (Engine Initialization) Total time: 9.62 seconds
+[2019.08.07-14.53.35:425][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.08.07-14.53.35:452][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.08.07-14.53.35:481][  1]LogAssetRegistry: Asset discovery search completed in 5.1469 seconds
+[2019.08.07-14.53.35:483][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.08.07-14.53.35:483][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2019.08.07-14.53.40:421][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-14.54.00:696][718]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016d9e81aac0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/DefaultContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.08.07-14.54.00:703][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016d9e81aac0, Size=72
+[2019.08.07-14.54.00:703][718]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016d9e79ea20, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.08.07-14.54.00:710][718]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016d9e71fa10, Size=72, Default__FirstPerson_AnimBP_C Function /Game/DefaultContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.08.07-14.54.00:758][718]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016d9e6c9c60, Size=136, Default__FirstPersonCharacter_C Function /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.08.07-14.54.00:763][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016d9e6c9c60, Size=136
+[2019.08.07-14.54.00:763][718]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016d98663380, Size=136, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_4:ExecuteUbergraph_FirstPersonCharacter
+[2019.08.07-14.54.00:767][718]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016d9860bc40, Size=136, Default__FirstPersonCharacter_C Function /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.08.07-14.54.00:838][718]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016d9e733078, Size=52, Default__FirstPersonHUD_C Function /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2019.08.07-14.54.00:840][718]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016d9e733078, Size=52
+[2019.08.07-14.54.00:840][718]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016d9e733078, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_8:ExecuteUbergraph_FirstPersonHUD
+[2019.08.07-14.54.00:842][718]LogUObjectGlobals: Created PersistentFrame Addr=0x0000016d9e7309c0, Size=52, Default__FirstPersonHUD_C Function /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2019.08.07-14.54.00:944][718]LogSkeletalMesh: Skeletal Mesh found in DDC [3.602400ms] /Game/DefaultContent/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2019.08.07-14.54.00:956][718]LogSkeletalMesh: Skeletal Mesh found in DDC [5.092300ms] /Game/DefaultContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2019.08.07-14.54.01:043][718]LogAIModule: Creating AISystem for world MazeMap_2
+[2019.08.07-14.54.02:781][915]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.08.07-14.54.02:854][915]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016d9e79ea20, Size=72
+[2019.08.07-14.54.02:854][915]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016d98663380, Size=136
+[2019.08.07-14.54.02:854][915]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016d9e733078, Size=52
+[2019.08.07-14.54.02:855][915]LogMetaData: Removing '/Game/DefaultContent/MazeMap_2.MazeMap_2_C' ref from Metadata '/Game/Import/MazeMap_2.PackageMetaData'
+[2019.08.07-14.54.02:855][915]LogMetaData: Removing '/Game/DefaultContent/MazeMap_2.SKEL_MazeMap_2_C' ref from Metadata '/Game/Import/MazeMap_2.PackageMetaData'
+[2019.08.07-14.54.03:064][915]LogSavePackage: Save=87.51ms
+[2019.08.07-14.54.03:064][915]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Saved/MazeMap_243F813F742FC421B476D49A42BF7D93A.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Content/DefaultContent/MazeMap_2.umap'
+[2019.08.07-14.54.03:066][915]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Content/DefaultContent/MazeMap_2.umap
+[2019.08.07-14.54.03:071][915]LogFileHelpers: Saving map 'MazeMap_2' took 0.175
+[2019.08.07-14.54.42:623][414]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.07-14.54.50:317][583]LogSlate: Window 'Delete Assets' being destroyed
+[2019.08.07-14.54.50:939][583]LogStaticMesh: Building static mesh 1M_Cube...
+[2019.08.07-14.54.50:941][583]LogStaticMesh: Built static mesh [0.00s] /Game/Import/DefaultContent/Geometry/Meshes/1M_Cube.1M_Cube
+[2019.08.07-14.54.53:985][885]LogSlate: Window 'Content Browser' being destroyed
+[2019.08.07-14.54.53:999][885]LogSlate: Window 'Content Browser' being destroyed
+[2019.08.07-14.55.06:286][253]LogSlate: Window 'Save Content' being destroyed
+[2019.08.07-14.55.09:342][436]LogSlate: Window 'Save Content' being destroyed
+[2019.08.07-14.55.09:525][436]LogSavePackage: Save=71.66ms
+[2019.08.07-14.55.09:525][436]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Saved/MazeMap_27AB02CE94E9F9480D05F7DA49BF46A53.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Content/DefaultContent/MazeMap_2.umap'
+[2019.08.07-14.55.09:528][436]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Content/DefaultContent/MazeMap_2.umap
+[2019.08.07-14.55.09:531][436]LogFileHelpers: Saving map 'MazeMap_2' took 0.173
+[2019.08.07-14.55.09:532][436]LightingResults: New page: Lighting Build
+[2019.08.07-14.55.09:534][436]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2019.08.07-14.55.09:535][436]LoadErrors: New page: Loading map: MazeMap_2.umap
+[2019.08.07-14.55.09:535][436]MapCheck: New page: Map Check
+[2019.08.07-14.55.09:535][436]LightingResults: New page: Lighting Build
+[2019.08.07-14.55.09:547][436]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.07-14.55.09:583][436]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.07-14.55.09:645][436]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.186ms to complete.
+[2019.08.07-14.55.09:646][436]LogFileHelpers: Loading map 'MazeMap_2' took 0.114
+[2019.08.07-14.55.13:247][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-14.55.50:279][946]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.07-14.55.50:298][946]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DefaultContent/MazeMap_2.MazeMap_2:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/MazeMap_2.MazeMap_2:PersistentLevel.MazeMap_2' with GeneratedClass '/Game/DefaultContent/MazeMap_2.MazeMap_2_C' with ClassGeneratedBy '/Game/DefaultContent/MazeMap_2.MazeMap_2:PersistentLevel.MazeMap_2'
+[2019.08.07-14.55.50:299][946]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.07-14.55.50:299][946]PIE: New page: PIE session: MazeMap_2 (7 Aug 2019 16:55:50)
+[2019.08.07-14.55.50:299][946]LogPlayLevel: Creating play world package: /Game/DefaultContent/UEDPIE_0_MazeMap_2
+[2019.08.07-14.55.50:312][946]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012501s)
+[2019.08.07-14.55.50:312][946]LogAIModule: Creating AISystem for world MazeMap_2
+[2019.08.07-14.55.50:312][946]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2019.08.07-14.55.50:313][946]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DefaultContent/MazeMap_2.MazeMap_2 to /Game/DefaultContent/UEDPIE_0_MazeMap_2.MazeMap_2 (0.013502s)
+[2019.08.07-14.55.50:352][946]LogInit: XAudio2 using 'Speakers (Apple Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.07-14.55.50:368][946]LogInit: FAudioDevice initialized.
+[2019.08.07-14.55.50:412][946]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.07-14.55.50:414][946]LogWorld: Bringing World /Game/DefaultContent/UEDPIE_0_MazeMap_2.MazeMap_2 up for play (max tick rate 60) at 2019.08.07-15.55.50
+[2019.08.07-14.55.50:414][946]LogWorld: Bringing up level for play took: 0.001132
+[2019.08.07-14.55.50:417][946]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2019.08.07-14.55.50:418][946]PIE: Play in editor start time for /Game/DefaultContent/UEDPIE_0_MazeMap_2 -0.879
+[2019.08.07-14.55.50:418][946]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DefaultContent/MazeMap_2.MazeMap_2:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/MazeMap_2.MazeMap_2:PersistentLevel.MazeMap_2' with GeneratedClass '/Game/DefaultContent/MazeMap_2.MazeMap_2_C' with ClassGeneratedBy '/Game/DefaultContent/MazeMap_2.MazeMap_2:PersistentLevel.MazeMap_2'
+[2019.08.07-14.55.58:020][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DefaultContent/MazeMap_2.MazeMap_2:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/MazeMap_2.MazeMap_2:PersistentLevel.MazeMap_2' with GeneratedClass '/Game/DefaultContent/MazeMap_2.MazeMap_2_C' with ClassGeneratedBy '/Game/DefaultContent/MazeMap_2.MazeMap_2:PersistentLevel.MazeMap_2'
+[2019.08.07-14.55.58:056][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DefaultContent/MazeMap_2.MazeMap_2:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/MazeMap_2.MazeMap_2:PersistentLevel.MazeMap_2' with GeneratedClass '/Game/DefaultContent/MazeMap_2.MazeMap_2_C' with ClassGeneratedBy '/Game/DefaultContent/MazeMap_2.MazeMap_2:PersistentLevel.MazeMap_2'
+[2019.08.07-14.56.06:835][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-14.56.07:077][922]LogSavePackage: Save=80.61ms
+[2019.08.07-14.56.07:077][922]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Saved/MazeMap_24F72778944875AB20CA4FB88026FBE6C.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Content/DefaultContent/MazeMap_2.umap'
+[2019.08.07-14.56.07:080][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Content/DefaultContent/MazeMap_2.umap
+[2019.08.07-14.56.11:928][159]LogSlate: Window 'New Level' being destroyed
+[2019.08.07-14.56.11:939][159]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.07-14.56.11:977][159]LightingResults: New page: Lighting Build
+[2019.08.07-14.56.11:977][159]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.08.07-14.56.11:979][159]MapCheck: New page: Map Check
+[2019.08.07-14.56.11:979][159]LightingResults: New page: Lighting Build
+[2019.08.07-14.56.12:033][159]LogAIModule: Creating AISystem for world Untitled_1
+[2019.08.07-14.56.12:040][159]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.07-14.56.12:053][159]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.07-14.56.12:118][159]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.896ms to complete.
+[2019.08.07-14.56.12:118][159]LogFileHelpers: Loading map 'Template_Default' took 0.179
+[2019.08.07-14.56.34:333][962]LogAIModule: Creating AISystem for world MazeMap_2
+[2019.08.07-14.56.34:416][962]LogMetaData: Removing '/Game/DefaultContent/DefaultMap.DefaultMap_C' ref from Metadata '/Game/DefaultContent/MazeMap_2.PackageMetaData'
+[2019.08.07-14.56.34:416][962]LogMetaData: Removing '/Game/DefaultContent/DefaultMap.SKEL_DefaultMap_C' ref from Metadata '/Game/DefaultContent/MazeMap_2.PackageMetaData'
+[2019.08.07-14.56.34:612][962]LogSavePackage: Save=88.38ms
+[2019.08.07-14.56.34:612][962]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Saved/DefaultMap765426C5465551B80D6A0FA637B65D4E.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Content/DefaultContent/DefaultMap.umap'
+[2019.08.07-14.56.34:615][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Content/DefaultContent/DefaultMap.umap
+[2019.08.07-14.56.34:619][962]LogFileHelpers: Saving map 'DefaultMap' took 0.176
+[2019.08.07-14.56.48:406][119]LightingResults: New page: Lighting Build
+[2019.08.07-14.56.48:407][119]LoadErrors: New page: Loading map: DefaultMap.umap
+[2019.08.07-14.56.48:407][119]MapCheck: New page: Map Check
+[2019.08.07-14.56.48:407][119]LightingResults: New page: Lighting Build
+[2019.08.07-14.56.48:418][119]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.07-14.56.48:456][119]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.07-14.56.48:525][119]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.862ms to complete.
+[2019.08.07-14.56.48:526][119]LogFileHelpers: Loading map 'DefaultMap' took 0.120
+[2019.08.07-14.56.55:641][614]LogSlate: Window 'New Level' being destroyed
+[2019.08.07-14.56.55:652][614]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.08.07-14.56.55:690][614]LightingResults: New page: Lighting Build
+[2019.08.07-14.56.55:691][614]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.08.07-14.56.55:691][614]MapCheck: New page: Map Check
+[2019.08.07-14.56.55:691][614]LightingResults: New page: Lighting Build
+[2019.08.07-14.56.55:717][614]LogAIModule: Creating AISystem for world Untitled_2
+[2019.08.07-14.56.55:721][614]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.07-14.56.55:734][614]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.07-14.56.55:798][614]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.528ms to complete.
+[2019.08.07-14.56.55:798][614]LogFileHelpers: Loading map 'Template_Default' took 0.147
+[2019.08.07-14.57.07:027][491]LogSlate: Window 'Asset Report' being destroyed
+[2019.08.07-14.58.30:015][776]LogSlate: Window 'Asset Report' being destroyed
+[2019.08.07-14.58.43:860][776]LogSlate: Window 'Message' being destroyed
+[2019.08.07-14.58.44:573][776]AssetTools: New page: Content migration completed successfully!
+[2019.08.07-14.58.44:573][776]AssetTools: /Game/DefaultContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton
+[2019.08.07-14.58.44:573][776]AssetTools: /Game/DefaultContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms
+[2019.08.07-14.58.44:573][776]AssetTools: /Game/DefaultContent/FirstPerson/Character/Materials/M_UE4Man_Body
+[2019.08.07-14.58.44:573][776]AssetTools: /Game/DefaultContent/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2019.08.07-14.58.44:573][776]AssetTools: /Game/DefaultContent/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D
+[2019.08.07-14.58.44:573][776]AssetTools: /Game/DefaultContent/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N
+[2019.08.07-14.58.44:573][776]AssetTools: /Game/DefaultContent/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2019.08.07-14.58.44:573][776]AssetTools: /Game/DefaultContent/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO
+[2019.08.07-14.58.44:573][776]AssetTools: /Game/DefaultContent/FirstPerson/Character/Textures/UE4_LOGO_CARD
+[2019.08.07-14.58.44:573][776]AssetTools: /Game/DefaultContent/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2019.08.07-14.58.44:573][776]AssetTools: /Game/DefaultContent/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01
+[2019.08.07-14.58.44:573][776]AssetTools: /Game/DefaultContent/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N
+[2019.08.07-14.58.44:573][776]AssetTools: /Game/DefaultContent/FirstPerson/Character/Textures/UE4_Mannequin__normals
+[2019.08.07-14.58.44:573][776]AssetTools: /Game/DefaultContent/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/Animations/FirstPerson_Idle
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/Animations/FirstPerson_JumpEnd
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/Animations/FirstPerson_JumpLoop
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/Animations/FirstPerson_JumpStart
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/Animations/FirstPerson_Run
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/Animations/FirstPerson_AnimBP
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/FPWeapon/Textures/T_FPGun_M
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/FPWeapon/Textures/T_FPGun_N
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/FPWeapon/Materials/M_FPGun
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/FPWeapon/Mesh/SK_FPGun
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonCharacter
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/Textures/FirstPersonCrosshair
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonHUD
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/Geometry/Meshes/1M_Cube
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/Geometry/Meshes/CubeMaterial
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonGameMode
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/Materials/M_Arena
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/DefaultMap
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Animations/ThirdPersonIdle
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Mesh/SK_Mannequin
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Materials/M_UE4Man_Body
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Textures/UE4_LOGO_CARD
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Textures/UE4_Mannequin__normals
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Materials/M_UE4Man_ChestLogo
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Textures/UE4Man_Logo_N
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Animations/ThirdPersonJump_Loop
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Animations/ThirdPersonJump_Start
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Animations/ThirdPersonRun
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Animations/ThirdPersonWalk
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Animations/ThirdPerson_AnimBP
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Animations/ThirdPerson_Jump
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/Mannequin/Animations/ThirdPerson_IdleRun_2D
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/AI/ThirdPersonBP/Blueprints/ThirdPersonCharacter
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/Data/KeycardType
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/Animations/FirstPersonFire_Montage
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/Animations/FirstPerson_Fire
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/Audio/FirstPersonTemplateWeaponFire02
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/Meshes/BaseMaterial
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/Meshes/CubeMaterialOverride
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/Meshes/FirstPersonProjectileMaterial
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPerson/Meshes/FirstPersonProjectileMesh
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonProjectile
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/Geometry/Meshes/1M_Cube_Chamfer
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/Geometry/Meshes/TemplateFloor
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/Materials/M_ColourBlack
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/Materials/M_ColourBlue
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/Materials/M_ColourGreen
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/Materials/M_ColourRed
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/Materials/M_ColourYellow
+[2019.08.07-14.58.44:574][776]AssetTools: /Game/DefaultContent/Materials/M_Warning1
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/Materials/M_Warning2
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/Materials/M_Warning3
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/Materials/M_Warning4
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/Materials/M_Warning5
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/Materials/M_Warning6
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/Materials/M_Warning7
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/Materials/M_Warning8
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/Materials/M_Warning9
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Collapse01
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Collapse02
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Collapse_Cue
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Explosion01
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Explosion02
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Explosion_Cue
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Fire01
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Fire01_Cue
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Fire_Sparks01
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Fire_Sparks01_Cue
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Light01
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Light01_Cue
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Light02
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Light02_Cue
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Smoke01
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Smoke01_Cue
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Starter_Background_Cue
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Starter_Birds01
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Starter_Wind05
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Starter_Wind06
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Starter_Music01
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Starter_Music_Cue
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Steam01
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Audio/Steam01_Cue
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Blueprints/Blueprint_Effect_Explosion
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Particles/P_Explosion
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Particles/Materials/M_Burst
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Burst_M
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Particles/Materials/M_explosion_subUV
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Explosion_SubUV
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Particles/Materials/m_flare_01
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Particles/Materials/M_radial_ramp
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Particles/Materials/M_smoke_subUV
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Smoke_SubUV
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Smoke_Tiled_D
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Blueprints/Blueprint_Effect_Fire
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Particles/P_Fire
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Particles/Materials/M_Fire_SubUV
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Fire_SubUV
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Fire_Tiled_D
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Particles/Materials/M_Heat_Distortion
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Water_N
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Particles/Materials/M_Radial_Gradient
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Blueprints/Blueprint_Effect_Smoke
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Particles/P_Smoke
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Blueprints/Blueprint_Effect_Sparks
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Particles/P_Sparks
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Particles/Materials/M_Spark
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Spark_Core
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Blueprints/Blueprint_Effect_Steam
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Particles/P_Steam_Lit
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Blueprints/BP_LightStudio
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Blueprints/Assets/FogBrightnessLUT
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Blueprints/Assets/SunlightColorLUT
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Blueprints/Assets/M_LightStage_Arrows
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Blueprints/Assets/Skybox
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Blueprints/Assets/SM_Arrows
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_AssetPlatform
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Basic_Floor
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Basic_Wall
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Brick_Clay_Beveled
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Brick_Clay_Beveled_D
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Brick_Clay_Beveled_M
+[2019.08.07-14.58.44:575][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Brick_Clay_Beveled_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_MacroVariation
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Brick_Clay_New
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Brick_Clay_New_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Brick_Clay_New_M
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Brick_Clay_New_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Detail_Rocky_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Brick_Clay_Old
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Brick_Clay_Old_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Brick_Clay_Old_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Perlin_Noise_M
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Brick_Cut_Stone
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Brick_Cut_Stone_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Brick_Cut_Stone_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Brick_Hewn_Stone
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Brick_Hewn_Stone_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Brick_Hewn_Stone_M
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Brick_Hewn_Stone_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Ceramic_Tile_Checker
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Ceramic_Tile_M
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Ceramic_Tile_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Rock_Marble_Polished_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_CobbleStone_Pebble
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_CobbleStone_Pebble_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_CobbleStone_Pebble_M
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_CobbleStone_Pebble_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_CobbleStone_Rough
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_CobbleStone_Rough_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_CobbleStone_Rough_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Gradinet_01
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Rock_Smooth_Granite_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_CobbleStone_Smooth
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_CobbleStone_Smooth_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_CobbleStone_Smooth_M
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_CobbleStone_Smooth_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_ColorGrid_LowSpec
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Concrete_Grime
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Concrete_Grime_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Metal_Rust_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Concrete_Panels
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Concrete_Panels_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Concrete_Panels_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Concrete_Poured
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Concrete_Poured_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Concrete_Poured_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Concrete_Tiles
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Concrete_Tiles_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Concrete_Tiles_M
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Concrete_Tiles_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Concrete_Tiles_Variation_M
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Glass
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Ground_Grass
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Ground_Grass_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Ground_Grass_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Ground_Gravel
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Ground_Gravel_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Ground_Gravel_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Ground_Moss
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_ground_Moss_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Ground_Moss_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Metal_Brushed_Nickel
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Metal_Burnished_Steel
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Metal_Aluminum_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Metal_Gold_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Metal_Chrome
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Metal_Copper
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Metal_Copper_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Metal_Gold
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Metal_Gold_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Metal_Rust
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Metal_Rust_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Metal_Steel
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Metal_Steel_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Metal_Steel_N
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Rock_Basalt
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Rock_Basalt_D
+[2019.08.07-14.58.44:576][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Rock_Basalt_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Rock_Marble_Polished
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Rock_Sandstone
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Rock_Sandstone_D
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Rock_Sandstone_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Rock_Slate
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Rock_Slate_D
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Rock_Slate_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Tech_Checker_Dot
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Checker_Noise_M
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Single_Tile_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Tech_Dot_M
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Tech_Dot_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Tech_Hex_Tile
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Tech_Hex_Tile_M
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Tech_Hex_Tile_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Tech_Hex_Tile_Pulse
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Tech_Panel
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Tech_Panel_M
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Tech_Panel_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Water_Lake
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Water_Ocean
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Water_M
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Wood_Floor_Walnut_Polished
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Wood_Floor_Walnut_D
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Wood_Floor_Walnut_M
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Wood_Floor_Walnut_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Wood_Floor_Walnut_Worn
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Wood_Oak
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Wood_Oak_D
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Wood_Oak_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Wood_Pine
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Wood_Pine_D
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Wood_Pine_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Materials/M_Wood_Walnut
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Wood_Walnut_D
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Wood_Walnut_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Particles/P_Ambient_Dust
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Particles/Materials/M_Dust_Particle
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Dust_Particle_D
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/MaterialSphere
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_Bush
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/Materials/M_Bush
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Bush_D
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Bush_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_Chair
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/Materials/M_Chair
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Chair_M
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Chair_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_CornerFrame
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/Materials/M_Frame
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Frame_M
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Frame_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_Couch
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_Door
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/Materials/M_Door
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Door_M
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Door_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_DoorFrame
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_GlassWindow
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_Lamp_Ceiling
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/Materials/M_Lamp
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Lamp_M
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Lamp_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_Lamp_Wall
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_MatPreviewMesh_02
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/Materials/M_MaterialSphere
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/Materials/M_MaterialSphere_Plain
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_PillarFrame
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_PillarFrame300
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_Rock
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/Materials/M_Rock
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_RockMesh_M
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_RockMesh_N
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_Shelf
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Props/Materials/M_Shelf
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Shelf_M
+[2019.08.07-14.58.44:577][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Shelf_N
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_Stairs
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_Statue
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Props/Materials/M_Statue
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Statue_M
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_Statue_N
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Props/Materials/M_StatueGlass
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_TableRound
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Props/Materials/M_TableRound
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_TableRound_M
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Textures/T_TableRound_N
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Props/SM_WindowFrame
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_Cone
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_Cube
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_Cylinder
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_Disc
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_NarrowCapsule
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_Pipe
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_Pipe_180
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_Pipe_90
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_Plane
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_QuadPyramid
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_Sphere
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_Torus
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_Trim
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_Trim_90_In
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_Trim_90_Out
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_TriPyramid
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_Tube
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_Wedge_A
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_Wedge_B
+[2019.08.07-14.58.44:578][776]AssetTools: /Game/DefaultContent/StarterContent/Shapes/Shape_WideCapsule
+[2019.08.07-15.01.13:479][849]LogAIModule: Creating AISystem for world DefaultMap
+[2019.08.07-15.01.13:504][849]LightingResults: New page: Lighting Build
+[2019.08.07-15.01.13:504][849]LoadErrors: New page: Loading map: DefaultMap.umap
+[2019.08.07-15.01.13:505][849]MapCheck: New page: Map Check
+[2019.08.07-15.01.13:505][849]LightingResults: New page: Lighting Build
+[2019.08.07-15.01.13:516][849]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.08.07-15.01.13:553][849]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.08.07-15.01.13:616][849]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 64.188ms to complete.
+[2019.08.07-15.01.13:617][849]LogFileHelpers: Loading map 'DefaultMap' took 0.113
+[2019.08.07-15.01.14:747][936]LogTemp: Repeating last play command: Selected Viewport
+[2019.08.07-15.01.14:764][936]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/DefaultContent/DefaultMap.DefaultMap:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/DefaultMap.DefaultMap:PersistentLevel.DefaultMap' with GeneratedClass '/Game/DefaultContent/DefaultMap.DefaultMap_C' with ClassGeneratedBy '/Game/DefaultContent/DefaultMap.DefaultMap:PersistentLevel.DefaultMap'
+[2019.08.07-15.01.14:764][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.08.07-15.01.14:764][936]PIE: New page: PIE session: DefaultMap (7 Aug 2019 17:01:14)
+[2019.08.07-15.01.14:764][936]LogPlayLevel: Creating play world package: /Game/DefaultContent/UEDPIE_0_DefaultMap
+[2019.08.07-15.01.14:779][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014385s)
+[2019.08.07-15.01.14:780][936]LogAIModule: Creating AISystem for world DefaultMap
+[2019.08.07-15.01.14:780][936]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2019.08.07-15.01.14:780][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DefaultContent/DefaultMap.DefaultMap to /Game/DefaultContent/UEDPIE_0_DefaultMap.DefaultMap (0.015688s)
+[2019.08.07-15.01.14:812][936]LogInit: XAudio2 using 'Speakers (Apple Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.08.07-15.01.14:825][936]LogInit: FAudioDevice initialized.
+[2019.08.07-15.01.14:856][936]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.08.07-15.01.14:857][936]LogWorld: Bringing World /Game/DefaultContent/UEDPIE_0_DefaultMap.DefaultMap up for play (max tick rate 0) at 2019.08.07-16.01.14
+[2019.08.07-15.01.14:858][936]LogWorld: Bringing up level for play took: 0.001016
+[2019.08.07-15.01.14:858][936]PIE: Play in editor start time for /Game/DefaultContent/UEDPIE_0_DefaultMap -0.438
+[2019.08.07-15.01.14:859][936]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/DefaultContent/DefaultMap.DefaultMap:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/DefaultMap.DefaultMap:PersistentLevel.DefaultMap' with GeneratedClass '/Game/DefaultContent/DefaultMap.DefaultMap_C' with ClassGeneratedBy '/Game/DefaultContent/DefaultMap.DefaultMap:PersistentLevel.DefaultMap'
+[2019.08.07-15.01.17:779][223]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/DefaultContent/DefaultMap.DefaultMap:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/DefaultMap.DefaultMap:PersistentLevel.DefaultMap' with GeneratedClass '/Game/DefaultContent/DefaultMap.DefaultMap_C' with ClassGeneratedBy '/Game/DefaultContent/DefaultMap.DefaultMap:PersistentLevel.DefaultMap'
+[2019.08.07-15.01.17:821][223]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/DefaultContent/DefaultMap.DefaultMap:PersistentLevel' has LevelScriptBlueprint '/Game/DefaultContent/DefaultMap.DefaultMap:PersistentLevel.DefaultMap' with GeneratedClass '/Game/DefaultContent/DefaultMap.DefaultMap_C' with ClassGeneratedBy '/Game/DefaultContent/DefaultMap.DefaultMap:PersistentLevel.DefaultMap'
+[2019.08.07-15.01.19:597][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.07-15.03.34:452][  9]LogSlate: Window 'MazeCreator - Unreal Editor' being destroyed
+[2019.08.07-15.03.34:453][  9]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.08.07-15.03.34:668][ 10]Cmd: QUIT_EDITOR
+[2019.08.07-15.03.35:183][ 10]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.08.07-15.03.35:184][ 10]LogExit: Preparing to exit.
+[2019.08.07-15.03.36:005][ 10]LogDirectoryWatcher: A directory notification for 'C:/Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Content/' was aborted.
+[2019.08.07-15.03.36:017][ 10]LogExit: Editor shut down
+[2019.08.07-15.03.36:020][ 10]LogExit: Transaction tracking system shut down
+[2019.08.07-15.03.36:021][ 10]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016d9e71fa10, Size=72
+[2019.08.07-15.03.36:021][ 10]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016d9860bc40, Size=136
+[2019.08.07-15.03.36:021][ 10]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000016d9e7309c0, Size=52
+[2019.08.07-15.03.36:190][ 10]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2019.08.07-15.03.36:191][ 10]LogDirectoryWatcher: A directory notification for '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Content/' was aborted.
+[2019.08.07-15.03.36:191][ 10]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2019.08.07-15.03.36:191][ 10]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2019.08.07-15.03.36:191][ 10]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2019.08.07-15.03.36:191][ 10]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2019.08.07-15.03.36:191][ 10]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2019.08.07-15.03.36:191][ 10]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2019.08.07-15.03.36:247][ 10]LogExit: Object subsystem successfully closed.
+[2019.08.07-15.03.36:294][ 10]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.08.07-15.03.36:298][ 10]LogD3D11RHI: Shutdown
+[2019.08.07-15.03.36:298][ 10]LogD3D11RHI: CleanupD3DDevice
+[2019.08.07-15.03.36:302][ 10]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.08.07-15.03.36:321][ 10]LogModuleManager: Shutting down and abandoning module NewLevelDialog (580)
+[2019.08.07-15.03.36:321][ 10]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (578)
+[2019.08.07-15.03.36:321][ 10]LogModuleManager: Shutting down and abandoning module StatsViewer (576)
+[2019.08.07-15.03.36:321][ 10]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (574)
+[2019.08.07-15.03.36:322][ 10]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (572)
+[2019.08.07-15.03.36:322][ 10]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2019.08.07-15.03.36:322][ 10]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2019.08.07-15.03.36:322][ 10]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2019.08.07-15.03.36:322][ 10]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2019.08.07-15.03.36:322][ 10]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2019.08.07-15.03.36:322][ 10]LogDirectoryWatcher: A directory notification for 'C:/Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Content/Collections/' was aborted.
+[2019.08.07-15.03.36:322][ 10]LogDirectoryWatcher: A directory notification for 'C:/Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Content/Developers/ARU/Collections/' was aborted.
+[2019.08.07-15.03.36:322][ 10]LogDirectoryWatcher: A directory notification for 'C:/Users/ARU/Documents/Unreal Projects/MazeCreator REAL/MazeCreator REAL - Copy - Copy - Copy - Copy/Saved/Collections/' was aborted.
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module SceneOutliner (562)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2019.08.07-15.03.36:323][ 10]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2019.08.07-15.03.36:324][ 10]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2019.08.07-15.03.36:324][ 10]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2019.08.07-15.03.36:324][ 10]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2019.08.07-15.03.36:324][ 10]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2019.08.07-15.03.36:324][ 10]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2019.08.07-15.03.36:324][ 10]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2019.08.07-15.03.36:324][ 10]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2019.08.07-15.03.36:324][ 10]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2019.08.07-15.03.36:324][ 10]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2019.08.07-15.03.36:324][ 10]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2019.08.07-15.03.36:684][ 10]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2019.08.07-15.03.36:750][ 10]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2019.08.07-15.03.36:750][ 10]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2019.08.07-15.03.36:750][ 10]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2019.08.07-15.03.36:750][ 10]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2019.08.07-15.03.36:750][ 10]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2019.08.07-15.03.36:750][ 10]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2019.08.07-15.03.36:750][ 10]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2019.08.07-15.03.36:750][ 10]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2019.08.07-15.03.36:750][ 10]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2019.08.07-15.03.36:750][ 10]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2019.08.07-15.03.36:751][ 10]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2019.08.07-15.03.36:813][ 10]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2019.08.07-15.03.36:827][ 10]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2019.08.07-15.03.36:827][ 10]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2019.08.07-15.03.36:827][ 10]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2019.08.07-15.03.36:827][ 10]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2019.08.07-15.03.36:827][ 10]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2019.08.07-15.03.36:827][ 10]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2019.08.07-15.03.36:827][ 10]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2019.08.07-15.03.36:827][ 10]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2019.08.07-15.03.36:827][ 10]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2019.08.07-15.03.36:827][ 10]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2019.08.07-15.03.36:827][ 10]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2019.08.07-15.03.36:827][ 10]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2019.08.07-15.03.36:827][ 10]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2019.08.07-15.03.36:827][ 10]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2019.08.07-15.03.36:828][ 10]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2019.08.07-15.03.36:929][ 10]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2019.08.07-15.03.37:030][ 10]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2019.08.07-15.03.37:030][ 10]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2019.08.07-15.03.37:030][ 10]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2019.08.07-15.03.37:030][ 10]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2019.08.07-15.03.37:030][ 10]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2019.08.07-15.03.37:030][ 10]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2019.08.07-15.03.37:031][ 10]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2019.08.07-15.03.37:031][ 10]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2019.08.07-15.03.37:031][ 10]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2019.08.07-15.03.37:031][ 10]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2019.08.07-15.03.37:031][ 10]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2019.08.07-15.03.37:033][ 10]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2019.08.07-15.03.37:033][ 10]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2019.08.07-15.03.37:033][ 10]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2019.08.07-15.03.37:033][ 10]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2019.08.07-15.03.37:739][ 10]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2019.08.07-15.03.37:739][ 10]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2019.08.07-15.03.37:739][ 10]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2019.08.07-15.03.37:750][ 10]LogModuleManager: Shutting down and abandoning module Media (233)
+[2019.08.07-15.03.37:758][ 10]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2019.08.07-15.03.37:758][ 10]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2019.08.07-15.03.37:758][ 10]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2019.08.07-15.03.37:758][ 10]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2019.08.07-15.03.37:758][ 10]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2019.08.07-15.03.37:758][ 10]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2019.08.07-15.03.37:758][ 10]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2019.08.07-15.03.37:758][ 10]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2019.08.07-15.03.37:758][ 10]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2019.08.07-15.03.37:758][ 10]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2019.08.07-15.03.37:758][ 10]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2019.08.07-15.03.37:758][ 10]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2019.08.07-15.03.37:758][ 10]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2019.08.07-15.03.37:758][ 10]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2019.08.07-15.03.37:758][ 10]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2019.08.07-15.03.37:758][ 10]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2019.08.07-15.03.37:759][ 10]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2019.08.07-15.03.37:759][ 10]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2019.08.07-15.03.37:759][ 10]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2019.08.07-15.03.37:759][ 10]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2019.08.07-15.03.37:763][ 10]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2019.08.07-15.03.37:763][ 10]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2019.08.07-15.03.37:763][ 10]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2019.08.07-15.03.37:763][ 10]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2019.08.07-15.03.37:763][ 10]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2019.08.07-15.03.37:763][ 10]LogModuleManager: Shutting down and abandoning module Core (178)
+[2019.08.07-15.03.37:763][ 10]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2019.08.07-15.03.37:763][ 10]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2019.08.07-15.03.37:763][ 10]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2019.08.07-15.03.37:763][ 10]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2019.08.07-15.03.37:763][ 10]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2019.08.07-15.03.37:763][ 10]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2019.08.07-15.03.37:763][ 10]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2019.08.07-15.03.37:763][ 10]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2019.08.07-15.03.37:763][ 10]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2019.08.07-15.03.37:763][ 10]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2019.08.07-15.03.37:764][ 10]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2019.08.07-15.03.37:864][ 10]LogDerivedDataCache: Shutdown
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2019.08.07-15.03.37:864][ 10]LogXGEController: Cleaning working directory: C:/Users/ARU/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2019.08.07-15.03.37:864][ 10]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2019.08.07-15.03.37:865][ 10]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2019.08.07-15.03.37:866][ 10]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2019.08.07-15.03.37:866][ 10]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.08.07-15.03.37:866][ 10]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8F10D252-4184-7118-DBA6-79A4EC35ABB0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=1d269a534a7d200f36e57da00e08e223%7C61dc2c7b5fe047d0ae48ea5f9a016345%7Cf95c9f55-6808-406f-98ca-fa3deaa57a7f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.08.07-15.03.37:894][ 10]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2019.08.07-15.03.37:895][ 10]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.08.07-15.03.37:895][ 10]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.08.07-15.03.37:895][ 10]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.08.07-15.03.37:895][ 10]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.08.07-15.03.37:895][ 10]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.08.07-15.03.37:895][ 10]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.08.07-15.03.37:895][ 10]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.08.07-15.03.37:896][ 10]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.08.07-15.03.37:896][ 10]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.08.07-15.03.37:896][ 10]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.08.07-15.03.37:896][ 10]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.08.07-15.03.37:896][ 10]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.08.07-15.03.37:896][ 10]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.08.07-15.03.37:896][ 10]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.08.07-15.03.37:896][ 10]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.08.07-15.03.37:896][ 10]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.08.07-15.03.37:896][ 10]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.08.07-15.03.37:896][ 10]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.08.07-15.03.37:944][ 10]LogExit: Exiting.
+[2019.08.07-15.03.37:965][ 10]Log file closed, 08/07/19 16:03:37

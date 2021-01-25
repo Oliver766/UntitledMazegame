@@ -1,0 +1,1328 @@
+﻿Log file open, 02/08/19 15:37:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MazeCreator
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(233901699) SRandInit(233901699).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.398270
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.147s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-9BJK79M (192.168.0.15:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.02.08-15.37.21:198][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.08-15.37.21:198][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.08-15.37.21:210][  0]LogInit: Computer: DESKTOP-9BJK79M
+[2019.02.08-15.37.21:210][  0]LogInit: User: ARU
+[2019.02.08-15.37.21:210][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.02.08-15.37.21:210][  0]LogInit: High frequency timer resolution =2.531249 MHz
+[2019.02.08-15.37.21:211][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.08-15.37.21:211][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.08-15.37.21:211][  0]LogMemory: Process Physical Memory: 275.93 MB used, 275.93 MB peak
+[2019.02.08-15.37.21:211][  0]LogMemory: Process Virtual Memory: 272.59 MB used, 272.59 MB peak
+[2019.02.08-15.37.21:211][  0]LogMemory: Physical Memory: 5937.82 MB used,  10342.52 MB free, 16280.35 MB total
+[2019.02.08-15.37.21:211][  0]LogMemory: Virtual Memory: 4812.76 MB used,  10342.52 MB free, 134217728.00 MB total
+[2019.02.08-15.37.21:228][  0]LogInit: Using OS detected language (en-US).
+[2019.02.08-15.37.21:228][  0]LogInit: Using OS detected locale (en-GB).
+[2019.02.08-15.37.21:231][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.08-15.37.21:553][  0]LogStreaming: Display: Took  0.325s to EndInitTextLocalization.
+[2019.02.08-15.37.21:553][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.08-15.37.21:631][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.08-15.37.21:631][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.08-15.37.21:808][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.08-15.37.21:830][  0]LogD3D11RHI:    0. 'Radeon Pro 560X' (Feature Level 11_0)
+[2019.02.08-15.37.21:830][  0]LogD3D11RHI:       4041/0/8140 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.02.08-15.37.21:832][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.08-15.37.21:832][  0]LogD3D11RHI:       0/0/8140 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.08-15.37.21:832][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.08-15.37.21:838][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.08-15.37.21:838][  0]LogD3D11RHI:     GPU DeviceId: 0x67ef (for the marketing name, search the web for "GPU Device Id")
+[2019.02.08-15.37.21:838][  0]LogWindows: EnumDisplayDevices:
+[2019.02.08-15.37.21:838][  0]LogWindows:    0. 'Radeon Pro 560X' (P:1 D:1)
+[2019.02.08-15.37.21:838][  0]LogWindows:    1. 'Radeon Pro 560X' (P:0 D:1)
+[2019.02.08-15.37.21:838][  0]LogWindows:    2. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.08-15.37.21:838][  0]LogWindows:    3. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.08-15.37.21:838][  0]LogWindows:    4. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.08-15.37.21:839][  0]LogWindows:    5. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.08-15.37.21:839][  0]LogWindows:    6. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.08-15.37.21:839][  0]LogWindows:    7. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.08-15.37.21:839][  0]LogWindows:    8. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.08-15.37.21:839][  0]LogWindows:    9. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.08-15.37.21:839][  0]LogWindows:    10. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.08-15.37.21:839][  0]LogWindows:    11. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.08-15.37.21:839][  0]LogWindows:    12. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.08-15.37.21:840][  0]LogWindows:    13. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.08-15.37.21:840][  0]LogWindows:    14. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.08-15.37.21:840][  0]LogWindows:    15. 'Radeon Pro 560X' (P:0 D:0)
+[2019.02.08-15.37.21:840][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.02.08-15.37.21:840][  0]LogD3D11RHI:     Adapter Name: Radeon Pro 560X
+[2019.02.08-15.37.21:840][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.02.08-15.37.21:840][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.02.08-15.37.21:840][  0]LogRHI: Texture pool is 2828 MB (70% of 4041 MB)
+[2019.02.08-15.37.22:009][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.08-15.37.22:024][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.02.08-15.37.22:029][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator/Intermediate/Shaders/WorkingDirectory/7620/).
+[2019.02.08-15.37.22:030][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ARU/AppData/Local/Temp/UnrealShaderWorkingDir/2F5254B94D63BDEE4F6088889086A470/'.
+[2019.02.08-15.37.22:224][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.08-15.37.22:235][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.08-15.37.22:247][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.08-15.37.22:259][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.08-15.37.22:270][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.08-15.37.22:281][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.08-15.37.22:293][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.08-15.37.22:304][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.08-15.37.22:310][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.08-15.37.22:319][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2019.02.08-15.37.22:329][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2019.02.08-15.37.22:338][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2019.02.08-15.37.22:348][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2019.02.08-15.37.22:357][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2019.02.08-15.37.22:367][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2019.02.08-15.37.22:386][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2019.02.08-15.37.22:386][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2019.02.08-15.37.22:396][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.08-15.37.22:397][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.08-15.37.22:432][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.08-15.37.22:442][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.08-15.37.22:453][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.08-15.37.22:463][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.08-15.37.22:473][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.08-15.37.22:483][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.08-15.37.22:483][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.08-15.37.22:599][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.08-15.37.22:599][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.08-15.37.22:599][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.08-15.37.23:194][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.08-15.37.23:247][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/ARU/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.02.08-15.37.23:247][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ARU/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2019.02.08-15.37.23:247][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.08-15.37.23:247][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.08-15.37.23:247][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.08-15.37.23:247][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.08-15.37.23:260][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.08-15.37.23:272][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ARU/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.08-15.37.23:272][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.08-15.37.23:272][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.08-15.37.23:280][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.08-15.37.23:281][  0]LogSlate: Using Freetype 2.6.0
+[2019.02.08-15.37.23:281][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.08-15.37.23:281][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.08-15.37.23:401][  0]LogAssetRegistry: FAssetRegistry took 0.0249 seconds to start up
+[2019.02.08-15.37.23:641][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.08-15.37.23:769][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.08-15.37.23:772][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.08-15.37.23:772][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.08-15.37.23:772][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.08-15.37.23:772][  0]LogMeshReduction: No automatic mesh merging module available
+[2019.02.08-15.37.23:772][  0]LogMeshMerging: No automatic mesh merging module available
+[2019.02.08-15.37.23:812][  0]LogNetVersion: MazeCreator , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 122556204)
+[2019.02.08-15.37.24:317][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.067787 seconds
+[2019.02.08-15.37.24:322][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2019.02.08-15.37.24:322][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2019.02.08-15.37.24:322][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.08-15.37.25:782][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.08-15.37.25:814][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.08-15.37.26:199][  0]SourceControl: Source control is disabled
+[2019.02.08-15.37.26:199][  0]SourceControl: Source control is disabled
+[2019.02.08-15.37.26:219][  0]SourceControl: Source control is disabled
+[2019.02.08-15.37.26:238][  0]SourceControl: Source control is disabled
+[2019.02.08-15.37.26:761][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.08-15.37.26:954][  0]LogOcInput: OculusInput pre-init called
+[2019.02.08-15.37.27:091][  0]LogEngine: Initializing Engine...
+[2019.02.08-15.37.27:092][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.08-15.37.27:093][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.08-15.37.27:093][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.08-15.37.27:283][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.08-15.37.27:328][  0]LogInit: XAudio2 using 'Headphones (Apple Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.08-15.37.27:411][  0]LogInit: FAudioDevice initialized.
+[2019.02.08-15.37.27:535][  0]LogDerivedDataCache: Saved boot cache 0.12s 74MB C:/Users/ARU/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2019.02.08-15.37.27:544][  0]LogInit: Texture streaming: Enabled
+[2019.02.08-15.37.27:561][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.08-15.37.27:572][  0]LogInit: Transaction tracking system initialized
+[2019.02.08-15.37.27:597][  0]BlueprintLog: New page: Editor Load
+[2019.02.08-15.37.27:673][  0]LocalizationService: Localization service is disabled
+[2019.02.08-15.37.27:748][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2019.02.08-15.37.27:748][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2019.02.08-15.37.27:748][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2019.02.08-15.37.27:773][  0]LogConsoleResponse: Display: 
+[2019.02.08-15.37.27:919][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.08-15.37.27:919][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.08-15.37.27:919][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.08-15.37.27:919][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.08-15.37.27:919][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.08-15.37.28:328][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ARU/Documents/Unreal Projects/MazeCreator/Content/' took 0.02s
+[2019.02.08-15.37.28:328][  0]SourceControl: Source control is disabled
+[2019.02.08-15.37.28:531][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.08-15.37.28:534][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.08-15.37.39:179][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.02.08-15.37.39:179][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.08-15.37.39:189][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.08-15.37.40:834][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2019.02.08-15.37.40:834][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.08-15.37.40:843][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.08-15.37.40:863][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.08-15.37.40:863][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.02.08-15.37.40:863][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.08-15.37.40:921][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.101ms to complete.
+[2019.02.08-15.37.40:921][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.058
+[2019.02.08-15.37.41:040][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_2d8c_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_1d34_0///####STATCAT_Advanced####
+[2019.02.08-15.37.41:040][  0]LogCollectionManager: Loaded 0 collections in 0.002208 seconds
+[2019.02.08-15.37.41:098][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ARU/Documents/Unreal Projects/MazeCreator/Saved/Collections/' took 0.01s
+[2019.02.08-15.37.41:098][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ARU/Documents/Unreal Projects/MazeCreator/Content/Developers/ARU/Collections/' took 0.01s
+[2019.02.08-15.37.41:099][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ARU/Documents/Unreal Projects/MazeCreator/Content/Collections/' took 0.01s
+[2019.02.08-15.37.41:099][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.02.08-15.37.41:108][  0]LogContentBrowser: Native class hierarchy populated in 0.0092 seconds. Added 2452 classes and 558 folders.
+[2019.02.08-15.37.41:116][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.08-15.37.41:173][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.08-15.37.41:178][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.02.08-15.37.41:223][  0]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.08-15.37.41:226][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.08-15.37.41:314][  0]LogRenderer: Reallocating scene render targets to support 1044x464 Format 10 NumSamples 1 (Frame:1).
+[2019.02.08-15.37.41:431][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.08-15.37.41:431][  0]LogLoad: (Engine Initialization) Total time: 23.09 seconds
+[2019.02.08-15.37.41:431][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.08-15.37.41:461][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.08-15.37.41:564][  9]LogAssetRegistry: Asset discovery search completed in 18.1847 seconds
+[2019.02.08-15.37.41:565][  9]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.08-15.37.41:565][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2019.02.08-15.37.42:462][114]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.08-15.37.43:949][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.08-15.37.55:679][547]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.08-15.38.08:513][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dda9303100, Size=72, Default__FirstPerson_AnimBP_C Function /Game/DefaultContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.02.08-15.38.08:519][931]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dda9303100, Size=72
+[2019.02.08-15.38.08:519][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dd9a6d1cb0, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.02.08-15.38.08:525][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dd9a65ecf0, Size=72, Default__FirstPerson_AnimBP_C Function /Game/DefaultContent/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2019.02.08-15.38.08:535][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dd9a656f00, Size=256, Default__FirstPersonProjectile_C Function /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2019.02.08-15.38.08:537][931]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dd9a656f00, Size=256
+[2019.02.08-15.38.08:537][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dd9a656f00, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
+[2019.02.08-15.38.08:538][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000002dd9a655100, Size=256, Default__FirstPersonProjectile_C Function /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2019.02.08-15.38.08:589][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ddba685600, Size=688, Default__FirstPersonCharacter_C Function /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.02.08-15.38.08:597][931]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ddba685600, Size=688
+[2019.02.08-15.38.08:597][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ddba63eb00, Size=688, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
+[2019.02.08-15.38.08:603][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ddba681080, Size=624, Default__FirstPersonCharacter_C Function /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2019.02.08-15.38.08:617][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ddba682480, Size=528, Default__Blueprint_Door_C Function /Game/Level2/Blueprint_Door.Blueprint_Door_C:ExecuteUbergraph_Blueprint_Door
+[2019.02.08-15.38.08:621][931]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ddba682480, Size=528
+[2019.02.08-15.38.08:621][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ddba682480, Size=528, Default__Blueprint_Door_C Function /Engine/Transient.REINST_Blueprint_Door_C_8:ExecuteUbergraph_Blueprint_Door
+[2019.02.08-15.38.08:624][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ddaffae980, Size=528, Default__Blueprint_Door_C Function /Game/Level2/Blueprint_Door.Blueprint_Door_C:ExecuteUbergraph_Blueprint_Door
+[2019.02.08-15.38.08:686][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ddbb04ae10, Size=52, Default__FirstPersonHUD_C Function /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2019.02.08-15.38.08:688][931]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ddbb04ae10, Size=52
+[2019.02.08-15.38.08:688][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ddbb04ae10, Size=52, Default__FirstPersonHUD_C Function /Engine/Transient.REINST_FirstPersonHUD_C_12:ExecuteUbergraph_FirstPersonHUD
+[2019.02.08-15.38.08:689][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ddbb04b318, Size=52, Default__FirstPersonHUD_C Function /Game/DefaultContent/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD_C:ExecuteUbergraph_FirstPersonHUD
+[2019.02.08-15.38.08:762][931]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ddbae64dc0, Size=184, Default__Blueprint_Keycard_C Function /Game/Level3/Blueprint_Keycard.Blueprint_Keycard_C:ExecuteUbergraph_Blueprint_Keycard
+[2019.02.08-15.38.08:886][931]LogSkeletalMesh: Skeletal Mesh found in DDC [6.838126ms] /Game/DefaultContent/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2019.02.08-15.38.08:999][931]LogSkeletalMesh: Skeletal Mesh found in DDC [2.729088ms] /Game/DefaultContent/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2019.02.08-15.38.09:032][931]LogAIModule: Creating AISystem for world MazeMap
+[2019.02.08-15.38.11:289][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultContent/MazeMap_BuiltData" FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator/Content/DefaultContent/MazeMap_BuiltData.uasset" SILENT=true
+[2019.02.08-15.38.11:596][175]LogSavePackage: Save=293.39ms
+[2019.02.08-15.38.11:596][175]LogSavePackage: Moving '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator/Saved/MazeMap_BuiltDataC357C7684EBF5386D73E4095F52A26BB.tmp' to '../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator/Content/DefaultContent/MazeMap_BuiltData.uasset'
+[2019.02.08-15.38.11:598][175]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator/Content/DefaultContent/MazeMap_BuiltData.uasset
+[2019.02.08-15.38.11:710][175]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dd9a6d1cb0, Size=72
+[2019.02.08-15.38.11:711][175]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002dd9a656f00, Size=256
+[2019.02.08-15.38.11:711][175]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ddba63eb00, Size=688
+[2019.02.08-15.38.11:711][175]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ddba682480, Size=528
+[2019.02.08-15.38.11:711][175]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002ddbb04ae10, Size=52
+[2019.02.08-15.38.14:399][453]LogSlate: Window 'Failed Renames' being destroyed
+[2019.02.08-15.38.16:690][702]LogSlate: Window 'Content Browser' being destroyed
+[2019.02.08-15.38.16:701][702]LogSlate: Window 'Content Browser' being destroyed
+[2019.02.08-15.38.18:261][884]Cmd: MAP LOAD FILE="../../../../../../Users/ARU/Documents/Unreal Projects/MazeCreator/Content/DefaultContent/MazeMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.08-15.38.18:261][884]LightingResults: New page: Lighting Build
+[2019.02.08-15.38.18:264][884]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2019.02.08-15.38.18:264][884]LoadErrors: New page: Loading map: MazeMap.umap
+[2019.02.08-15.38.18:265][884]MapCheck: New page: Map Check
+[2019.02.08-15.38.18:265][884]LightingResults: New page: Lighting Build
+[2019.02.08-15.38.18:358][884]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.08-15.38.18:388][884]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.08-15.38.18:459][884]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.844ms to complete.
+[2019.02.08-15.38.18:461][884]LogFileHelpers: Loading map 'MazeMap' took 0.200
+[2019.02.08-15.38.19:946][976]LogRenderer: Reallocating scene render targets to support 1044x468 Format 10 NumSamples 1 (Frame:89).
+[2019.02.08-15.38.20:030][977]LogRenderer: Reallocating scene render targets to support 1044x496 Format 10 NumSamples 1 (Frame:91).
+[2019.02.08-15.38.20:090][978]LogRenderer: Reallocating scene render targets to support 1044x724 Format 10 NumSamples 1 (Frame:93).
+[2019.02.08-15.38.20:161][979]LogRenderer: Reallocating scene render targets to support 1044x768 Format 10 NumSamples 1 (Frame:95).
+[2019.02.08-15.38.24:024][183]LogEditorViewport: Clicking on Actor (LMB): Blueprint_Keycard_C (Blueprint_Keycard)
+[2019.02.08-15.38.25:581][271]Cmd: DELETE
+[2019.02.08-15.38.25:581][271]Cmd: ACTOR DELETE
+[2019.02.08-15.38.25:589][271]LogEditorActor: Deleted Actor: Blueprint_Keycard_C
+[2019.02.08-15.38.25:601][271]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.02.08-15.38.29:597][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.08-15.39.00:393][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.08-15.39.00:855][649]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2019.02.08-15.39.01:087][649]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ddd721e348, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.02.08-15.39.01:088][649]LogUObjectGlobals: Created PersistentFrame Addr=0x000002ddd721e340, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2019.02.08-15.39.01:416][649]LogBlueprintUserMessages: [Blueprint_Keycard_C_1] Gained Red Keycard
+[2019.02.08-15.39.01:417][649]LogBlueprintUserMessages: [Blueprint_Keycard_C_2] Gained Red Keycard
+[2019.02.08-15.39.01:421][649]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.08-15.39.01:461][650]LogBlueprintUserMessages: [Blueprint_Keycard_C_3] Gained Red Keycard
+[2019.02.08-15.39.01:462][650]LogBlueprintUserMessages: [Blueprint_Keycard_C_4] Gained Red Keycard
+[2019.02.08-15.39.01:468][650]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.08-15.39.01:494][651]LogBlueprintUserMessages: [Blueprint_Keycard_C_5] Gained Red Keycard
+[2019.02.08-15.39.01:495][651]LogBlueprintUserMessages: [Blueprint_Keycard_C_6] Gained Red Keycard
+[2019.02.08-15.39.01:506][652]LogBlueprintUserMessages: [Blueprint_Keycard_C_7] Gained Red Keycard
+[2019.02.08-15.39.01:507][652]LogBlueprintUserMessages: [Blueprint_Keycard_C_8] Gained Red Keycard
+[2019.02.08-15.39.01:519][653]LogBlueprintUserMessages: [Blueprint_Keycard_C_9] Gained Red Keycard
+[2019.02.08-15.39.01:519][653]LogBlueprintUserMessages: [Blueprint_Keycard_C_10] Gained Red Keycard
+[2019.02.08-15.39.01:532][654]LogBlueprintUserMessages: [Blueprint_Keycard_C_11] Gained Red Keycard
+[2019.02.08-15.39.01:533][654]LogBlueprintUserMessages: [Blueprint_Keycard_C_12] Gained Red Keycard
+[2019.02.08-15.39.01:545][655]LogBlueprintUserMessages: [Blueprint_Keycard_C_13] Gained Red Keycard
+[2019.02.08-15.39.01:546][655]LogBlueprintUserMessages: [Blueprint_Keycard_C_14] Gained Red Keycard
+[2019.02.08-15.39.01:556][656]LogBlueprintUserMessages: [Blueprint_Keycard_C_15] Gained Red Keycard
+[2019.02.08-15.39.01:557][656]LogBlueprintUserMessages: [Blueprint_Keycard_C_16] Gained Red Keycard
+[2019.02.08-15.39.01:572][657]LogBlueprintUserMessages: [Blueprint_Keycard_C_17] Gained Red Keycard
+[2019.02.08-15.39.01:573][657]LogBlueprintUserMessages: [Blueprint_Keycard_C_18] Gained Red Keycard
+[2019.02.08-15.39.01:587][658]LogBlueprintUserMessages: [Blueprint_Keycard_C_19] Gained Red Keycard
+[2019.02.08-15.39.01:588][658]LogBlueprintUserMessages: [Blueprint_Keycard_C_20] Gained Red Keycard
+[2019.02.08-15.39.01:601][659]LogBlueprintUserMessages: [Blueprint_Keycard_C_21] Gained Red Keycard
+[2019.02.08-15.39.01:602][659]LogBlueprintUserMessages: [Blueprint_Keycard_C_22] Gained Red Keycard
+[2019.02.08-15.39.01:616][660]LogBlueprintUserMessages: [Blueprint_Keycard_C_23] Gained Red Keycard
+[2019.02.08-15.39.01:617][660]LogBlueprintUserMessages: [Blueprint_Keycard_C_24] Gained Red Keycard
+[2019.02.08-15.39.01:632][661]LogBlueprintUserMessages: [Blueprint_Keycard_C_25] Gained Red Keycard
+[2019.02.08-15.39.01:633][661]LogBlueprintUserMessages: [Blueprint_Keycard_C_26] Gained Red Keycard
+[2019.02.08-15.39.01:646][662]LogBlueprintUserMessages: [Blueprint_Keycard_C_27] Gained Red Keycard
+[2019.02.08-15.39.01:647][662]LogBlueprintUserMessages: [Blueprint_Keycard_C_28] Gained Red Keycard
+[2019.02.08-15.39.01:661][663]LogBlueprintUserMessages: [Blueprint_Keycard_C_29] Gained Red Keycard
+[2019.02.08-15.39.01:662][663]LogBlueprintUserMessages: [Blueprint_Keycard_C_30] Gained Red Keycard
+[2019.02.08-15.39.01:676][664]LogBlueprintUserMessages: [Blueprint_Keycard_C_31] Gained Red Keycard
+[2019.02.08-15.39.01:677][664]LogBlueprintUserMessages: [Blueprint_Keycard_C_32] Gained Red Keycard
+[2019.02.08-15.39.01:691][665]LogBlueprintUserMessages: [Blueprint_Keycard_C_33] Gained Red Keycard
+[2019.02.08-15.39.01:692][665]LogBlueprintUserMessages: [Blueprint_Keycard_C_34] Gained Red Keycard
+[2019.02.08-15.39.01:705][666]LogBlueprintUserMessages: [Blueprint_Keycard_C_35] Gained Red Keycard
+[2019.02.08-15.39.01:706][666]LogBlueprintUserMessages: [Blueprint_Keycard_C_36] Gained Red Keycard
+[2019.02.08-15.39.01:720][667]LogBlueprintUserMessages: [Blueprint_Keycard_C_37] Gained Red Keycard
+[2019.02.08-15.39.01:721][667]LogBlueprintUserMessages: [Blueprint_Keycard_C_38] Gained Red Keycard
+[2019.02.08-15.39.01:735][668]LogBlueprintUserMessages: [Blueprint_Keycard_C_39] Gained Red Keycard
+[2019.02.08-15.39.01:735][668]LogBlueprintUserMessages: [Blueprint_Keycard_C_40] Gained Red Keycard
+[2019.02.08-15.39.01:749][669]LogBlueprintUserMessages: [Blueprint_Keycard_C_41] Gained Red Keycard
+[2019.02.08-15.39.01:750][669]LogBlueprintUserMessages: [Blueprint_Keycard_C_42] Gained Red Keycard
+[2019.02.08-15.39.01:764][670]LogBlueprintUserMessages: [Blueprint_Keycard_C_43] Gained Red Keycard
+[2019.02.08-15.39.01:765][670]LogBlueprintUserMessages: [Blueprint_Keycard_C_44] Gained Red Keycard
+[2019.02.08-15.39.01:779][671]LogBlueprintUserMessages: [Blueprint_Keycard_C_45] Gained Red Keycard
+[2019.02.08-15.39.01:780][671]LogBlueprintUserMessages: [Blueprint_Keycard_C_46] Gained Red Keycard
+[2019.02.08-15.39.01:794][672]LogBlueprintUserMessages: [Blueprint_Keycard_C_47] Gained Red Keycard
+[2019.02.08-15.39.01:795][672]LogBlueprintUserMessages: [Blueprint_Keycard_C_48] Gained Red Keycard
+[2019.02.08-15.39.01:809][673]LogBlueprintUserMessages: [Blueprint_Keycard_C_49] Gained Red Keycard
+[2019.02.08-15.39.01:810][673]LogBlueprintUserMessages: [Blueprint_Keycard_C_50] Gained Red Keycard
+[2019.02.08-15.39.01:823][674]LogBlueprintUserMessages: [Blueprint_Keycard_C_51] Gained Red Keycard
+[2019.02.08-15.39.01:824][674]LogBlueprintUserMessages: [Blueprint_Keycard_C_52] Gained Red Keycard
+[2019.02.08-15.39.01:838][675]LogBlueprintUserMessages: [Blueprint_Keycard_C_53] Gained Red Keycard
+[2019.02.08-15.39.01:839][675]LogBlueprintUserMessages: [Blueprint_Keycard_C_54] Gained Red Keycard
+[2019.02.08-15.39.01:853][676]LogBlueprintUserMessages: [Blueprint_Keycard_C_55] Gained Red Keycard
+[2019.02.08-15.39.01:854][676]LogBlueprintUserMessages: [Blueprint_Keycard_C_56] Gained Red Keycard
+[2019.02.08-15.39.01:867][677]LogBlueprintUserMessages: [Blueprint_Keycard_C_57] Gained Red Keycard
+[2019.02.08-15.39.01:869][677]LogBlueprintUserMessages: [Blueprint_Keycard_C_58] Gained Red Keycard
+[2019.02.08-15.39.01:882][678]LogBlueprintUserMessages: [Blueprint_Keycard_C_59] Gained Red Keycard
+[2019.02.08-15.39.01:883][678]LogBlueprintUserMessages: [Blueprint_Keycard_C_60] Gained Red Keycard
+[2019.02.08-15.39.01:897][679]LogBlueprintUserMessages: [Blueprint_Keycard_C_61] Gained Red Keycard
+[2019.02.08-15.39.01:898][679]LogBlueprintUserMessages: [Blueprint_Keycard_C_62] Gained Red Keycard
+[2019.02.08-15.39.01:913][680]LogBlueprintUserMessages: [Blueprint_Keycard_C_63] Gained Red Keycard
+[2019.02.08-15.39.01:914][680]LogBlueprintUserMessages: [Blueprint_Keycard_C_64] Gained Red Keycard
+[2019.02.08-15.39.01:927][681]LogBlueprintUserMessages: [Blueprint_Keycard_C_65] Gained Red Keycard
+[2019.02.08-15.39.01:928][681]LogBlueprintUserMessages: [Blueprint_Keycard_C_66] Gained Red Keycard
+[2019.02.08-15.39.01:941][682]LogBlueprintUserMessages: [Blueprint_Keycard_C_67] Gained Red Keycard
+[2019.02.08-15.39.01:943][682]LogBlueprintUserMessages: [Blueprint_Keycard_C_68] Gained Red Keycard
+[2019.02.08-15.39.01:957][683]LogBlueprintUserMessages: [Blueprint_Keycard_C_69] Gained Red Keycard
+[2019.02.08-15.39.01:958][683]LogBlueprintUserMessages: [Blueprint_Keycard_C_70] Gained Red Keycard
+[2019.02.08-15.39.01:973][684]LogBlueprintUserMessages: [Blueprint_Keycard_C_71] Gained Red Keycard
+[2019.02.08-15.39.01:974][684]LogBlueprintUserMessages: [Blueprint_Keycard_C_72] Gained Red Keycard
+[2019.02.08-15.39.01:987][685]LogBlueprintUserMessages: [Blueprint_Keycard_C_73] Gained Red Keycard
+[2019.02.08-15.39.01:988][685]LogBlueprintUserMessages: [Blueprint_Keycard_C_74] Gained Red Keycard
+[2019.02.08-15.39.02:002][686]LogBlueprintUserMessages: [Blueprint_Keycard_C_75] Gained Red Keycard
+[2019.02.08-15.39.02:004][686]LogBlueprintUserMessages: [Blueprint_Keycard_C_76] Gained Red Keycard
+[2019.02.08-15.39.02:018][687]LogBlueprintUserMessages: [Blueprint_Keycard_C_77] Gained Red Keycard
+[2019.02.08-15.39.02:019][687]LogBlueprintUserMessages: [Blueprint_Keycard_C_78] Gained Red Keycard
+[2019.02.08-15.39.02:033][688]LogBlueprintUserMessages: [Blueprint_Keycard_C_79] Gained Red Keycard
+[2019.02.08-15.39.02:034][688]LogBlueprintUserMessages: [Blueprint_Keycard_C_80] Gained Red Keycard
+[2019.02.08-15.39.02:048][689]LogBlueprintUserMessages: [Blueprint_Keycard_C_81] Gained Red Keycard
+[2019.02.08-15.39.02:049][689]LogBlueprintUserMessages: [Blueprint_Keycard_C_82] Gained Red Keycard
+[2019.02.08-15.39.02:063][690]LogBlueprintUserMessages: [Blueprint_Keycard_C_83] Gained Red Keycard
+[2019.02.08-15.39.02:064][690]LogBlueprintUserMessages: [Blueprint_Keycard_C_84] Gained Red Keycard
+[2019.02.08-15.39.02:077][691]LogBlueprintUserMessages: [Blueprint_Keycard_C_85] Gained Red Keycard
+[2019.02.08-15.39.02:079][691]LogBlueprintUserMessages: [Blueprint_Keycard_C_86] Gained Red Keycard
+[2019.02.08-15.39.02:092][692]LogBlueprintUserMessages: [Blueprint_Keycard_C_87] Gained Red Keycard
+[2019.02.08-15.39.02:093][692]LogBlueprintUserMessages: [Blueprint_Keycard_C_88] Gained Red Keycard
+[2019.02.08-15.39.02:107][693]LogBlueprintUserMessages: [Blueprint_Keycard_C_89] Gained Red Keycard
+[2019.02.08-15.39.02:108][693]LogBlueprintUserMessages: [Blueprint_Keycard_C_90] Gained Red Keycard
+[2019.02.08-15.39.02:122][694]LogBlueprintUserMessages: [Blueprint_Keycard_C_91] Gained Red Keycard
+[2019.02.08-15.39.02:123][694]LogBlueprintUserMessages: [Blueprint_Keycard_C_92] Gained Red Keycard
+[2019.02.08-15.39.02:137][695]LogBlueprintUserMessages: [Blueprint_Keycard_C_93] Gained Red Keycard
+[2019.02.08-15.39.02:138][695]LogBlueprintUserMessages: [Blueprint_Keycard_C_94] Gained Red Keycard
+[2019.02.08-15.39.02:152][696]LogBlueprintUserMessages: [Blueprint_Keycard_C_95] Gained Red Keycard
+[2019.02.08-15.39.02:153][696]LogBlueprintUserMessages: [Blueprint_Keycard_C_96] Gained Red Keycard
+[2019.02.08-15.39.02:181][697]LogBlueprintUserMessages: [Blueprint_Keycard_C_97] Gained Red Keycard
+[2019.02.08-15.39.02:182][697]LogBlueprintUserMessages: [Blueprint_Keycard_C_98] Gained Red Keycard
+[2019.02.08-15.39.02:195][698]LogBlueprintUserMessages: [Blueprint_Keycard_C_99] Gained Red Keycard
+[2019.02.08-15.39.02:196][698]LogBlueprintUserMessages: [Blueprint_Keycard_C_100] Gained Red Keycard
+[2019.02.08-15.39.02:208][699]LogBlueprintUserMessages: [Blueprint_Keycard_C_101] Gained Red Keycard
+[2019.02.08-15.39.02:209][699]LogBlueprintUserMessages: [Blueprint_Keycard_C_102] Gained Red Keycard
+[2019.02.08-15.39.02:221][700]LogBlueprintUserMessages: [Blueprint_Keycard_C_103] Gained Red Keycard
+[2019.02.08-15.39.02:222][700]LogBlueprintUserMessages: [Blueprint_Keycard_C_104] Gained Red Keycard
+[2019.02.08-15.39.02:238][701]LogBlueprintUserMessages: [Blueprint_Keycard_C_105] Gained Red Keycard
+[2019.02.08-15.39.02:239][701]LogBlueprintUserMessages: [Blueprint_Keycard_C_106] Gained Red Keycard
+[2019.02.08-15.39.02:254][702]LogBlueprintUserMessages: [Blueprint_Keycard_C_107] Gained Red Keycard
+[2019.02.08-15.39.02:255][702]LogBlueprintUserMessages: [Blueprint_Keycard_C_108] Gained Red Keycard
+[2019.02.08-15.39.02:271][703]LogBlueprintUserMessages: [Blueprint_Keycard_C_109] Gained Red Keycard
+[2019.02.08-15.39.02:272][703]LogBlueprintUserMessages: [Blueprint_Keycard_C_110] Gained Red Keycard
+[2019.02.08-15.39.02:289][704]LogBlueprintUserMessages: [Blueprint_Keycard_C_111] Gained Red Keycard
+[2019.02.08-15.39.02:289][704]LogBlueprintUserMessages: [Blueprint_Keycard_C_112] Gained Red Keycard
+[2019.02.08-15.39.02:306][705]LogBlueprintUserMessages: [Blueprint_Keycard_C_113] Gained Red Keycard
+[2019.02.08-15.39.02:307][705]LogBlueprintUserMessages: [Blueprint_Keycard_C_114] Gained Red Keycard
+[2019.02.08-15.39.02:324][706]LogBlueprintUserMessages: [Blueprint_Keycard_C_115] Gained Red Keycard
+[2019.02.08-15.39.02:325][706]LogBlueprintUserMessages: [Blueprint_Keycard_C_116] Gained Red Keycard
+[2019.02.08-15.39.02:341][707]LogBlueprintUserMessages: [Blueprint_Keycard_C_117] Gained Red Keycard
+[2019.02.08-15.39.02:342][707]LogBlueprintUserMessages: [Blueprint_Keycard_C_118] Gained Red Keycard
+[2019.02.08-15.39.02:358][708]LogBlueprintUserMessages: [Blueprint_Keycard_C_119] Gained Red Keycard
+[2019.02.08-15.39.02:359][708]LogBlueprintUserMessages: [Blueprint_Keycard_C_120] Gained Red Keycard
+[2019.02.08-15.39.02:376][709]LogBlueprintUserMessages: [Blueprint_Keycard_C_121] Gained Red Keycard
+[2019.02.08-15.39.02:378][709]LogBlueprintUserMessages: [Blueprint_Keycard_C_122] Gained Red Keycard
+[2019.02.08-15.39.02:395][710]LogBlueprintUserMessages: [Blueprint_Keycard_C_123] Gained Red Keycard
+[2019.02.08-15.39.02:396][710]LogBlueprintUserMessages: [Blueprint_Keycard_C_124] Gained Red Keycard
+[2019.02.08-15.39.02:411][711]LogBlueprintUserMessages: [Blueprint_Keycard_C_125] Gained Red Keycard
+[2019.02.08-15.39.02:412][711]LogBlueprintUserMessages: [Blueprint_Keycard_C_126] Gained Red Keycard
+[2019.02.08-15.39.02:431][712]LogBlueprintUserMessages: [Blueprint_Keycard_C_127] Gained Red Keycard
+[2019.02.08-15.39.02:433][712]LogBlueprintUserMessages: [Blueprint_Keycard_C_128] Gained Red Keycard
+[2019.02.08-15.39.02:462][713]LogBlueprintUserMessages: [Blueprint_Keycard_C_129] Gained Red Keycard
+[2019.02.08-15.39.02:463][713]LogBlueprintUserMessages: [Blueprint_Keycard_C_130] Gained Red Keycard
+[2019.02.08-15.39.02:475][714]LogBlueprintUserMessages: [Blueprint_Keycard_C_131] Gained Red Keycard
+[2019.02.08-15.39.02:476][714]LogBlueprintUserMessages: [Blueprint_Keycard_C_132] Gained Red Keycard
+[2019.02.08-15.39.02:489][715]LogBlueprintUserMessages: [Blueprint_Keycard_C_133] Gained Red Keycard
+[2019.02.08-15.39.02:489][715]LogBlueprintUserMessages: [Blueprint_Keycard_C_134] Gained Red Keycard
+[2019.02.08-15.39.02:502][716]LogBlueprintUserMessages: [Blueprint_Keycard_C_135] Gained Red Keycard
+[2019.02.08-15.39.02:503][716]LogBlueprintUserMessages: [Blueprint_Keycard_C_136] Gained Red Keycard
+[2019.02.08-15.39.02:515][717]LogBlueprintUserMessages: [Blueprint_Keycard_C_137] Gained Red Keycard
+[2019.02.08-15.39.02:516][717]LogBlueprintUserMessages: [Blueprint_Keycard_C_138] Gained Red Keycard
+[2019.02.08-15.39.02:533][718]LogBlueprintUserMessages: [Blueprint_Keycard_C_139] Gained Red Keycard
+[2019.02.08-15.39.02:535][718]LogBlueprintUserMessages: [Blueprint_Keycard_C_140] Gained Red Keycard
+[2019.02.08-15.39.02:563][719]LogBlueprintUserMessages: [Blueprint_Keycard_C_141] Gained Red Keycard
+[2019.02.08-15.39.02:565][719]LogBlueprintUserMessages: [Blueprint_Keycard_C_142] Gained Red Keycard
+[2019.02.08-15.39.02:578][720]LogBlueprintUserMessages: [Blueprint_Keycard_C_143] Gained Red Keycard
+[2019.02.08-15.39.02:578][720]LogBlueprintUserMessages: [Blueprint_Keycard_C_144] Gained Red Keycard
+[2019.02.08-15.39.02:594][721]LogBlueprintUserMessages: [Blueprint_Keycard_C_145] Gained Red Keycard
+[2019.02.08-15.39.02:596][721]LogBlueprintUserMessages: [Blueprint_Keycard_C_146] Gained Red Keycard
+[2019.02.08-15.39.02:620][722]LogBlueprintUserMessages: [Blueprint_Keycard_C_147] Gained Red Keycard
+[2019.02.08-15.39.02:621][722]LogBlueprintUserMessages: [Blueprint_Keycard_C_148] Gained Red Keycard
+[2019.02.08-15.39.02:633][723]LogBlueprintUserMessages: [Blueprint_Keycard_C_149] Gained Red Keycard
+[2019.02.08-15.39.02:634][723]LogBlueprintUserMessages: [Blueprint_Keycard_C_150] Gained Red Keycard
+[2019.02.08-15.39.02:646][724]LogBlueprintUserMessages: [Blueprint_Keycard_C_151] Gained Red Keycard
+[2019.02.08-15.39.02:648][724]LogBlueprintUserMessages: [Blueprint_Keycard_C_152] Gained Red Keycard
+[2019.02.08-15.39.02:661][725]LogBlueprintUserMessages: [Blueprint_Keycard_C_153] Gained Red Keycard
+[2019.02.08-15.39.02:662][725]LogBlueprintUserMessages: [Blueprint_Keycard_C_154] Gained Red Keycard
+[2019.02.08-15.39.02:674][726]LogBlueprintUserMessages: [Blueprint_Keycard_C_155] Gained Red Keycard
+[2019.02.08-15.39.02:675][726]LogBlueprintUserMessages: [Blueprint_Keycard_C_156] Gained Red Keycard
+[2019.02.08-15.39.02:691][727]LogBlueprintUserMessages: [Blueprint_Keycard_C_157] Gained Red Keycard
+[2019.02.08-15.39.02:692][727]LogBlueprintUserMessages: [Blueprint_Keycard_C_158] Gained Red Keycard
+[2019.02.08-15.39.02:709][728]LogBlueprintUserMessages: [Blueprint_Keycard_C_159] Gained Red Keycard
+[2019.02.08-15.39.02:709][728]LogBlueprintUserMessages: [Blueprint_Keycard_C_160] Gained Red Keycard
+[2019.02.08-15.39.02:726][729]LogBlueprintUserMessages: [Blueprint_Keycard_C_161] Gained Red Keycard
+[2019.02.08-15.39.02:727][729]LogBlueprintUserMessages: [Blueprint_Keycard_C_162] Gained Red Keycard
+[2019.02.08-15.39.02:743][730]LogBlueprintUserMessages: [Blueprint_Keycard_C_163] Gained Red Keycard
+[2019.02.08-15.39.02:745][730]LogBlueprintUserMessages: [Blueprint_Keycard_C_164] Gained Red Keycard
+[2019.02.08-15.39.02:763][731]LogBlueprintUserMessages: [Blueprint_Keycard_C_165] Gained Red Keycard
+[2019.02.08-15.39.02:777][732]LogBlueprintUserMessages: [Blueprint_Keycard_C_166] Gained Red Keycard
+[2019.02.08-15.39.02:789][733]LogBlueprintUserMessages: [Blueprint_Keycard_C_167] Gained Red Keycard
+[2019.02.08-15.39.02:801][734]LogBlueprintUserMessages: [Blueprint_Keycard_C_168] Gained Red Keycard
+[2019.02.08-15.39.02:814][735]LogBlueprintUserMessages: [Blueprint_Keycard_C_169] Gained Red Keycard
+[2019.02.08-15.39.02:815][735]LogBlueprintUserMessages: [Blueprint_Keycard_C_170] Gained Red Keycard
+[2019.02.08-15.39.02:857][736]LogBlueprintUserMessages: [Blueprint_Keycard_C_171] Gained Red Keycard
+[2019.02.08-15.39.02:866][736]LogBlueprintUserMessages: [Blueprint_Keycard_C_172] Gained Red Keycard
+[2019.02.08-15.39.02:901][737]LogBlueprintUserMessages: [Blueprint_Keycard_C_173] Gained Red Keycard
+[2019.02.08-15.39.02:915][737]LogBlueprintUserMessages: [Blueprint_Keycard_C_174] Gained Red Keycard
+[2019.02.08-15.39.02:927][738]LogBlueprintUserMessages: [Blueprint_Keycard_C_175] Gained Red Keycard
+[2019.02.08-15.39.02:928][738]LogBlueprintUserMessages: [Blueprint_Keycard_C_176] Gained Red Keycard
+[2019.02.08-15.39.02:971][739]LogBlueprintUserMessages: [Blueprint_Keycard_C_177] Gained Red Keycard
+[2019.02.08-15.39.02:972][739]LogBlueprintUserMessages: [Blueprint_Keycard_C_178] Gained Red Keycard
+[2019.02.08-15.39.02:995][740]LogBlueprintUserMessages: [Blueprint_Keycard_C_179] Gained Red Keycard
+[2019.02.08-15.39.02:996][740]LogBlueprintUserMessages: [Blueprint_Keycard_C_180] Gained Red Keycard
+[2019.02.08-15.39.03:013][741]LogBlueprintUserMessages: [Blueprint_Keycard_C_181] Gained Red Keycard
+[2019.02.08-15.39.03:013][741]LogBlueprintUserMessages: [Blueprint_Keycard_C_182] Gained Red Keycard
+[2019.02.08-15.39.03:030][742]LogBlueprintUserMessages: [Blueprint_Keycard_C_183] Gained Red Keycard
+[2019.02.08-15.39.03:031][742]LogBlueprintUserMessages: [Blueprint_Keycard_C_184] Gained Red Keycard
+[2019.02.08-15.39.03:047][743]LogBlueprintUserMessages: [Blueprint_Keycard_C_185] Gained Red Keycard
+[2019.02.08-15.39.03:048][743]LogBlueprintUserMessages: [Blueprint_Keycard_C_186] Gained Red Keycard
+[2019.02.08-15.39.03:063][744]LogBlueprintUserMessages: [Blueprint_Keycard_C_187] Gained Red Keycard
+[2019.02.08-15.39.03:064][744]LogBlueprintUserMessages: [Blueprint_Keycard_C_188] Gained Red Keycard
+[2019.02.08-15.39.03:080][745]LogBlueprintUserMessages: [Blueprint_Keycard_C_189] Gained Red Keycard
+[2019.02.08-15.39.03:081][745]LogBlueprintUserMessages: [Blueprint_Keycard_C_190] Gained Red Keycard
+[2019.02.08-15.39.03:097][746]LogBlueprintUserMessages: [Blueprint_Keycard_C_191] Gained Red Keycard
+[2019.02.08-15.39.03:098][746]LogBlueprintUserMessages: [Blueprint_Keycard_C_192] Gained Red Keycard
+[2019.02.08-15.39.03:114][747]LogBlueprintUserMessages: [Blueprint_Keycard_C_193] Gained Red Keycard
+[2019.02.08-15.39.03:115][747]LogBlueprintUserMessages: [Blueprint_Keycard_C_194] Gained Red Keycard
+[2019.02.08-15.39.03:132][748]LogBlueprintUserMessages: [Blueprint_Keycard_C_195] Gained Red Keycard
+[2019.02.08-15.39.03:147][749]LogBlueprintUserMessages: [Blueprint_Keycard_C_196] Gained Red Keycard
+[2019.02.08-15.39.03:159][750]LogBlueprintUserMessages: [Blueprint_Keycard_C_197] Gained Red Keycard
+[2019.02.08-15.39.03:171][751]LogBlueprintUserMessages: [Blueprint_Keycard_C_198] Gained Red Keycard
+[2019.02.08-15.39.03:182][752]LogBlueprintUserMessages: [Blueprint_Keycard_C_199] Gained Red Keycard
+[2019.02.08-15.39.03:193][753]LogBlueprintUserMessages: [Blueprint_Keycard_C_200] Gained Red Keycard
+[2019.02.08-15.39.03:205][754]LogBlueprintUserMessages: [Blueprint_Keycard_C_201] Gained Red Keycard
+[2019.02.08-15.39.03:206][754]LogBlueprintUserMessages: [Blueprint_Keycard_C_202] Gained Red Keycard
+[2019.02.08-15.39.03:218][755]LogBlueprintUserMessages: [Blueprint_Keycard_C_203] Gained Red Keycard
+[2019.02.08-15.39.03:219][755]LogBlueprintUserMessages: [Blueprint_Keycard_C_204] Gained Red Keycard
+[2019.02.08-15.39.03:232][756]LogBlueprintUserMessages: [Blueprint_Keycard_C_205] Gained Red Keycard
+[2019.02.08-15.39.03:233][756]LogBlueprintUserMessages: [Blueprint_Keycard_C_206] Gained Red Keycard
+[2019.02.08-15.39.03:245][757]LogBlueprintUserMessages: [Blueprint_Keycard_C_207] Gained Red Keycard
+[2019.02.08-15.39.03:246][757]LogBlueprintUserMessages: [Blueprint_Keycard_C_208] Gained Red Keycard
+[2019.02.08-15.39.03:262][758]LogBlueprintUserMessages: [Blueprint_Keycard_C_209] Gained Red Keycard
+[2019.02.08-15.39.03:263][758]LogBlueprintUserMessages: [Blueprint_Keycard_C_210] Gained Red Keycard
+[2019.02.08-15.39.03:279][759]LogBlueprintUserMessages: [Blueprint_Keycard_C_211] Gained Red Keycard
+[2019.02.08-15.39.03:280][759]LogBlueprintUserMessages: [Blueprint_Keycard_C_212] Gained Red Keycard
+[2019.02.08-15.39.03:296][760]LogBlueprintUserMessages: [Blueprint_Keycard_C_213] Gained Red Keycard
+[2019.02.08-15.39.03:298][760]LogBlueprintUserMessages: [Blueprint_Keycard_C_214] Gained Red Keycard
+[2019.02.08-15.39.03:313][761]LogBlueprintUserMessages: [Blueprint_Keycard_C_215] Gained Red Keycard
+[2019.02.08-15.39.03:315][761]LogBlueprintUserMessages: [Blueprint_Keycard_C_216] Gained Red Keycard
+[2019.02.08-15.39.03:329][762]LogBlueprintUserMessages: [Blueprint_Keycard_C_217] Gained Red Keycard
+[2019.02.08-15.39.03:333][762]LogBlueprintUserMessages: [Blueprint_Keycard_C_218] Gained Red Keycard
+[2019.02.08-15.39.03:346][763]LogBlueprintUserMessages: [Blueprint_Keycard_C_219] Gained Red Keycard
+[2019.02.08-15.39.03:350][763]LogBlueprintUserMessages: [Blueprint_Keycard_C_220] Gained Red Keycard
+[2019.02.08-15.39.03:363][764]LogBlueprintUserMessages: [Blueprint_Keycard_C_221] Gained Red Keycard
+[2019.02.08-15.39.03:367][764]LogBlueprintUserMessages: [Blueprint_Keycard_C_222] Gained Red Keycard
+[2019.02.08-15.39.03:380][765]LogBlueprintUserMessages: [Blueprint_Keycard_C_223] Gained Red Keycard
+[2019.02.08-15.39.03:383][765]LogBlueprintUserMessages: [Blueprint_Keycard_C_224] Gained Red Keycard
+[2019.02.08-15.39.03:396][766]LogBlueprintUserMessages: [Blueprint_Keycard_C_225] Gained Red Keycard
+[2019.02.08-15.39.03:399][766]LogBlueprintUserMessages: [Blueprint_Keycard_C_226] Gained Red Keycard
+[2019.02.08-15.39.03:413][767]LogBlueprintUserMessages: [Blueprint_Keycard_C_227] Gained Red Keycard
+[2019.02.08-15.39.03:416][767]LogBlueprintUserMessages: [Blueprint_Keycard_C_228] Gained Red Keycard
+[2019.02.08-15.39.03:429][768]LogBlueprintUserMessages: [Blueprint_Keycard_C_229] Gained Red Keycard
+[2019.02.08-15.39.03:433][768]LogBlueprintUserMessages: [Blueprint_Keycard_C_230] Gained Red Keycard
+[2019.02.08-15.39.03:446][769]LogBlueprintUserMessages: [Blueprint_Keycard_C_231] Gained Red Keycard
+[2019.02.08-15.39.03:449][769]LogBlueprintUserMessages: [Blueprint_Keycard_C_232] Gained Red Keycard
+[2019.02.08-15.39.03:463][770]LogBlueprintUserMessages: [Blueprint_Keycard_C_233] Gained Red Keycard
+[2019.02.08-15.39.03:467][770]LogBlueprintUserMessages: [Blueprint_Keycard_C_234] Gained Red Keycard
+[2019.02.08-15.39.03:479][771]LogBlueprintUserMessages: [Blueprint_Keycard_C_235] Gained Red Keycard
+[2019.02.08-15.39.03:482][771]LogBlueprintUserMessages: [Blueprint_Keycard_C_236] Gained Red Keycard
+[2019.02.08-15.39.03:496][772]LogBlueprintUserMessages: [Blueprint_Keycard_C_237] Gained Red Keycard
+[2019.02.08-15.39.03:500][772]LogBlueprintUserMessages: [Blueprint_Keycard_C_238] Gained Red Keycard
+[2019.02.08-15.39.03:513][773]LogBlueprintUserMessages: [Blueprint_Keycard_C_239] Gained Red Keycard
+[2019.02.08-15.39.03:516][773]LogBlueprintUserMessages: [Blueprint_Keycard_C_240] Gained Red Keycard
+[2019.02.08-15.39.03:529][774]LogBlueprintUserMessages: [Blueprint_Keycard_C_241] Gained Red Keycard
+[2019.02.08-15.39.03:531][774]LogBlueprintUserMessages: [Blueprint_Keycard_C_242] Gained Red Keycard
+[2019.02.08-15.39.03:546][775]LogBlueprintUserMessages: [Blueprint_Keycard_C_243] Gained Red Keycard
+[2019.02.08-15.39.03:547][775]LogBlueprintUserMessages: [Blueprint_Keycard_C_244] Gained Red Keycard
+[2019.02.08-15.39.03:563][776]LogBlueprintUserMessages: [Blueprint_Keycard_C_245] Gained Red Keycard
+[2019.02.08-15.39.03:564][776]LogBlueprintUserMessages: [Blueprint_Keycard_C_246] Gained Red Keycard
+[2019.02.08-15.39.03:579][777]LogBlueprintUserMessages: [Blueprint_Keycard_C_247] Gained Red Keycard
+[2019.02.08-15.39.03:580][777]LogBlueprintUserMessages: [Blueprint_Keycard_C_248] Gained Red Keycard
+[2019.02.08-15.39.03:596][778]LogBlueprintUserMessages: [Blueprint_Keycard_C_249] Gained Red Keycard
+[2019.02.08-15.39.03:597][778]LogBlueprintUserMessages: [Blueprint_Keycard_C_250] Gained Red Keycard
+[2019.02.08-15.39.03:613][779]LogBlueprintUserMessages: [Blueprint_Keycard_C_251] Gained Red Keycard
+[2019.02.08-15.39.03:614][779]LogBlueprintUserMessages: [Blueprint_Keycard_C_252] Gained Red Keycard
+[2019.02.08-15.39.03:630][780]LogBlueprintUserMessages: [Blueprint_Keycard_C_253] Gained Red Keycard
+[2019.02.08-15.39.03:631][780]LogBlueprintUserMessages: [Blueprint_Keycard_C_254] Gained Red Keycard
+[2019.02.08-15.39.03:649][781]LogBlueprintUserMessages: [Blueprint_Keycard_C_255] Gained Red Keycard
+[2019.02.08-15.39.03:650][781]LogBlueprintUserMessages: [Blueprint_Keycard_C_256] Gained Red Keycard
+[2019.02.08-15.39.03:663][782]LogBlueprintUserMessages: [Blueprint_Keycard_C_257] Gained Red Keycard
+[2019.02.08-15.39.03:664][782]LogBlueprintUserMessages: [Blueprint_Keycard_C_258] Gained Red Keycard
+[2019.02.08-15.39.03:680][783]LogBlueprintUserMessages: [Blueprint_Keycard_C_259] Gained Red Keycard
+[2019.02.08-15.39.03:682][783]LogBlueprintUserMessages: [Blueprint_Keycard_C_260] Gained Red Keycard
+[2019.02.08-15.39.03:696][784]LogBlueprintUserMessages: [Blueprint_Keycard_C_261] Gained Red Keycard
+[2019.02.08-15.39.03:698][784]LogBlueprintUserMessages: [Blueprint_Keycard_C_262] Gained Red Keycard
+[2019.02.08-15.39.03:712][785]LogBlueprintUserMessages: [Blueprint_Keycard_C_263] Gained Red Keycard
+[2019.02.08-15.39.03:714][785]LogBlueprintUserMessages: [Blueprint_Keycard_C_264] Gained Red Keycard
+[2019.02.08-15.39.03:729][786]LogBlueprintUserMessages: [Blueprint_Keycard_C_265] Gained Red Keycard
+[2019.02.08-15.39.03:730][786]LogBlueprintUserMessages: [Blueprint_Keycard_C_266] Gained Red Keycard
+[2019.02.08-15.39.03:746][787]LogBlueprintUserMessages: [Blueprint_Keycard_C_267] Gained Red Keycard
+[2019.02.08-15.39.03:747][787]LogBlueprintUserMessages: [Blueprint_Keycard_C_268] Gained Red Keycard
+[2019.02.08-15.39.03:763][788]LogBlueprintUserMessages: [Blueprint_Keycard_C_269] Gained Red Keycard
+[2019.02.08-15.39.03:764][788]LogBlueprintUserMessages: [Blueprint_Keycard_C_270] Gained Red Keycard
+[2019.02.08-15.39.03:780][789]LogBlueprintUserMessages: [Blueprint_Keycard_C_271] Gained Red Keycard
+[2019.02.08-15.39.03:781][789]LogBlueprintUserMessages: [Blueprint_Keycard_C_272] Gained Red Keycard
+[2019.02.08-15.39.03:797][790]LogBlueprintUserMessages: [Blueprint_Keycard_C_273] Gained Red Keycard
+[2019.02.08-15.39.03:798][790]LogBlueprintUserMessages: [Blueprint_Keycard_C_274] Gained Red Keycard
+[2019.02.08-15.39.03:814][791]LogBlueprintUserMessages: [Blueprint_Keycard_C_275] Gained Red Keycard
+[2019.02.08-15.39.03:815][791]LogBlueprintUserMessages: [Blueprint_Keycard_C_276] Gained Red Keycard
+[2019.02.08-15.39.03:831][792]LogBlueprintUserMessages: [Blueprint_Keycard_C_277] Gained Red Keycard
+[2019.02.08-15.39.03:832][792]LogBlueprintUserMessages: [Blueprint_Keycard_C_278] Gained Red Keycard
+[2019.02.08-15.39.03:850][793]LogBlueprintUserMessages: [Blueprint_Keycard_C_279] Gained Red Keycard
+[2019.02.08-15.39.03:851][793]LogBlueprintUserMessages: [Blueprint_Keycard_C_280] Gained Red Keycard
+[2019.02.08-15.39.03:864][794]LogBlueprintUserMessages: [Blueprint_Keycard_C_281] Gained Red Keycard
+[2019.02.08-15.39.03:865][794]LogBlueprintUserMessages: [Blueprint_Keycard_C_282] Gained Red Keycard
+[2019.02.08-15.39.03:881][795]LogBlueprintUserMessages: [Blueprint_Keycard_C_283] Gained Red Keycard
+[2019.02.08-15.39.03:882][795]LogBlueprintUserMessages: [Blueprint_Keycard_C_284] Gained Red Keycard
+[2019.02.08-15.39.03:898][796]LogBlueprintUserMessages: [Blueprint_Keycard_C_285] Gained Red Keycard
+[2019.02.08-15.39.03:899][796]LogBlueprintUserMessages: [Blueprint_Keycard_C_286] Gained Red Keycard
+[2019.02.08-15.39.03:914][797]LogBlueprintUserMessages: [Blueprint_Keycard_C_287] Gained Red Keycard
+[2019.02.08-15.39.03:916][797]LogBlueprintUserMessages: [Blueprint_Keycard_C_288] Gained Red Keycard
+[2019.02.08-15.39.03:931][798]LogBlueprintUserMessages: [Blueprint_Keycard_C_289] Gained Red Keycard
+[2019.02.08-15.39.03:932][798]LogBlueprintUserMessages: [Blueprint_Keycard_C_290] Gained Red Keycard
+[2019.02.08-15.39.03:947][799]LogBlueprintUserMessages: [Blueprint_Keycard_C_291] Gained Red Keycard
+[2019.02.08-15.39.03:948][799]LogBlueprintUserMessages: [Blueprint_Keycard_C_292] Gained Red Keycard
+[2019.02.08-15.39.03:964][800]LogBlueprintUserMessages: [Blueprint_Keycard_C_293] Gained Red Keycard
+[2019.02.08-15.39.03:965][800]LogBlueprintUserMessages: [Blueprint_Keycard_C_294] Gained Red Keycard
+[2019.02.08-15.39.03:981][801]LogBlueprintUserMessages: [Blueprint_Keycard_C_295] Gained Red Keycard
+[2019.02.08-15.39.03:982][801]LogBlueprintUserMessages: [Blueprint_Keycard_C_296] Gained Red Keycard
+[2019.02.08-15.39.03:997][802]LogBlueprintUserMessages: [Blueprint_Keycard_C_297] Gained Red Keycard
+[2019.02.08-15.39.03:998][802]LogBlueprintUserMessages: [Blueprint_Keycard_C_298] Gained Red Keycard
+[2019.02.08-15.39.04:014][803]LogBlueprintUserMessages: [Blueprint_Keycard_C_299] Gained Red Keycard
+[2019.02.08-15.39.04:015][803]LogBlueprintUserMessages: [Blueprint_Keycard_C_300] Gained Red Keycard
+[2019.02.08-15.39.04:032][804]LogBlueprintUserMessages: [Blueprint_Keycard_C_301] Gained Red Keycard
+[2019.02.08-15.39.04:048][805]LogBlueprintUserMessages: [Blueprint_Keycard_C_302] Gained Red Keycard
+[2019.02.08-15.39.04:058][806]LogBlueprintUserMessages: [Blueprint_Keycard_C_303] Gained Red Keycard
+[2019.02.08-15.39.04:070][807]LogBlueprintUserMessages: [Blueprint_Keycard_C_304] Gained Red Keycard
+[2019.02.08-15.39.04:082][808]LogBlueprintUserMessages: [Blueprint_Keycard_C_305] Gained Red Keycard
+[2019.02.08-15.39.04:094][809]LogBlueprintUserMessages: [Blueprint_Keycard_C_306] Gained Red Keycard
+[2019.02.08-15.39.04:106][810]LogBlueprintUserMessages: [Blueprint_Keycard_C_307] Gained Red Keycard
+[2019.02.08-15.39.04:107][810]LogBlueprintUserMessages: [Blueprint_Keycard_C_308] Gained Red Keycard
+[2019.02.08-15.39.04:119][811]LogBlueprintUserMessages: [Blueprint_Keycard_C_309] Gained Red Keycard
+[2019.02.08-15.39.04:120][811]LogBlueprintUserMessages: [Blueprint_Keycard_C_310] Gained Red Keycard
+[2019.02.08-15.39.04:132][812]LogBlueprintUserMessages: [Blueprint_Keycard_C_311] Gained Red Keycard
+[2019.02.08-15.39.04:133][812]LogBlueprintUserMessages: [Blueprint_Keycard_C_312] Gained Red Keycard
+[2019.02.08-15.39.04:146][813]LogBlueprintUserMessages: [Blueprint_Keycard_C_313] Gained Red Keycard
+[2019.02.08-15.39.04:147][813]LogBlueprintUserMessages: [Blueprint_Keycard_C_314] Gained Red Keycard
+[2019.02.08-15.39.04:163][814]LogBlueprintUserMessages: [Blueprint_Keycard_C_315] Gained Red Keycard
+[2019.02.08-15.39.04:164][814]LogBlueprintUserMessages: [Blueprint_Keycard_C_316] Gained Red Keycard
+[2019.02.08-15.39.04:180][815]LogBlueprintUserMessages: [Blueprint_Keycard_C_317] Gained Red Keycard
+[2019.02.08-15.39.04:181][815]LogBlueprintUserMessages: [Blueprint_Keycard_C_318] Gained Red Keycard
+[2019.02.08-15.39.04:197][816]LogBlueprintUserMessages: [Blueprint_Keycard_C_319] Gained Red Keycard
+[2019.02.08-15.39.04:198][816]LogBlueprintUserMessages: [Blueprint_Keycard_C_320] Gained Red Keycard
+[2019.02.08-15.39.04:213][817]LogBlueprintUserMessages: [Blueprint_Keycard_C_321] Gained Red Keycard
+[2019.02.08-15.39.04:215][817]LogBlueprintUserMessages: [Blueprint_Keycard_C_322] Gained Red Keycard
+[2019.02.08-15.39.04:230][818]LogBlueprintUserMessages: [Blueprint_Keycard_C_323] Gained Red Keycard
+[2019.02.08-15.39.04:232][818]LogBlueprintUserMessages: [Blueprint_Keycard_C_324] Gained Red Keycard
+[2019.02.08-15.39.04:247][819]LogBlueprintUserMessages: [Blueprint_Keycard_C_325] Gained Red Keycard
+[2019.02.08-15.39.04:248][819]LogBlueprintUserMessages: [Blueprint_Keycard_C_326] Gained Red Keycard
+[2019.02.08-15.39.04:264][820]LogBlueprintUserMessages: [Blueprint_Keycard_C_327] Gained Red Keycard
+[2019.02.08-15.39.04:265][820]LogBlueprintUserMessages: [Blueprint_Keycard_C_328] Gained Red Keycard
+[2019.02.08-15.39.04:282][821]LogBlueprintUserMessages: [Blueprint_Keycard_C_329] Gained Red Keycard
+[2019.02.08-15.39.04:283][821]LogBlueprintUserMessages: [Blueprint_Keycard_C_330] Gained Red Keycard
+[2019.02.08-15.39.04:314][822]LogBlueprintUserMessages: [Blueprint_Keycard_C_331] Gained Red Keycard
+[2019.02.08-15.39.04:315][822]LogBlueprintUserMessages: [Blueprint_Keycard_C_332] Gained Red Keycard
+[2019.02.08-15.39.04:334][823]LogBlueprintUserMessages: [Blueprint_Keycard_C_333] Gained Red Keycard
+[2019.02.08-15.39.04:335][823]LogBlueprintUserMessages: [Blueprint_Keycard_C_334] Gained Red Keycard
+[2019.02.08-15.39.04:348][824]LogBlueprintUserMessages: [Blueprint_Keycard_C_335] Gained Red Keycard
+[2019.02.08-15.39.04:349][824]LogBlueprintUserMessages: [Blueprint_Keycard_C_336] Gained Red Keycard
+[2019.02.08-15.39.04:364][825]LogBlueprintUserMessages: [Blueprint_Keycard_C_337] Gained Red Keycard
+[2019.02.08-15.39.04:365][825]LogBlueprintUserMessages: [Blueprint_Keycard_C_338] Gained Red Keycard
+[2019.02.08-15.39.04:379][826]LogBlueprintUserMessages: [Blueprint_Keycard_C_339] Gained Red Keycard
+[2019.02.08-15.39.04:380][826]LogBlueprintUserMessages: [Blueprint_Keycard_C_340] Gained Red Keycard
+[2019.02.08-15.39.04:393][827]LogBlueprintUserMessages: [Blueprint_Keycard_C_341] Gained Red Keycard
+[2019.02.08-15.39.04:394][827]LogBlueprintUserMessages: [Blueprint_Keycard_C_342] Gained Red Keycard
+[2019.02.08-15.39.04:409][828]LogBlueprintUserMessages: [Blueprint_Keycard_C_343] Gained Red Keycard
+[2019.02.08-15.39.04:410][828]LogBlueprintUserMessages: [Blueprint_Keycard_C_344] Gained Red Keycard
+[2019.02.08-15.39.04:425][829]LogBlueprintUserMessages: [Blueprint_Keycard_C_345] Gained Red Keycard
+[2019.02.08-15.39.04:426][829]LogBlueprintUserMessages: [Blueprint_Keycard_C_346] Gained Red Keycard
+[2019.02.08-15.39.04:442][830]LogBlueprintUserMessages: [Blueprint_Keycard_C_347] Gained Red Keycard
+[2019.02.08-15.39.04:442][830]LogBlueprintUserMessages: [Blueprint_Keycard_C_348] Gained Red Keycard
+[2019.02.08-15.39.04:459][831]LogBlueprintUserMessages: [Blueprint_Keycard_C_349] Gained Red Keycard
+[2019.02.08-15.39.04:460][831]LogBlueprintUserMessages: [Blueprint_Keycard_C_350] Gained Red Keycard
+[2019.02.08-15.39.04:476][832]LogBlueprintUserMessages: [Blueprint_Keycard_C_351] Gained Red Keycard
+[2019.02.08-15.39.04:477][832]LogBlueprintUserMessages: [Blueprint_Keycard_C_352] Gained Red Keycard
+[2019.02.08-15.39.04:494][833]LogBlueprintUserMessages: [Blueprint_Keycard_C_353] Gained Red Keycard
+[2019.02.08-15.39.04:495][833]LogBlueprintUserMessages: [Blueprint_Keycard_C_354] Gained Red Keycard
+[2019.02.08-15.39.04:511][834]LogBlueprintUserMessages: [Blueprint_Keycard_C_355] Gained Red Keycard
+[2019.02.08-15.39.04:514][834]LogBlueprintUserMessages: [Blueprint_Keycard_C_356] Gained Red Keycard
+[2019.02.08-15.39.04:529][835]LogBlueprintUserMessages: [Blueprint_Keycard_C_357] Gained Red Keycard
+[2019.02.08-15.39.04:532][835]LogBlueprintUserMessages: [Blueprint_Keycard_C_358] Gained Red Keycard
+[2019.02.08-15.39.04:546][836]LogBlueprintUserMessages: [Blueprint_Keycard_C_359] Gained Red Keycard
+[2019.02.08-15.39.04:549][836]LogBlueprintUserMessages: [Blueprint_Keycard_C_360] Gained Red Keycard
+[2019.02.08-15.39.04:563][837]LogBlueprintUserMessages: [Blueprint_Keycard_C_361] Gained Red Keycard
+[2019.02.08-15.39.04:569][837]LogBlueprintUserMessages: [Blueprint_Keycard_C_362] Gained Red Keycard
+[2019.02.08-15.39.04:581][838]LogBlueprintUserMessages: [Blueprint_Keycard_C_363] Gained Red Keycard
+[2019.02.08-15.39.04:584][838]LogBlueprintUserMessages: [Blueprint_Keycard_C_364] Gained Red Keycard
+[2019.02.08-15.39.04:597][839]LogBlueprintUserMessages: [Blueprint_Keycard_C_365] Gained Red Keycard
+[2019.02.08-15.39.04:602][839]LogBlueprintUserMessages: [Blueprint_Keycard_C_366] Gained Red Keycard
+[2019.02.08-15.39.04:614][840]LogBlueprintUserMessages: [Blueprint_Keycard_C_367] Gained Red Keycard
+[2019.02.08-15.39.04:618][840]LogBlueprintUserMessages: [Blueprint_Keycard_C_368] Gained Red Keycard
+[2019.02.08-15.39.04:630][841]LogBlueprintUserMessages: [Blueprint_Keycard_C_369] Gained Red Keycard
+[2019.02.08-15.39.04:633][841]LogBlueprintUserMessages: [Blueprint_Keycard_C_370] Gained Red Keycard
+[2019.02.08-15.39.04:646][842]LogBlueprintUserMessages: [Blueprint_Keycard_C_371] Gained Red Keycard
+[2019.02.08-15.39.04:649][842]LogBlueprintUserMessages: [Blueprint_Keycard_C_372] Gained Red Keycard
+[2019.02.08-15.39.04:663][843]LogBlueprintUserMessages: [Blueprint_Keycard_C_373] Gained Red Keycard
+[2019.02.08-15.39.04:666][843]LogBlueprintUserMessages: [Blueprint_Keycard_C_374] Gained Red Keycard
+[2019.02.08-15.39.04:679][844]LogBlueprintUserMessages: [Blueprint_Keycard_C_375] Gained Red Keycard
+[2019.02.08-15.39.04:682][844]LogBlueprintUserMessages: [Blueprint_Keycard_C_376] Gained Red Keycard
+[2019.02.08-15.39.04:696][845]LogBlueprintUserMessages: [Blueprint_Keycard_C_377] Gained Red Keycard
+[2019.02.08-15.39.04:699][845]LogBlueprintUserMessages: [Blueprint_Keycard_C_378] Gained Red Keycard
+[2019.02.08-15.39.04:713][846]LogBlueprintUserMessages: [Blueprint_Keycard_C_379] Gained Red Keycard
+[2019.02.08-15.39.04:718][846]LogBlueprintUserMessages: [Blueprint_Keycard_C_380] Gained Red Keycard
+[2019.02.08-15.39.04:729][847]LogBlueprintUserMessages: [Blueprint_Keycard_C_381] Gained Red Keycard
+[2019.02.08-15.39.04:734][847]LogBlueprintUserMessages: [Blueprint_Keycard_C_382] Gained Red Keycard
+[2019.02.08-15.39.04:746][848]LogBlueprintUserMessages: [Blueprint_Keycard_C_383] Gained Red Keycard
+[2019.02.08-15.39.04:750][848]LogBlueprintUserMessages: [Blueprint_Keycard_C_384] Gained Red Keycard
+[2019.02.08-15.39.04:763][849]LogBlueprintUserMessages: [Blueprint_Keycard_C_385] Gained Red Keycard
+[2019.02.08-15.39.04:765][849]LogBlueprintUserMessages: [Blueprint_Keycard_C_386] Gained Red Keycard
+[2019.02.08-15.39.04:779][850]LogBlueprintUserMessages: [Blueprint_Keycard_C_387] Gained Red Keycard
+[2019.02.08-15.39.04:783][850]LogBlueprintUserMessages: [Blueprint_Keycard_C_388] Gained Red Keycard
+[2019.02.08-15.39.04:796][851]LogBlueprintUserMessages: [Blueprint_Keycard_C_389] Gained Red Keycard
+[2019.02.08-15.39.04:798][851]LogBlueprintUserMessages: [Blueprint_Keycard_C_390] Gained Red Keycard
+[2019.02.08-15.39.04:812][852]LogBlueprintUserMessages: [Blueprint_Keycard_C_391] Gained Red Keycard
+[2019.02.08-15.39.04:814][852]LogBlueprintUserMessages: [Blueprint_Keycard_C_392] Gained Red Keycard
+[2019.02.08-15.39.04:829][853]LogBlueprintUserMessages: [Blueprint_Keycard_C_393] Gained Red Keycard
+[2019.02.08-15.39.04:830][853]LogBlueprintUserMessages: [Blueprint_Keycard_C_394] Gained Red Keycard
+[2019.02.08-15.39.04:845][854]LogBlueprintUserMessages: [Blueprint_Keycard_C_395] Gained Red Keycard
+[2019.02.08-15.39.04:847][854]LogBlueprintUserMessages: [Blueprint_Keycard_C_396] Gained Red Keycard
+[2019.02.08-15.39.04:862][855]LogBlueprintUserMessages: [Blueprint_Keycard_C_397] Gained Red Keycard
+[2019.02.08-15.39.04:864][855]LogBlueprintUserMessages: [Blueprint_Keycard_C_398] Gained Red Keycard
+[2019.02.08-15.39.04:879][856]LogBlueprintUserMessages: [Blueprint_Keycard_C_399] Gained Red Keycard
+[2019.02.08-15.39.04:880][856]LogBlueprintUserMessages: [Blueprint_Keycard_C_400] Gained Red Keycard
+[2019.02.08-15.39.04:896][857]LogBlueprintUserMessages: [Blueprint_Keycard_C_401] Gained Red Keycard
+[2019.02.08-15.39.04:899][857]LogBlueprintUserMessages: [Blueprint_Keycard_C_402] Gained Red Keycard
+[2019.02.08-15.39.04:913][858]LogBlueprintUserMessages: [Blueprint_Keycard_C_403] Gained Red Keycard
+[2019.02.08-15.39.04:915][858]LogBlueprintUserMessages: [Blueprint_Keycard_C_404] Gained Red Keycard
+[2019.02.08-15.39.04:930][859]LogBlueprintUserMessages: [Blueprint_Keycard_C_405] Gained Red Keycard
+[2019.02.08-15.39.04:931][859]LogBlueprintUserMessages: [Blueprint_Keycard_C_406] Gained Red Keycard
+[2019.02.08-15.39.04:946][860]LogBlueprintUserMessages: [Blueprint_Keycard_C_407] Gained Red Keycard
+[2019.02.08-15.39.04:948][860]LogBlueprintUserMessages: [Blueprint_Keycard_C_408] Gained Red Keycard
+[2019.02.08-15.39.04:963][861]LogBlueprintUserMessages: [Blueprint_Keycard_C_409] Gained Red Keycard
+[2019.02.08-15.39.04:965][861]LogBlueprintUserMessages: [Blueprint_Keycard_C_410] Gained Red Keycard
+[2019.02.08-15.39.04:980][862]LogBlueprintUserMessages: [Blueprint_Keycard_C_411] Gained Red Keycard
+[2019.02.08-15.39.04:981][862]LogBlueprintUserMessages: [Blueprint_Keycard_C_412] Gained Red Keycard
+[2019.02.08-15.39.04:997][863]LogBlueprintUserMessages: [Blueprint_Keycard_C_413] Gained Red Keycard
+[2019.02.08-15.39.04:999][863]LogBlueprintUserMessages: [Blueprint_Keycard_C_414] Gained Red Keycard
+[2019.02.08-15.39.05:013][864]LogBlueprintUserMessages: [Blueprint_Keycard_C_415] Gained Red Keycard
+[2019.02.08-15.39.05:015][864]LogBlueprintUserMessages: [Blueprint_Keycard_C_416] Gained Red Keycard
+[2019.02.08-15.39.05:030][865]LogBlueprintUserMessages: [Blueprint_Keycard_C_417] Gained Red Keycard
+[2019.02.08-15.39.05:032][865]LogBlueprintUserMessages: [Blueprint_Keycard_C_418] Gained Red Keycard
+[2019.02.08-15.39.05:047][866]LogBlueprintUserMessages: [Blueprint_Keycard_C_419] Gained Red Keycard
+[2019.02.08-15.39.05:048][866]LogBlueprintUserMessages: [Blueprint_Keycard_C_420] Gained Red Keycard
+[2019.02.08-15.39.05:064][867]LogBlueprintUserMessages: [Blueprint_Keycard_C_421] Gained Red Keycard
+[2019.02.08-15.39.05:065][867]LogBlueprintUserMessages: [Blueprint_Keycard_C_422] Gained Red Keycard
+[2019.02.08-15.39.05:080][868]LogBlueprintUserMessages: [Blueprint_Keycard_C_423] Gained Red Keycard
+[2019.02.08-15.39.05:083][868]LogBlueprintUserMessages: [Blueprint_Keycard_C_424] Gained Red Keycard
+[2019.02.08-15.39.05:097][869]LogBlueprintUserMessages: [Blueprint_Keycard_C_425] Gained Red Keycard
+[2019.02.08-15.39.05:099][869]LogBlueprintUserMessages: [Blueprint_Keycard_C_426] Gained Red Keycard
+[2019.02.08-15.39.05:114][870]LogBlueprintUserMessages: [Blueprint_Keycard_C_427] Gained Red Keycard
+[2019.02.08-15.39.05:115][870]LogBlueprintUserMessages: [Blueprint_Keycard_C_428] Gained Red Keycard
+[2019.02.08-15.39.05:131][871]LogBlueprintUserMessages: [Blueprint_Keycard_C_429] Gained Red Keycard
+[2019.02.08-15.39.05:133][871]LogBlueprintUserMessages: [Blueprint_Keycard_C_430] Gained Red Keycard
+[2019.02.08-15.39.05:148][872]LogBlueprintUserMessages: [Blueprint_Keycard_C_431] Gained Red Keycard
+[2019.02.08-15.39.05:149][872]LogBlueprintUserMessages: [Blueprint_Keycard_C_432] Gained Red Keycard
+[2019.02.08-15.39.05:164][873]LogBlueprintUserMessages: [Blueprint_Keycard_C_433] Gained Red Keycard
+[2019.02.08-15.39.05:166][873]LogBlueprintUserMessages: [Blueprint_Keycard_C_434] Gained Red Keycard
+[2019.02.08-15.39.05:181][874]LogBlueprintUserMessages: [Blueprint_Keycard_C_435] Gained Red Keycard
+[2019.02.08-15.39.05:183][874]LogBlueprintUserMessages: [Blueprint_Keycard_C_436] Gained Red Keycard
+[2019.02.08-15.39.05:197][875]LogBlueprintUserMessages: [Blueprint_Keycard_C_437] Gained Red Keycard
+[2019.02.08-15.39.05:199][875]LogBlueprintUserMessages: [Blueprint_Keycard_C_438] Gained Red Keycard
+[2019.02.08-15.39.05:214][876]LogBlueprintUserMessages: [Blueprint_Keycard_C_439] Gained Red Keycard
+[2019.02.08-15.39.05:216][876]LogBlueprintUserMessages: [Blueprint_Keycard_C_440] Gained Red Keycard
+[2019.02.08-15.39.05:231][877]LogBlueprintUserMessages: [Blueprint_Keycard_C_441] Gained Red Keycard
+[2019.02.08-15.39.05:234][877]LogBlueprintUserMessages: [Blueprint_Keycard_C_442] Gained Red Keycard
+[2019.02.08-15.39.05:248][878]LogBlueprintUserMessages: [Blueprint_Keycard_C_443] Gained Red Keycard
+[2019.02.08-15.39.05:252][878]LogBlueprintUserMessages: [Blueprint_Keycard_C_444] Gained Red Keycard
+[2019.02.08-15.39.05:265][879]LogBlueprintUserMessages: [Blueprint_Keycard_C_445] Gained Red Keycard
+[2019.02.08-15.39.05:269][879]LogBlueprintUserMessages: [Blueprint_Keycard_C_446] Gained Red Keycard
+[2019.02.08-15.39.05:280][880]LogBlueprintUserMessages: [Blueprint_Keycard_C_447] Gained Red Keycard
+[2019.02.08-15.39.05:284][880]LogBlueprintUserMessages: [Blueprint_Keycard_C_448] Gained Red Keycard
+[2019.02.08-15.39.05:297][881]LogBlueprintUserMessages: [Blueprint_Keycard_C_449] Gained Red Keycard
+[2019.02.08-15.39.05:301][881]LogBlueprintUserMessages: [Blueprint_Keycard_C_450] Gained Red Keycard
+[2019.02.08-15.39.05:314][882]LogBlueprintUserMessages: [Blueprint_Keycard_C_451] Gained Red Keycard
+[2019.02.08-15.39.05:318][882]LogBlueprintUserMessages: [Blueprint_Keycard_C_452] Gained Red Keycard
+[2019.02.08-15.39.05:330][883]LogBlueprintUserMessages: [Blueprint_Keycard_C_453] Gained Red Keycard
+[2019.02.08-15.39.05:334][883]LogBlueprintUserMessages: [Blueprint_Keycard_C_454] Gained Red Keycard
+[2019.02.08-15.39.05:347][884]LogBlueprintUserMessages: [Blueprint_Keycard_C_455] Gained Red Keycard
+[2019.02.08-15.39.05:351][884]LogBlueprintUserMessages: [Blueprint_Keycard_C_456] Gained Red Keycard
+[2019.02.08-15.39.05:363][885]LogBlueprintUserMessages: [Blueprint_Keycard_C_457] Gained Red Keycard
+[2019.02.08-15.39.05:367][885]LogBlueprintUserMessages: [Blueprint_Keycard_C_458] Gained Red Keycard
+[2019.02.08-15.39.05:379][886]LogBlueprintUserMessages: [Blueprint_Keycard_C_459] Gained Red Keycard
+[2019.02.08-15.39.05:383][886]LogBlueprintUserMessages: [Blueprint_Keycard_C_460] Gained Red Keycard
+[2019.02.08-15.39.05:396][887]LogBlueprintUserMessages: [Blueprint_Keycard_C_461] Gained Red Keycard
+[2019.02.08-15.39.05:399][887]LogBlueprintUserMessages: [Blueprint_Keycard_C_462] Gained Red Keycard
+[2019.02.08-15.39.05:413][888]LogBlueprintUserMessages: [Blueprint_Keycard_C_463] Gained Red Keycard
+[2019.02.08-15.39.05:415][888]LogBlueprintUserMessages: [Blueprint_Keycard_C_464] Gained Red Keycard
+[2019.02.08-15.39.05:429][889]LogBlueprintUserMessages: [Blueprint_Keycard_C_465] Gained Red Keycard
+[2019.02.08-15.39.05:432][889]LogBlueprintUserMessages: [Blueprint_Keycard_C_466] Gained Red Keycard
+[2019.02.08-15.39.05:446][890]LogBlueprintUserMessages: [Blueprint_Keycard_C_467] Gained Red Keycard
+[2019.02.08-15.39.05:447][890]LogBlueprintUserMessages: [Blueprint_Keycard_C_468] Gained Red Keycard
+[2019.02.08-15.39.05:463][891]LogBlueprintUserMessages: [Blueprint_Keycard_C_469] Gained Red Keycard
+[2019.02.08-15.39.05:464][891]LogBlueprintUserMessages: [Blueprint_Keycard_C_470] Gained Red Keycard
+[2019.02.08-15.39.05:479][892]LogBlueprintUserMessages: [Blueprint_Keycard_C_471] Gained Red Keycard
+[2019.02.08-15.39.05:480][892]LogBlueprintUserMessages: [Blueprint_Keycard_C_472] Gained Red Keycard
+[2019.02.08-15.39.05:496][893]LogBlueprintUserMessages: [Blueprint_Keycard_C_473] Gained Red Keycard
+[2019.02.08-15.39.05:497][893]LogBlueprintUserMessages: [Blueprint_Keycard_C_474] Gained Red Keycard
+[2019.02.08-15.39.05:513][894]LogBlueprintUserMessages: [Blueprint_Keycard_C_475] Gained Red Keycard
+[2019.02.08-15.39.05:514][894]LogBlueprintUserMessages: [Blueprint_Keycard_C_476] Gained Red Keycard
+[2019.02.08-15.39.05:530][895]LogBlueprintUserMessages: [Blueprint_Keycard_C_477] Gained Red Keycard
+[2019.02.08-15.39.05:531][895]LogBlueprintUserMessages: [Blueprint_Keycard_C_478] Gained Red Keycard
+[2019.02.08-15.39.05:547][896]LogBlueprintUserMessages: [Blueprint_Keycard_C_479] Gained Red Keycard
+[2019.02.08-15.39.05:548][896]LogBlueprintUserMessages: [Blueprint_Keycard_C_480] Gained Red Keycard
+[2019.02.08-15.39.05:564][897]LogBlueprintUserMessages: [Blueprint_Keycard_C_481] Gained Red Keycard
+[2019.02.08-15.39.05:565][897]LogBlueprintUserMessages: [Blueprint_Keycard_C_482] Gained Red Keycard
+[2019.02.08-15.39.05:580][898]LogBlueprintUserMessages: [Blueprint_Keycard_C_483] Gained Red Keycard
+[2019.02.08-15.39.05:581][898]LogBlueprintUserMessages: [Blueprint_Keycard_C_484] Gained Red Keycard
+[2019.02.08-15.39.05:596][899]LogBlueprintUserMessages: [Blueprint_Keycard_C_485] Gained Red Keycard
+[2019.02.08-15.39.05:597][899]LogBlueprintUserMessages: [Blueprint_Keycard_C_486] Gained Red Keycard
+[2019.02.08-15.39.05:613][900]LogBlueprintUserMessages: [Blueprint_Keycard_C_487] Gained Red Keycard
+[2019.02.08-15.39.05:614][900]LogBlueprintUserMessages: [Blueprint_Keycard_C_488] Gained Red Keycard
+[2019.02.08-15.39.05:630][901]LogBlueprintUserMessages: [Blueprint_Keycard_C_489] Gained Red Keycard
+[2019.02.08-15.39.05:631][901]LogBlueprintUserMessages: [Blueprint_Keycard_C_490] Gained Red Keycard
+[2019.02.08-15.39.05:647][902]LogBlueprintUserMessages: [Blueprint_Keycard_C_491] Gained Red Keycard
+[2019.02.08-15.39.05:648][902]LogBlueprintUserMessages: [Blueprint_Keycard_C_492] Gained Red Keycard
+[2019.02.08-15.39.05:664][903]LogBlueprintUserMessages: [Blueprint_Keycard_C_493] Gained Red Keycard
+[2019.02.08-15.39.05:665][903]LogBlueprintUserMessages: [Blueprint_Keycard_C_494] Gained Red Keycard
+[2019.02.08-15.39.05:680][904]LogBlueprintUserMessages: [Blueprint_Keycard_C_495] Gained Red Keycard
+[2019.02.08-15.39.05:682][904]LogBlueprintUserMessages: [Blueprint_Keycard_C_496] Gained Red Keycard
+[2019.02.08-15.39.05:697][905]LogBlueprintUserMessages: [Blueprint_Keycard_C_497] Gained Red Keycard
+[2019.02.08-15.39.05:699][905]LogBlueprintUserMessages: [Blueprint_Keycard_C_498] Gained Red Keycard
+[2019.02.08-15.39.05:714][906]LogBlueprintUserMessages: [Blueprint_Keycard_C_499] Gained Red Keycard
+[2019.02.08-15.39.05:715][906]LogBlueprintUserMessages: [Blueprint_Keycard_C_500] Gained Red Keycard
+[2019.02.08-15.39.05:731][907]LogBlueprintUserMessages: [Blueprint_Keycard_C_501] Gained Red Keycard
+[2019.02.08-15.39.05:732][907]LogBlueprintUserMessages: [Blueprint_Keycard_C_502] Gained Red Keycard
+[2019.02.08-15.39.05:748][908]LogBlueprintUserMessages: [Blueprint_Keycard_C_503] Gained Red Keycard
+[2019.02.08-15.39.05:749][908]LogBlueprintUserMessages: [Blueprint_Keycard_C_504] Gained Red Keycard
+[2019.02.08-15.39.05:765][909]LogBlueprintUserMessages: [Blueprint_Keycard_C_505] Gained Red Keycard
+[2019.02.08-15.39.05:766][909]LogBlueprintUserMessages: [Blueprint_Keycard_C_506] Gained Red Keycard
+[2019.02.08-15.39.05:781][910]LogBlueprintUserMessages: [Blueprint_Keycard_C_507] Gained Red Keycard
+[2019.02.08-15.39.05:782][910]LogBlueprintUserMessages: [Blueprint_Keycard_C_508] Gained Red Keycard
+[2019.02.08-15.39.05:798][911]LogBlueprintUserMessages: [Blueprint_Keycard_C_509] Gained Red Keycard
+[2019.02.08-15.39.05:799][911]LogBlueprintUserMessages: [Blueprint_Keycard_C_510] Gained Red Keycard
+[2019.02.08-15.39.05:815][912]LogBlueprintUserMessages: [Blueprint_Keycard_C_511] Gained Red Keycard
+[2019.02.08-15.39.05:816][912]LogBlueprintUserMessages: [Blueprint_Keycard_C_512] Gained Red Keycard
+[2019.02.08-15.39.05:832][913]LogBlueprintUserMessages: [Blueprint_Keycard_C_513] Gained Red Keycard
+[2019.02.08-15.39.05:833][913]LogBlueprintUserMessages: [Blueprint_Keycard_C_514] Gained Red Keycard
+[2019.02.08-15.39.05:848][914]LogBlueprintUserMessages: [Blueprint_Keycard_C_515] Gained Red Keycard
+[2019.02.08-15.39.05:849][914]LogBlueprintUserMessages: [Blueprint_Keycard_C_516] Gained Red Keycard
+[2019.02.08-15.39.05:865][915]LogBlueprintUserMessages: [Blueprint_Keycard_C_517] Gained Red Keycard
+[2019.02.08-15.39.05:866][915]LogBlueprintUserMessages: [Blueprint_Keycard_C_518] Gained Red Keycard
+[2019.02.08-15.39.05:882][916]LogBlueprintUserMessages: [Blueprint_Keycard_C_519] Gained Red Keycard
+[2019.02.08-15.39.05:883][916]LogBlueprintUserMessages: [Blueprint_Keycard_C_520] Gained Red Keycard
+[2019.02.08-15.39.05:898][917]LogBlueprintUserMessages: [Blueprint_Keycard_C_521] Gained Red Keycard
+[2019.02.08-15.39.05:900][917]LogBlueprintUserMessages: [Blueprint_Keycard_C_522] Gained Red Keycard
+[2019.02.08-15.39.05:915][918]LogBlueprintUserMessages: [Blueprint_Keycard_C_523] Gained Red Keycard
+[2019.02.08-15.39.05:916][918]LogBlueprintUserMessages: [Blueprint_Keycard_C_524] Gained Red Keycard
+[2019.02.08-15.39.05:942][919]LogUObjectGlobals: Created PersistentFrame Addr=0x000002de27c9f6c8, Size=4, Default__SKEL_Blueprint_Keycard_C Function /Game/Level3/Blueprint_Keycard.SKEL_Blueprint_Keycard_C:ExecuteUbergraph_Blueprint_Keycard
+[2019.02.08-15.39.05:946][919]LogBlueprintUserMessages: [Blueprint_Keycard_C_529] Gained Red Keycard
+[2019.02.08-15.39.05:948][919]LogBlueprintUserMessages: [Blueprint_Keycard_C_530] Gained Red Keycard
+[2019.02.08-15.39.06:001][920]LogBlueprintUserMessages: [Blueprint_Keycard_C_531] Gained Red Keycard
+[2019.02.08-15.39.06:002][920]LogBlueprintUserMessages: [Blueprint_Keycard_C_532] Gained Red Keycard
+[2019.02.08-15.39.06:036][921]LogBlueprintUserMessages: [Blueprint_Keycard_C_533] Gained Red Keycard
+[2019.02.08-15.39.06:037][921]LogBlueprintUserMessages: [Blueprint_Keycard_C_534] Gained Red Keycard
+[2019.02.08-15.39.06:049][922]LogBlueprintUserMessages: [Blueprint_Keycard_C_535] Gained Red Keycard
+[2019.02.08-15.39.06:050][922]LogBlueprintUserMessages: [Blueprint_Keycard_C_536] Gained Red Keycard
+[2019.02.08-15.39.06:062][923]LogBlueprintUserMessages: [Blueprint_Keycard_C_537] Gained Red Keycard
+[2019.02.08-15.39.06:063][923]LogBlueprintUserMessages: [Blueprint_Keycard_C_538] Gained Red Keycard
+[2019.02.08-15.39.06:076][924]LogBlueprintUserMessages: [Blueprint_Keycard_C_539] Gained Red Keycard
+[2019.02.08-15.39.06:077][924]LogBlueprintUserMessages: [Blueprint_Keycard_C_540] Gained Red Keycard
+[2019.02.08-15.39.06:091][925]LogBlueprintUserMessages: [Blueprint_Keycard_C_541] Gained Red Keycard
+[2019.02.08-15.39.06:092][925]LogBlueprintUserMessages: [Blueprint_Keycard_C_542] Gained Red Keycard
+[2019.02.08-15.39.06:106][926]LogBlueprintUserMessages: [Blueprint_Keycard_C_543] Gained Red Keycard
+[2019.02.08-15.39.06:107][926]LogBlueprintUserMessages: [Blueprint_Keycard_C_544] Gained Red Keycard
+[2019.02.08-15.39.06:120][927]LogBlueprintUserMessages: [Blueprint_Keycard_C_545] Gained Red Keycard
+[2019.02.08-15.39.06:121][927]LogBlueprintUserMessages: [Blueprint_Keycard_C_546] Gained Red Keycard
+[2019.02.08-15.39.06:135][928]LogBlueprintUserMessages: [Blueprint_Keycard_C_547] Gained Red Keycard
+[2019.02.08-15.39.06:136][928]LogBlueprintUserMessages: [Blueprint_Keycard_C_548] Gained Red Keycard
+[2019.02.08-15.39.06:149][929]LogBlueprintUserMessages: [Blueprint_Keycard_C_549] Gained Red Keycard
+[2019.02.08-15.39.06:150][929]LogBlueprintUserMessages: [Blueprint_Keycard_C_550] Gained Red Keycard
+[2019.02.08-15.39.06:164][930]LogBlueprintUserMessages: [Blueprint_Keycard_C_551] Gained Red Keycard
+[2019.02.08-15.39.06:166][930]LogBlueprintUserMessages: [Blueprint_Keycard_C_552] Gained Red Keycard
+[2019.02.08-15.39.06:179][931]LogBlueprintUserMessages: [Blueprint_Keycard_C_553] Gained Red Keycard
+[2019.02.08-15.39.06:180][931]LogBlueprintUserMessages: [Blueprint_Keycard_C_554] Gained Red Keycard
+[2019.02.08-15.39.06:194][932]LogBlueprintUserMessages: [Blueprint_Keycard_C_555] Gained Red Keycard
+[2019.02.08-15.39.06:195][932]LogBlueprintUserMessages: [Blueprint_Keycard_C_556] Gained Red Keycard
+[2019.02.08-15.39.06:209][933]LogBlueprintUserMessages: [Blueprint_Keycard_C_557] Gained Red Keycard
+[2019.02.08-15.39.06:210][933]LogBlueprintUserMessages: [Blueprint_Keycard_C_558] Gained Red Keycard
+[2019.02.08-15.39.06:224][934]LogBlueprintUserMessages: [Blueprint_Keycard_C_559] Gained Red Keycard
+[2019.02.08-15.39.06:225][934]LogBlueprintUserMessages: [Blueprint_Keycard_C_560] Gained Red Keycard
+[2019.02.08-15.39.06:239][935]LogBlueprintUserMessages: [Blueprint_Keycard_C_561] Gained Red Keycard
+[2019.02.08-15.39.06:240][935]LogBlueprintUserMessages: [Blueprint_Keycard_C_562] Gained Red Keycard
+[2019.02.08-15.39.06:254][936]LogBlueprintUserMessages: [Blueprint_Keycard_C_563] Gained Red Keycard
+[2019.02.08-15.39.06:254][936]LogBlueprintUserMessages: [Blueprint_Keycard_C_564] Gained Red Keycard
+[2019.02.08-15.39.06:268][937]LogBlueprintUserMessages: [Blueprint_Keycard_C_565] Gained Red Keycard
+[2019.02.08-15.39.06:269][937]LogBlueprintUserMessages: [Blueprint_Keycard_C_566] Gained Red Keycard
+[2019.02.08-15.39.06:283][938]LogBlueprintUserMessages: [Blueprint_Keycard_C_567] Gained Red Keycard
+[2019.02.08-15.39.06:284][938]LogBlueprintUserMessages: [Blueprint_Keycard_C_568] Gained Red Keycard
+[2019.02.08-15.39.06:298][939]LogBlueprintUserMessages: [Blueprint_Keycard_C_569] Gained Red Keycard
+[2019.02.08-15.39.06:299][939]LogBlueprintUserMessages: [Blueprint_Keycard_C_570] Gained Red Keycard
+[2019.02.08-15.39.06:312][940]LogBlueprintUserMessages: [Blueprint_Keycard_C_571] Gained Red Keycard
+[2019.02.08-15.39.06:313][940]LogBlueprintUserMessages: [Blueprint_Keycard_C_572] Gained Red Keycard
+[2019.02.08-15.39.06:327][941]LogBlueprintUserMessages: [Blueprint_Keycard_C_573] Gained Red Keycard
+[2019.02.08-15.39.06:328][941]LogBlueprintUserMessages: [Blueprint_Keycard_C_574] Gained Red Keycard
+[2019.02.08-15.39.06:342][942]LogBlueprintUserMessages: [Blueprint_Keycard_C_575] Gained Red Keycard
+[2019.02.08-15.39.06:343][942]LogBlueprintUserMessages: [Blueprint_Keycard_C_576] Gained Red Keycard
+[2019.02.08-15.39.06:357][943]LogBlueprintUserMessages: [Blueprint_Keycard_C_577] Gained Red Keycard
+[2019.02.08-15.39.06:358][943]LogBlueprintUserMessages: [Blueprint_Keycard_C_578] Gained Red Keycard
+[2019.02.08-15.39.06:372][944]LogBlueprintUserMessages: [Blueprint_Keycard_C_579] Gained Red Keycard
+[2019.02.08-15.39.06:373][944]LogBlueprintUserMessages: [Blueprint_Keycard_C_580] Gained Red Keycard
+[2019.02.08-15.39.06:387][945]LogBlueprintUserMessages: [Blueprint_Keycard_C_581] Gained Red Keycard
+[2019.02.08-15.39.06:388][945]LogBlueprintUserMessages: [Blueprint_Keycard_C_582] Gained Red Keycard
+[2019.02.08-15.39.06:401][946]LogBlueprintUserMessages: [Blueprint_Keycard_C_583] Gained Red Keycard
+[2019.02.08-15.39.06:402][946]LogBlueprintUserMessages: [Blueprint_Keycard_C_584] Gained Red Keycard
+[2019.02.08-15.39.06:416][947]LogBlueprintUserMessages: [Blueprint_Keycard_C_585] Gained Red Keycard
+[2019.02.08-15.39.06:417][947]LogBlueprintUserMessages: [Blueprint_Keycard_C_586] Gained Red Keycard
+[2019.02.08-15.39.06:431][948]LogBlueprintUserMessages: [Blueprint_Keycard_C_587] Gained Red Keycard
+[2019.02.08-15.39.06:432][948]LogBlueprintUserMessages: [Blueprint_Keycard_C_588] Gained Red Keycard
+[2019.02.08-15.39.06:446][949]LogBlueprintUserMessages: [Blueprint_Keycard_C_589] Gained Red Keycard
+[2019.02.08-15.39.06:447][949]LogBlueprintUserMessages: [Blueprint_Keycard_C_590] Gained Red Keycard
+[2019.02.08-15.39.06:459][950]LogBlueprintUserMessages: [Blueprint_Keycard_C_591] Gained Red Keycard
+[2019.02.08-15.39.06:460][950]LogBlueprintUserMessages: [Blueprint_Keycard_C_592] Gained Red Keycard
+[2019.02.08-15.39.06:474][951]LogBlueprintUserMessages: [Blueprint_Keycard_C_593] Gained Red Keycard
+[2019.02.08-15.39.06:475][951]LogBlueprintUserMessages: [Blueprint_Keycard_C_594] Gained Red Keycard
+[2019.02.08-15.39.06:489][952]LogBlueprintUserMessages: [Blueprint_Keycard_C_595] Gained Red Keycard
+[2019.02.08-15.39.06:490][952]LogBlueprintUserMessages: [Blueprint_Keycard_C_596] Gained Red Keycard
+[2019.02.08-15.39.06:504][953]LogBlueprintUserMessages: [Blueprint_Keycard_C_597] Gained Red Keycard
+[2019.02.08-15.39.06:505][953]LogBlueprintUserMessages: [Blueprint_Keycard_C_598] Gained Red Keycard
+[2019.02.08-15.39.06:519][954]LogBlueprintUserMessages: [Blueprint_Keycard_C_599] Gained Red Keycard
+[2019.02.08-15.39.06:520][954]LogBlueprintUserMessages: [Blueprint_Keycard_C_600] Gained Red Keycard
+[2019.02.08-15.39.06:533][955]LogBlueprintUserMessages: [Blueprint_Keycard_C_601] Gained Red Keycard
+[2019.02.08-15.39.06:534][955]LogBlueprintUserMessages: [Blueprint_Keycard_C_602] Gained Red Keycard
+[2019.02.08-15.39.06:550][956]LogBlueprintUserMessages: [Blueprint_Keycard_C_603] Gained Red Keycard
+[2019.02.08-15.39.06:551][956]LogBlueprintUserMessages: [Blueprint_Keycard_C_604] Gained Red Keycard
+[2019.02.08-15.39.06:564][957]LogBlueprintUserMessages: [Blueprint_Keycard_C_605] Gained Red Keycard
+[2019.02.08-15.39.06:565][957]LogBlueprintUserMessages: [Blueprint_Keycard_C_606] Gained Red Keycard
+[2019.02.08-15.39.06:581][958]LogBlueprintUserMessages: [Blueprint_Keycard_C_607] Gained Red Keycard
+[2019.02.08-15.39.06:582][958]LogBlueprintUserMessages: [Blueprint_Keycard_C_608] Gained Red Keycard
+[2019.02.08-15.39.06:598][959]LogBlueprintUserMessages: [Blueprint_Keycard_C_609] Gained Red Keycard
+[2019.02.08-15.39.06:599][959]LogBlueprintUserMessages: [Blueprint_Keycard_C_610] Gained Red Keycard
+[2019.02.08-15.39.06:615][960]LogBlueprintUserMessages: [Blueprint_Keycard_C_611] Gained Red Keycard
+[2019.02.08-15.39.06:616][960]LogBlueprintUserMessages: [Blueprint_Keycard_C_612] Gained Red Keycard
+[2019.02.08-15.39.06:631][961]LogBlueprintUserMessages: [Blueprint_Keycard_C_613] Gained Red Keycard
+[2019.02.08-15.39.06:632][961]LogBlueprintUserMessages: [Blueprint_Keycard_C_614] Gained Red Keycard
+[2019.02.08-15.39.06:648][962]LogBlueprintUserMessages: [Blueprint_Keycard_C_615] Gained Red Keycard
+[2019.02.08-15.39.06:649][962]LogBlueprintUserMessages: [Blueprint_Keycard_C_616] Gained Red Keycard
+[2019.02.08-15.39.06:665][963]LogBlueprintUserMessages: [Blueprint_Keycard_C_617] Gained Red Keycard
+[2019.02.08-15.39.06:666][963]LogBlueprintUserMessages: [Blueprint_Keycard_C_618] Gained Red Keycard
+[2019.02.08-15.39.06:682][964]LogBlueprintUserMessages: [Blueprint_Keycard_C_619] Gained Red Keycard
+[2019.02.08-15.39.06:683][964]LogBlueprintUserMessages: [Blueprint_Keycard_C_620] Gained Red Keycard
+[2019.02.08-15.39.06:698][965]LogBlueprintUserMessages: [Blueprint_Keycard_C_621] Gained Red Keycard
+[2019.02.08-15.39.06:699][965]LogBlueprintUserMessages: [Blueprint_Keycard_C_622] Gained Red Keycard
+[2019.02.08-15.39.06:715][966]LogBlueprintUserMessages: [Blueprint_Keycard_C_623] Gained Red Keycard
+[2019.02.08-15.39.06:716][966]LogBlueprintUserMessages: [Blueprint_Keycard_C_624] Gained Red Keycard
+[2019.02.08-15.39.06:733][967]LogBlueprintUserMessages: [Blueprint_Keycard_C_625] Gained Red Keycard
+[2019.02.08-15.39.06:734][967]LogBlueprintUserMessages: [Blueprint_Keycard_C_626] Gained Red Keycard
+[2019.02.08-15.39.06:749][968]LogBlueprintUserMessages: [Blueprint_Keycard_C_627] Gained Red Keycard
+[2019.02.08-15.39.06:750][968]LogBlueprintUserMessages: [Blueprint_Keycard_C_628] Gained Red Keycard
+[2019.02.08-15.39.06:766][969]LogBlueprintUserMessages: [Blueprint_Keycard_C_629] Gained Red Keycard
+[2019.02.08-15.39.06:767][969]LogBlueprintUserMessages: [Blueprint_Keycard_C_630] Gained Red Keycard
+[2019.02.08-15.39.06:782][970]LogBlueprintUserMessages: [Blueprint_Keycard_C_631] Gained Red Keycard
+[2019.02.08-15.39.06:783][970]LogBlueprintUserMessages: [Blueprint_Keycard_C_632] Gained Red Keycard
+[2019.02.08-15.39.06:799][971]LogBlueprintUserMessages: [Blueprint_Keycard_C_633] Gained Red Keycard
+[2019.02.08-15.39.06:800][971]LogBlueprintUserMessages: [Blueprint_Keycard_C_634] Gained Red Keycard
+[2019.02.08-15.39.06:816][972]LogBlueprintUserMessages: [Blueprint_Keycard_C_635] Gained Red Keycard
+[2019.02.08-15.39.06:817][972]LogBlueprintUserMessages: [Blueprint_Keycard_C_636] Gained Red Keycard
+[2019.02.08-15.39.06:832][973]LogBlueprintUserMessages: [Blueprint_Keycard_C_637] Gained Red Keycard
+[2019.02.08-15.39.06:833][973]LogBlueprintUserMessages: [Blueprint_Keycard_C_638] Gained Red Keycard
+[2019.02.08-15.39.06:850][974]LogBlueprintUserMessages: [Blueprint_Keycard_C_639] Gained Red Keycard
+[2019.02.08-15.39.06:851][974]LogBlueprintUserMessages: [Blueprint_Keycard_C_640] Gained Red Keycard
+[2019.02.08-15.39.06:865][975]LogBlueprintUserMessages: [Blueprint_Keycard_C_641] Gained Red Keycard
+[2019.02.08-15.39.06:866][975]LogBlueprintUserMessages: [Blueprint_Keycard_C_642] Gained Red Keycard
+[2019.02.08-15.39.06:882][976]LogBlueprintUserMessages: [Blueprint_Keycard_C_643] Gained Red Keycard
+[2019.02.08-15.39.06:883][976]LogBlueprintUserMessages: [Blueprint_Keycard_C_644] Gained Red Keycard
+[2019.02.08-15.39.06:898][977]LogBlueprintUserMessages: [Blueprint_Keycard_C_645] Gained Red Keycard
+[2019.02.08-15.39.06:899][977]LogBlueprintUserMessages: [Blueprint_Keycard_C_646] Gained Red Keycard
+[2019.02.08-15.39.06:915][978]LogBlueprintUserMessages: [Blueprint_Keycard_C_647] Gained Red Keycard
+[2019.02.08-15.39.06:916][978]LogBlueprintUserMessages: [Blueprint_Keycard_C_648] Gained Red Keycard
+[2019.02.08-15.39.06:931][979]LogBlueprintUserMessages: [Blueprint_Keycard_C_649] Gained Red Keycard
+[2019.02.08-15.39.06:932][979]LogBlueprintUserMessages: [Blueprint_Keycard_C_650] Gained Red Keycard
+[2019.02.08-15.39.06:948][980]LogBlueprintUserMessages: [Blueprint_Keycard_C_651] Gained Red Keycard
+[2019.02.08-15.39.06:949][980]LogBlueprintUserMessages: [Blueprint_Keycard_C_652] Gained Red Keycard
+[2019.02.08-15.39.06:965][981]LogBlueprintUserMessages: [Blueprint_Keycard_C_653] Gained Red Keycard
+[2019.02.08-15.39.06:966][981]LogBlueprintUserMessages: [Blueprint_Keycard_C_654] Gained Red Keycard
+[2019.02.08-15.39.06:982][982]LogBlueprintUserMessages: [Blueprint_Keycard_C_655] Gained Red Keycard
+[2019.02.08-15.39.06:982][982]LogBlueprintUserMessages: [Blueprint_Keycard_C_656] Gained Red Keycard
+[2019.02.08-15.39.06:998][983]LogBlueprintUserMessages: [Blueprint_Keycard_C_657] Gained Red Keycard
+[2019.02.08-15.39.06:999][983]LogBlueprintUserMessages: [Blueprint_Keycard_C_658] Gained Red Keycard
+[2019.02.08-15.39.07:015][984]LogBlueprintUserMessages: [Blueprint_Keycard_C_659] Gained Red Keycard
+[2019.02.08-15.39.07:016][984]LogBlueprintUserMessages: [Blueprint_Keycard_C_660] Gained Red Keycard
+[2019.02.08-15.39.07:031][985]LogBlueprintUserMessages: [Blueprint_Keycard_C_661] Gained Red Keycard
+[2019.02.08-15.39.07:033][985]LogBlueprintUserMessages: [Blueprint_Keycard_C_662] Gained Red Keycard
+[2019.02.08-15.39.07:048][986]LogBlueprintUserMessages: [Blueprint_Keycard_C_663] Gained Red Keycard
+[2019.02.08-15.39.07:049][986]LogBlueprintUserMessages: [Blueprint_Keycard_C_664] Gained Red Keycard
+[2019.02.08-15.39.07:065][987]LogBlueprintUserMessages: [Blueprint_Keycard_C_665] Gained Red Keycard
+[2019.02.08-15.39.07:067][987]LogBlueprintUserMessages: [Blueprint_Keycard_C_666] Gained Red Keycard
+[2019.02.08-15.39.07:082][988]LogBlueprintUserMessages: [Blueprint_Keycard_C_667] Gained Red Keycard
+[2019.02.08-15.39.07:083][988]LogBlueprintUserMessages: [Blueprint_Keycard_C_668] Gained Red Keycard
+[2019.02.08-15.39.07:099][989]LogBlueprintUserMessages: [Blueprint_Keycard_C_669] Gained Red Keycard
+[2019.02.08-15.39.07:100][989]LogBlueprintUserMessages: [Blueprint_Keycard_C_670] Gained Red Keycard
+[2019.02.08-15.39.07:115][990]LogBlueprintUserMessages: [Blueprint_Keycard_C_671] Gained Red Keycard
+[2019.02.08-15.39.07:116][990]LogBlueprintUserMessages: [Blueprint_Keycard_C_672] Gained Red Keycard
+[2019.02.08-15.39.07:132][991]LogBlueprintUserMessages: [Blueprint_Keycard_C_673] Gained Red Keycard
+[2019.02.08-15.39.07:133][991]LogBlueprintUserMessages: [Blueprint_Keycard_C_674] Gained Red Keycard
+[2019.02.08-15.39.07:150][992]LogBlueprintUserMessages: [Blueprint_Keycard_C_675] Gained Red Keycard
+[2019.02.08-15.39.07:165][993]LogBlueprintUserMessages: [Blueprint_Keycard_C_676] Gained Red Keycard
+[2019.02.08-15.39.07:177][994]LogBlueprintUserMessages: [Blueprint_Keycard_C_677] Gained Red Keycard
+[2019.02.08-15.39.07:189][995]LogBlueprintUserMessages: [Blueprint_Keycard_C_678] Gained Red Keycard
+[2019.02.08-15.39.07:201][996]LogBlueprintUserMessages: [Blueprint_Keycard_C_679] Gained Red Keycard
+[2019.02.08-15.39.07:201][996]LogBlueprintUserMessages: [Blueprint_Keycard_C_680] Gained Red Keycard
+[2019.02.08-15.39.07:235][997]LogBlueprintUserMessages: [Blueprint_Keycard_C_681] Gained Red Keycard
+[2019.02.08-15.39.07:237][997]LogBlueprintUserMessages: [Blueprint_Keycard_C_682] Gained Red Keycard
+[2019.02.08-15.39.07:271][998]LogBlueprintUserMessages: [Blueprint_Keycard_C_683] Gained Red Keycard
+[2019.02.08-15.39.07:272][998]LogBlueprintUserMessages: [Blueprint_Keycard_C_684] Gained Red Keycard
+[2019.02.08-15.39.07:284][999]LogBlueprintUserMessages: [Blueprint_Keycard_C_685] Gained Red Keycard
+[2019.02.08-15.39.07:285][999]LogBlueprintUserMessages: [Blueprint_Keycard_C_686] Gained Red Keycard
+[2019.02.08-15.39.07:297][  0]LogBlueprintUserMessages: [Blueprint_Keycard_C_687] Gained Red Keycard
+[2019.02.08-15.39.07:299][  0]LogBlueprintUserMessages: [Blueprint_Keycard_C_688] Gained Red Keycard
+[2019.02.08-15.39.07:313][  1]LogBlueprintUserMessages: [Blueprint_Keycard_C_689] Gained Red Keycard
+[2019.02.08-15.39.07:313][  1]LogBlueprintUserMessages: [Blueprint_Keycard_C_690] Gained Red Keycard
+[2019.02.08-15.39.07:329][  2]LogBlueprintUserMessages: [Blueprint_Keycard_C_691] Gained Red Keycard
+[2019.02.08-15.39.07:330][  2]LogBlueprintUserMessages: [Blueprint_Keycard_C_692] Gained Red Keycard
+[2019.02.08-15.39.07:346][  3]LogBlueprintUserMessages: [Blueprint_Keycard_C_693] Gained Red Keycard
+[2019.02.08-15.39.07:347][  3]LogBlueprintUserMessages: [Blueprint_Keycard_C_694] Gained Red Keycard
+[2019.02.08-15.39.07:363][  4]LogBlueprintUserMessages: [Blueprint_Keycard_C_695] Gained Red Keycard
+[2019.02.08-15.39.07:364][  4]LogBlueprintUserMessages: [Blueprint_Keycard_C_696] Gained Red Keycard
+[2019.02.08-15.39.07:380][  5]LogBlueprintUserMessages: [Blueprint_Keycard_C_697] Gained Red Keycard
+[2019.02.08-15.39.07:381][  5]LogBlueprintUserMessages: [Blueprint_Keycard_C_698] Gained Red Keycard
+[2019.02.08-15.39.07:396][  6]LogBlueprintUserMessages: [Blueprint_Keycard_C_699] Gained Red Keycard
+[2019.02.08-15.39.07:397][  6]LogBlueprintUserMessages: [Blueprint_Keycard_C_700] Gained Red Keycard
+[2019.02.08-15.39.07:413][  7]LogBlueprintUserMessages: [Blueprint_Keycard_C_701] Gained Red Keycard
+[2019.02.08-15.39.07:414][  7]LogBlueprintUserMessages: [Blueprint_Keycard_C_702] Gained Red Keycard
+[2019.02.08-15.39.07:430][  8]LogBlueprintUserMessages: [Blueprint_Keycard_C_703] Gained Red Keycard
+[2019.02.08-15.39.07:431][  8]LogBlueprintUserMessages: [Blueprint_Keycard_C_704] Gained Red Keycard
+[2019.02.08-15.39.07:446][  9]LogBlueprintUserMessages: [Blueprint_Keycard_C_705] Gained Red Keycard
+[2019.02.08-15.39.07:447][  9]LogBlueprintUserMessages: [Blueprint_Keycard_C_706] Gained Red Keycard
+[2019.02.08-15.39.07:463][ 10]LogBlueprintUserMessages: [Blueprint_Keycard_C_707] Gained Red Keycard
+[2019.02.08-15.39.07:464][ 10]LogBlueprintUserMessages: [Blueprint_Keycard_C_708] Gained Red Keycard
+[2019.02.08-15.39.07:480][ 11]LogBlueprintUserMessages: [Blueprint_Keycard_C_709] Gained Red Keycard
+[2019.02.08-15.39.07:481][ 11]LogBlueprintUserMessages: [Blueprint_Keycard_C_710] Gained Red Keycard
+[2019.02.08-15.39.07:497][ 12]LogBlueprintUserMessages: [Blueprint_Keycard_C_711] Gained Red Keycard
+[2019.02.08-15.39.07:498][ 12]LogBlueprintUserMessages: [Blueprint_Keycard_C_712] Gained Red Keycard
+[2019.02.08-15.39.07:513][ 13]LogBlueprintUserMessages: [Blueprint_Keycard_C_713] Gained Red Keycard
+[2019.02.08-15.39.07:514][ 13]LogBlueprintUserMessages: [Blueprint_Keycard_C_714] Gained Red Keycard
+[2019.02.08-15.39.07:530][ 14]LogBlueprintUserMessages: [Blueprint_Keycard_C_715] Gained Red Keycard
+[2019.02.08-15.39.07:531][ 14]LogBlueprintUserMessages: [Blueprint_Keycard_C_716] Gained Red Keycard
+[2019.02.08-15.39.07:547][ 15]LogBlueprintUserMessages: [Blueprint_Keycard_C_717] Gained Red Keycard
+[2019.02.08-15.39.07:548][ 15]LogBlueprintUserMessages: [Blueprint_Keycard_C_718] Gained Red Keycard
+[2019.02.08-15.39.07:563][ 16]LogBlueprintUserMessages: [Blueprint_Keycard_C_719] Gained Red Keycard
+[2019.02.08-15.39.07:564][ 16]LogBlueprintUserMessages: [Blueprint_Keycard_C_720] Gained Red Keycard
+[2019.02.08-15.39.07:582][ 17]LogBlueprintUserMessages: [Blueprint_Keycard_C_721] Gained Red Keycard
+[2019.02.08-15.39.07:583][ 17]LogBlueprintUserMessages: [Blueprint_Keycard_C_722] Gained Red Keycard
+[2019.02.08-15.39.07:597][ 18]LogBlueprintUserMessages: [Blueprint_Keycard_C_723] Gained Red Keycard
+[2019.02.08-15.39.07:598][ 18]LogBlueprintUserMessages: [Blueprint_Keycard_C_724] Gained Red Keycard
+[2019.02.08-15.39.07:614][ 19]LogBlueprintUserMessages: [Blueprint_Keycard_C_725] Gained Red Keycard
+[2019.02.08-15.39.07:615][ 19]LogBlueprintUserMessages: [Blueprint_Keycard_C_726] Gained Red Keycard
+[2019.02.08-15.39.07:631][ 20]LogBlueprintUserMessages: [Blueprint_Keycard_C_727] Gained Red Keycard
+[2019.02.08-15.39.07:632][ 20]LogBlueprintUserMessages: [Blueprint_Keycard_C_728] Gained Red Keycard
+[2019.02.08-15.39.07:647][ 21]LogBlueprintUserMessages: [Blueprint_Keycard_C_729] Gained Red Keycard
+[2019.02.08-15.39.07:648][ 21]LogBlueprintUserMessages: [Blueprint_Keycard_C_730] Gained Red Keycard
+[2019.02.08-15.39.07:664][ 22]LogBlueprintUserMessages: [Blueprint_Keycard_C_731] Gained Red Keycard
+[2019.02.08-15.39.07:665][ 22]LogBlueprintUserMessages: [Blueprint_Keycard_C_732] Gained Red Keycard
+[2019.02.08-15.39.07:681][ 23]LogBlueprintUserMessages: [Blueprint_Keycard_C_733] Gained Red Keycard
+[2019.02.08-15.39.07:682][ 23]LogBlueprintUserMessages: [Blueprint_Keycard_C_734] Gained Red Keycard
+[2019.02.08-15.39.07:698][ 24]LogBlueprintUserMessages: [Blueprint_Keycard_C_735] Gained Red Keycard
+[2019.02.08-15.39.07:699][ 24]LogBlueprintUserMessages: [Blueprint_Keycard_C_736] Gained Red Keycard
+[2019.02.08-15.39.07:714][ 25]LogBlueprintUserMessages: [Blueprint_Keycard_C_737] Gained Red Keycard
+[2019.02.08-15.39.07:716][ 25]LogBlueprintUserMessages: [Blueprint_Keycard_C_738] Gained Red Keycard
+[2019.02.08-15.39.07:731][ 26]LogBlueprintUserMessages: [Blueprint_Keycard_C_739] Gained Red Keycard
+[2019.02.08-15.39.07:732][ 26]LogBlueprintUserMessages: [Blueprint_Keycard_C_740] Gained Red Keycard
+[2019.02.08-15.39.07:748][ 27]LogBlueprintUserMessages: [Blueprint_Keycard_C_741] Gained Red Keycard
+[2019.02.08-15.39.07:749][ 27]LogBlueprintUserMessages: [Blueprint_Keycard_C_742] Gained Red Keycard
+[2019.02.08-15.39.07:766][ 28]LogBlueprintUserMessages: [Blueprint_Keycard_C_743] Gained Red Keycard
+[2019.02.08-15.39.07:781][ 29]LogBlueprintUserMessages: [Blueprint_Keycard_C_744] Gained Red Keycard
+[2019.02.08-15.39.07:792][ 30]LogBlueprintUserMessages: [Blueprint_Keycard_C_745] Gained Red Keycard
+[2019.02.08-15.39.07:803][ 31]LogBlueprintUserMessages: [Blueprint_Keycard_C_746] Gained Red Keycard
+[2019.02.08-15.39.07:815][ 32]LogBlueprintUserMessages: [Blueprint_Keycard_C_747] Gained Red Keycard
+[2019.02.08-15.39.07:826][ 33]LogBlueprintUserMessages: [Blueprint_Keycard_C_748] Gained Red Keycard
+[2019.02.08-15.39.07:838][ 34]LogBlueprintUserMessages: [Blueprint_Keycard_C_749] Gained Red Keycard
+[2019.02.08-15.39.07:849][ 35]LogBlueprintUserMessages: [Blueprint_Keycard_C_750] Gained Red Keycard
+[2019.02.08-15.39.07:882][ 36]LogBlueprintUserMessages: [Blueprint_Keycard_C_751] Gained Red Keycard
+[2019.02.08-15.39.07:899][ 37]LogBlueprintUserMessages: [Blueprint_Keycard_C_752] Gained Red Keycard
+[2019.02.08-15.39.07:911][ 38]LogBlueprintUserMessages: [Blueprint_Keycard_C_753] Gained Red Keycard
+[2019.02.08-15.39.07:922][ 39]LogBlueprintUserMessages: [Blueprint_Keycard_C_754] Gained Red Keycard
+[2019.02.08-15.39.07:934][ 40]LogBlueprintUserMessages: [Blueprint_Keycard_C_755] Gained Red Keycard
+[2019.02.08-15.39.07:946][ 41]LogBlueprintUserMessages: [Blueprint_Keycard_C_756] Gained Red Keycard
+[2019.02.08-15.39.07:957][ 42]LogBlueprintUserMessages: [Blueprint_Keycard_C_757] Gained Red Keycard
+[2019.02.08-15.39.07:969][ 43]LogBlueprintUserMessages: [Blueprint_Keycard_C_758] Gained Red Keycard
+[2019.02.08-15.39.07:983][ 44]LogBlueprintUserMessages: [Blueprint_Keycard_C_759] Gained Red Keycard
+[2019.02.08-15.39.08:001][ 45]LogBlueprintUserMessages: [Blueprint_Keycard_C_760] Gained Red Keycard
+[2019.02.08-15.39.08:012][ 46]LogBlueprintUserMessages: [Blueprint_Keycard_C_761] Gained Red Keycard
+[2019.02.08-15.39.08:024][ 47]LogBlueprintUserMessages: [Blueprint_Keycard_C_762] Gained Red Keycard
+[2019.02.08-15.39.08:036][ 48]LogBlueprintUserMessages: [Blueprint_Keycard_C_763] Gained Red Keycard
+[2019.02.08-15.39.08:047][ 49]LogBlueprintUserMessages: [Blueprint_Keycard_C_764] Gained Red Keycard
+[2019.02.08-15.39.08:059][ 50]LogBlueprintUserMessages: [Blueprint_Keycard_C_765] Gained Red Keycard
+[2019.02.08-15.39.08:071][ 51]LogBlueprintUserMessages: [Blueprint_Keycard_C_766] Gained Red Keycard
+[2019.02.08-15.39.08:082][ 52]LogBlueprintUserMessages: [Blueprint_Keycard_C_767] Gained Red Keycard
+[2019.02.08-15.39.08:093][ 53]LogBlueprintUserMessages: [Blueprint_Keycard_C_768] Gained Red Keycard
+[2019.02.08-15.39.08:104][ 54]LogBlueprintUserMessages: [Blueprint_Keycard_C_769] Gained Red Keycard
+[2019.02.08-15.39.08:115][ 55]LogBlueprintUserMessages: [Blueprint_Keycard_C_770] Gained Red Keycard
+[2019.02.08-15.39.08:129][ 56]LogBlueprintUserMessages: [Blueprint_Keycard_C_771] Gained Red Keycard
+[2019.02.08-15.39.08:140][ 57]LogBlueprintUserMessages: [Blueprint_Keycard_C_772] Gained Red Keycard
+[2019.02.08-15.39.08:151][ 58]LogBlueprintUserMessages: [Blueprint_Keycard_C_773] Gained Red Keycard
+[2019.02.08-15.39.08:163][ 59]LogBlueprintUserMessages: [Blueprint_Keycard_C_774] Gained Red Keycard
+[2019.02.08-15.39.08:174][ 60]LogBlueprintUserMessages: [Blueprint_Keycard_C_775] Gained Red Keycard
+[2019.02.08-15.39.08:185][ 61]LogBlueprintUserMessages: [Blueprint_Keycard_C_776] Gained Red Keycard
+[2019.02.08-15.39.08:196][ 62]LogBlueprintUserMessages: [Blueprint_Keycard_C_777] Gained Red Keycard
+[2019.02.08-15.39.08:207][ 63]LogBlueprintUserMessages: [Blueprint_Keycard_C_778] Gained Red Keycard
+[2019.02.08-15.39.08:218][ 64]LogBlueprintUserMessages: [Blueprint_Keycard_C_779] Gained Red Keycard
+[2019.02.08-15.39.08:229][ 65]LogBlueprintUserMessages: [Blueprint_Keycard_C_780] Gained Red Keycard
+[2019.02.08-15.39.08:240][ 66]LogBlueprintUserMessages: [Blueprint_Keycard_C_781] Gained Red Keycard
+[2019.02.08-15.39.08:251][ 67]LogBlueprintUserMessages: [Blueprint_Keycard_C_782] Gained Red Keycard
+[2019.02.08-15.39.08:268][ 68]LogBlueprintUserMessages: [Blueprint_Keycard_C_783] Gained Red Keycard
+[2019.02.08-15.39.08:279][ 69]LogBlueprintUserMessages: [Blueprint_Keycard_C_784] Gained Red Keycard
+[2019.02.08-15.39.08:290][ 70]LogBlueprintUserMessages: [Blueprint_Keycard_C_785] Gained Red Keycard
+[2019.02.08-15.39.08:301][ 71]LogBlueprintUserMessages: [Blueprint_Keycard_C_786] Gained Red Keycard
+[2019.02.08-15.39.08:311][ 72]LogBlueprintUserMessages: [Blueprint_Keycard_C_787] Gained Red Keycard
+[2019.02.08-15.39.08:322][ 73]LogBlueprintUserMessages: [Blueprint_Keycard_C_788] Gained Red Keycard
+[2019.02.08-15.39.08:333][ 74]LogBlueprintUserMessages: [Blueprint_Keycard_C_789] Gained Red Keycard
+[2019.02.08-15.39.08:344][ 75]LogBlueprintUserMessages: [Blueprint_Keycard_C_790] Gained Red Keycard
+[2019.02.08-15.39.08:354][ 76]LogBlueprintUserMessages: [Blueprint_Keycard_C_791] Gained Red Keycard
+[2019.02.08-15.39.08:365][ 77]LogBlueprintUserMessages: [Blueprint_Keycard_C_792] Gained Red Keycard
+[2019.02.08-15.39.08:376][ 78]LogBlueprintUserMessages: [Blueprint_Keycard_C_793] Gained Red Keycard
+[2019.02.08-15.39.08:388][ 79]LogBlueprintUserMessages: [Blueprint_Keycard_C_794] Gained Red Keycard
+[2019.02.08-15.39.08:399][ 80]LogBlueprintUserMessages: [Blueprint_Keycard_C_795] Gained Red Keycard
+[2019.02.08-15.39.08:410][ 81]LogBlueprintUserMessages: [Blueprint_Keycard_C_796] Gained Red Keycard
+[2019.02.08-15.39.08:421][ 82]LogBlueprintUserMessages: [Blueprint_Keycard_C_797] Gained Red Keycard
+[2019.02.08-15.39.08:432][ 83]LogBlueprintUserMessages: [Blueprint_Keycard_C_798] Gained Red Keycard
+[2019.02.08-15.39.08:443][ 84]LogBlueprintUserMessages: [Blueprint_Keycard_C_799] Gained Red Keycard
+[2019.02.08-15.39.08:454][ 85]LogBlueprintUserMessages: [Blueprint_Keycard_C_800] Gained Red Keycard
+[2019.02.08-15.39.08:465][ 86]LogBlueprintUserMessages: [Blueprint_Keycard_C_801] Gained Red Keycard
+[2019.02.08-15.39.08:476][ 87]LogBlueprintUserMessages: [Blueprint_Keycard_C_802] Gained Red Keycard
+[2019.02.08-15.39.08:487][ 88]LogBlueprintUserMessages: [Blueprint_Keycard_C_803] Gained Red Keycard
+[2019.02.08-15.39.08:498][ 89]LogBlueprintUserMessages: [Blueprint_Keycard_C_804] Gained Red Keycard
+[2019.02.08-15.39.08:509][ 90]LogBlueprintUserMessages: [Blueprint_Keycard_C_805] Gained Red Keycard
+[2019.02.08-15.39.08:520][ 91]LogBlueprintUserMessages: [Blueprint_Keycard_C_806] Gained Red Keycard
+[2019.02.08-15.39.08:532][ 92]LogBlueprintUserMessages: [Blueprint_Keycard_C_807] Gained Red Keycard
+[2019.02.08-15.39.08:543][ 93]LogBlueprintUserMessages: [Blueprint_Keycard_C_808] Gained Red Keycard
+[2019.02.08-15.39.08:554][ 94]LogBlueprintUserMessages: [Blueprint_Keycard_C_809] Gained Red Keycard
+[2019.02.08-15.39.08:566][ 95]LogBlueprintUserMessages: [Blueprint_Keycard_C_810] Gained Red Keycard
+[2019.02.08-15.39.08:577][ 96]LogBlueprintUserMessages: [Blueprint_Keycard_C_811] Gained Red Keycard
+[2019.02.08-15.39.08:588][ 97]LogBlueprintUserMessages: [Blueprint_Keycard_C_812] Gained Red Keycard
+[2019.02.08-15.39.08:599][ 98]LogBlueprintUserMessages: [Blueprint_Keycard_C_813] Gained Red Keycard
+[2019.02.08-15.39.08:610][ 99]LogBlueprintUserMessages: [Blueprint_Keycard_C_814] Gained Red Keycard
+[2019.02.08-15.39.08:621][100]LogBlueprintUserMessages: [Blueprint_Keycard_C_815] Gained Red Keycard
+[2019.02.08-15.39.08:632][101]LogBlueprintUserMessages: [Blueprint_Keycard_C_816] Gained Red Keycard
+[2019.02.08-15.39.08:643][102]LogBlueprintUserMessages: [Blueprint_Keycard_C_817] Gained Red Keycard
+[2019.02.08-15.39.08:654][103]LogBlueprintUserMessages: [Blueprint_Keycard_C_818] Gained Red Keycard
+[2019.02.08-15.39.08:665][104]LogBlueprintUserMessages: [Blueprint_Keycard_C_819] Gained Red Keycard
+[2019.02.08-15.39.08:677][105]LogBlueprintUserMessages: [Blueprint_Keycard_C_820] Gained Red Keycard
+[2019.02.08-15.39.08:688][106]LogBlueprintUserMessages: [Blueprint_Keycard_C_821] Gained Red Keycard
+[2019.02.08-15.39.08:699][107]LogBlueprintUserMessages: [Blueprint_Keycard_C_822] Gained Red Keycard
+[2019.02.08-15.39.08:711][108]LogBlueprintUserMessages: [Blueprint_Keycard_C_823] Gained Red Keycard
+[2019.02.08-15.39.08:721][109]LogBlueprintUserMessages: [Blueprint_Keycard_C_824] Gained Red Keycard
+[2019.02.08-15.39.08:732][110]LogBlueprintUserMessages: [Blueprint_Keycard_C_825] Gained Red Keycard
+[2019.02.08-15.39.08:743][111]LogBlueprintUserMessages: [Blueprint_Keycard_C_826] Gained Red Keycard
+[2019.02.08-15.39.08:754][112]LogBlueprintUserMessages: [Blueprint_Keycard_C_827] Gained Red Keycard
+[2019.02.08-15.39.08:765][113]LogBlueprintUserMessages: [Blueprint_Keycard_C_828] Gained Red Keycard
+[2019.02.08-15.39.08:776][114]LogBlueprintUserMessages: [Blueprint_Keycard_C_829] Gained Red Keycard
+[2019.02.08-15.39.08:788][115]LogBlueprintUserMessages: [Blueprint_Keycard_C_830] Gained Red Keycard
+[2019.02.08-15.39.08:799][116]LogBlueprintUserMessages: [Blueprint_Keycard_C_831] Gained Red Keycard
+[2019.02.08-15.39.08:810][117]LogBlueprintUserMessages: [Blueprint_Keycard_C_832] Gained Red Keycard
+[2019.02.08-15.39.08:822][118]LogBlueprintUserMessages: [Blueprint_Keycard_C_833] Gained Red Keycard
+[2019.02.08-15.39.08:833][119]LogBlueprintUserMessages: [Blueprint_Keycard_C_834] Gained Red Keycard
+[2019.02.08-15.39.08:844][120]LogBlueprintUserMessages: [Blueprint_Keycard_C_835] Gained Red Keycard
+[2019.02.08-15.39.08:855][121]LogBlueprintUserMessages: [Blueprint_Keycard_C_836] Gained Red Keycard
+[2019.02.08-15.39.08:866][122]LogBlueprintUserMessages: [Blueprint_Keycard_C_837] Gained Red Keycard
+[2019.02.08-15.39.08:877][123]LogBlueprintUserMessages: [Blueprint_Keycard_C_838] Gained Red Keycard
+[2019.02.08-15.39.08:888][124]LogBlueprintUserMessages: [Blueprint_Keycard_C_839] Gained Red Keycard
+[2019.02.08-15.39.08:900][125]LogBlueprintUserMessages: [Blueprint_Keycard_C_840] Gained Red Keycard
+[2019.02.08-15.39.08:910][126]LogBlueprintUserMessages: [Blueprint_Keycard_C_841] Gained Red Keycard
+[2019.02.08-15.39.08:921][127]LogBlueprintUserMessages: [Blueprint_Keycard_C_842] Gained Red Keycard
+[2019.02.08-15.39.08:932][128]LogBlueprintUserMessages: [Blueprint_Keycard_C_843] Gained Red Keycard
+[2019.02.08-15.39.08:942][129]LogBlueprintUserMessages: [Blueprint_Keycard_C_844] Gained Red Keycard
+[2019.02.08-15.39.08:954][130]LogBlueprintUserMessages: [Blueprint_Keycard_C_845] Gained Red Keycard
+[2019.02.08-15.39.08:965][131]LogBlueprintUserMessages: [Blueprint_Keycard_C_846] Gained Red Keycard
+[2019.02.08-15.39.08:976][132]LogBlueprintUserMessages: [Blueprint_Keycard_C_847] Gained Red Keycard
+[2019.02.08-15.39.08:987][133]LogBlueprintUserMessages: [Blueprint_Keycard_C_848] Gained Red Keycard
+[2019.02.08-15.39.08:998][134]LogBlueprintUserMessages: [Blueprint_Keycard_C_849] Gained Red Keycard
+[2019.02.08-15.39.09:009][135]LogBlueprintUserMessages: [Blueprint_Keycard_C_850] Gained Red Keycard
+[2019.02.08-15.39.09:020][136]LogBlueprintUserMessages: [Blueprint_Keycard_C_851] Gained Red Keycard
+[2019.02.08-15.39.09:031][137]LogBlueprintUserMessages: [Blueprint_Keycard_C_852] Gained Red Keycard
+[2019.02.08-15.39.09:042][138]LogBlueprintUserMessages: [Blueprint_Keycard_C_853] Gained Red Keycard
+[2019.02.08-15.39.09:053][139]LogBlueprintUserMessages: [Blueprint_Keycard_C_854] Gained Red Keycard
+[2019.02.08-15.39.09:064][140]LogBlueprintUserMessages: [Blueprint_Keycard_C_855] Gained Red Keycard
+[2019.02.08-15.39.09:075][141]LogBlueprintUserMessages: [Blueprint_Keycard_C_856] Gained Red Keycard
+[2019.02.08-15.39.09:086][142]LogBlueprintUserMessages: [Blueprint_Keycard_C_857] Gained Red Keycard
+[2019.02.08-15.39.09:097][143]LogBlueprintUserMessages: [Blueprint_Keycard_C_858] Gained Red Keycard
+[2019.02.08-15.39.09:108][144]LogBlueprintUserMessages: [Blueprint_Keycard_C_859] Gained Red Keycard
+[2019.02.08-15.39.09:119][145]LogBlueprintUserMessages: [Blueprint_Keycard_C_860] Gained Red Keycard
+[2019.02.08-15.39.09:130][146]LogBlueprintUserMessages: [Blueprint_Keycard_C_861] Gained Red Keycard
+[2019.02.08-15.39.09:141][147]LogBlueprintUserMessages: [Blueprint_Keycard_C_862] Gained Red Keycard
+[2019.02.08-15.39.09:152][148]LogBlueprintUserMessages: [Blueprint_Keycard_C_863] Gained Red Keycard
+[2019.02.08-15.39.09:162][149]LogBlueprintUserMessages: [Blueprint_Keycard_C_864] Gained Red Keycard
+[2019.02.08-15.39.09:173][150]LogBlueprintUserMessages: [Blueprint_Keycard_C_865] Gained Red Keycard
+[2019.02.08-15.39.09:185][151]LogBlueprintUserMessages: [Blueprint_Keycard_C_866] Gained Red Keycard
+[2019.02.08-15.39.09:195][152]LogWindows: Windows GetLastError: The operation completed successfully. (0)
